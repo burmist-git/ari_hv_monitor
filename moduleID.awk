@@ -1,0 +1,1 @@
+$1==secID {print $4}

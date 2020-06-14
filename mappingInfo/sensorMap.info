@@ -1,0 +1,2940 @@
+[INFO] Sextant = 1, ring = 1, column = 1
+[INFO] module ID = 1, feb = 154, hapd = KA0430
+[INFO] Hapd Serial = KA0430; HV = -8500; qe400 = 33.8
+[INFO] Hapd Serial = KA0430; chip = A; gain = 167600
+[INFO] Hapd Serial = KA0430; chip = B; gain = 153100
+[INFO] Hapd Serial = KA0430; chip = C; gain = 123900
+[INFO] Hapd Serial = KA0430; chip = D; gain = 174600
+[INFO] Sextant = 1, ring = 1, column = 2
+[INFO] module ID = 2, feb = 279, hapd = ZJ6721
+[INFO] Hapd Serial = ZJ6721; HV = -8500; qe400 = 29.4
+[INFO] Hapd Serial = ZJ6721; chip = A; gain = 112000
+[INFO] Hapd Serial = ZJ6721; chip = B; gain = 81800
+[INFO] Hapd Serial = ZJ6721; chip = C; gain = 91500
+[INFO] Hapd Serial = ZJ6721; chip = D; gain = 118500
+[INFO] Sextant = 1, ring = 1, column = 3
+[INFO] module ID = 3, feb = 221, hapd = KA0793
+[INFO] Hapd Serial = KA0793; HV = -8500; qe400 = 36.5
+[INFO] Hapd Serial = KA0793; chip = A; gain = 119400
+[INFO] Hapd Serial = KA0793; chip = B; gain = 135600
+[INFO] Hapd Serial = KA0793; chip = C; gain = 152600
+[INFO] Hapd Serial = KA0793; chip = D; gain = 104000
+[INFO] Sextant = 1, ring = 1, column = 4
+[INFO] module ID = 4, feb = 378, hapd = KA1043
+[INFO] Hapd Serial = KA1043; HV = -8500; qe400 = 32.3
+[INFO] Hapd Serial = KA1043; chip = A; gain = 126100
+[INFO] Hapd Serial = KA1043; chip = B; gain = 128200
+[INFO] Hapd Serial = KA1043; chip = C; gain = 132700
+[INFO] Hapd Serial = KA1043; chip = D; gain = 111000
+[INFO] Sextant = 1, ring = 1, column = 5
+[INFO] module ID = 5, feb = 280, hapd = ZJ6731
+[INFO] Hapd Serial = ZJ6731; HV = -8500; qe400 = 37.6
+[INFO] Hapd Serial = ZJ6731; chip = A; gain = 118600
+[INFO] Hapd Serial = ZJ6731; chip = B; gain = 160300
+[INFO] Hapd Serial = ZJ6731; chip = C; gain = 144600
+[INFO] Hapd Serial = ZJ6731; chip = D; gain = 108200
+[INFO] Sextant = 1, ring = 1, column = 6
+[INFO] module ID = 6, feb = 45, hapd = KA0520
+[INFO] Hapd Serial = KA0520; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA0520; chip = A; gain = 139900
+[INFO] Hapd Serial = KA0520; chip = B; gain = 104900
+[INFO] Hapd Serial = KA0520; chip = C; gain = 118000
+[INFO] Hapd Serial = KA0520; chip = D; gain = 141300
+[INFO] Sextant = 1, ring = 1, column = 7
+[INFO] module ID = 7, feb = 82, hapd = KA0504
+[INFO] Hapd Serial = KA0504; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA0504; chip = A; gain = 153900
+[INFO] Hapd Serial = KA0504; chip = B; gain = 149400
+[INFO] Hapd Serial = KA0504; chip = C; gain = 120900
+[INFO] Hapd Serial = KA0504; chip = D; gain = 145400
+[INFO] Sextant = 1, ring = 2, column = 1
+[INFO] module ID = 43, feb = 275, hapd = ZJ6726
+[INFO] Hapd Serial = ZJ6726; HV = -8500; qe400 = 37.4
+[INFO] Hapd Serial = ZJ6726; chip = A; gain = 134600
+[INFO] Hapd Serial = ZJ6726; chip = B; gain = 96800
+[INFO] Hapd Serial = ZJ6726; chip = C; gain = 87300
+[INFO] Hapd Serial = ZJ6726; chip = D; gain = 80400
+[INFO] Sextant = 1, ring = 2, column = 2
+[INFO] module ID = 44, feb = 264, hapd = KA0982
+[INFO] Hapd Serial = KA0982; HV = -8500; qe400 = 28
+[INFO] Hapd Serial = KA0982; chip = A; gain = 128900
+[INFO] Hapd Serial = KA0982; chip = B; gain = 146100
+[INFO] Hapd Serial = KA0982; chip = C; gain = 154600
+[INFO] Hapd Serial = KA0982; chip = D; gain = 147400
+[INFO] Sextant = 1, ring = 2, column = 3
+[INFO] module ID = 45, feb = 22, hapd = ZJ5858
+[INFO] Hapd Serial = ZJ5858; HV = -8500; qe400 = 30
+[INFO] Hapd Serial = ZJ5858; chip = A; gain = 154600
+[INFO] Hapd Serial = ZJ5858; chip = B; gain = 139700
+[INFO] Hapd Serial = ZJ5858; chip = C; gain = 138800
+[INFO] Hapd Serial = ZJ5858; chip = D; gain = 164200
+[INFO] Sextant = 1, ring = 2, column = 4
+[INFO] module ID = 46, feb = 437, hapd = KA1121
+[INFO] Hapd Serial = KA1121; HV = -8500; qe400 = 39.5
+[INFO] Hapd Serial = KA1121; chip = A; gain = 138800
+[INFO] Hapd Serial = KA1121; chip = B; gain = 146600
+[INFO] Hapd Serial = KA1121; chip = C; gain = 142400
+[INFO] Hapd Serial = KA1121; chip = D; gain = 137500
+[INFO] Sextant = 1, ring = 2, column = 5
+[INFO] module ID = 47, feb = 23, hapd = ZJ5862
+[INFO] Hapd Serial = ZJ5862; HV = -8500; qe400 = 27.3
+[INFO] Hapd Serial = ZJ5862; chip = A; gain = 149200
+[INFO] Hapd Serial = ZJ5862; chip = B; gain = 145900
+[INFO] Hapd Serial = ZJ5862; chip = C; gain = 161400
+[INFO] Hapd Serial = ZJ5862; chip = D; gain = 134900
+[INFO] Sextant = 1, ring = 2, column = 6
+[INFO] module ID = 48, feb = 156, hapd = KA0467
+[INFO] Hapd Serial = KA0467; HV = -8500; qe400 = 31.5
+[INFO] Hapd Serial = KA0467; chip = A; gain = 141900
+[INFO] Hapd Serial = KA0467; chip = B; gain = 162700
+[INFO] Hapd Serial = KA0467; chip = C; gain = 117400
+[INFO] Hapd Serial = KA0467; chip = D; gain = 122000
+[INFO] Sextant = 1, ring = 2, column = 7
+[INFO] module ID = 49, feb = 216, hapd = KA0696
+[INFO] Hapd Serial = KA0696; HV = -8500; qe400 = 29.8
+[INFO] Hapd Serial = KA0696; chip = A; gain = 142100
+[INFO] Hapd Serial = KA0696; chip = B; gain = 134000
+[INFO] Hapd Serial = KA0696; chip = C; gain = 155200
+[INFO] Hapd Serial = KA0696; chip = D; gain = 132700
+[INFO] Sextant = 1, ring = 2, column = 8
+[INFO] module ID = 50, feb = 63, hapd = KA0888
+[INFO] Hapd Serial = KA0888; HV = -8500; qe400 = 32.8
+[INFO] Hapd Serial = KA0888; chip = A; gain = 141800
+[INFO] Hapd Serial = KA0888; chip = B; gain = 118400
+[INFO] Hapd Serial = KA0888; chip = C; gain = 152100
+[INFO] Hapd Serial = KA0888; chip = D; gain = 132500
+[INFO] Sextant = 1, ring = 3, column = 1
+[INFO] module ID = 91, feb = 355, hapd = KA0848
+[INFO] Hapd Serial = KA0848; HV = -8500; qe400 = 31.3
+[INFO] Hapd Serial = KA0848; chip = A; gain = 148100
+[INFO] Hapd Serial = KA0848; chip = B; gain = 107300
+[INFO] Hapd Serial = KA0848; chip = C; gain = 135300
+[INFO] Hapd Serial = KA0848; chip = D; gain = 132200
+[INFO] Sextant = 1, ring = 3, column = 2
+[INFO] module ID = 92, feb = 303, hapd = ZJ7465
+[INFO] Hapd Serial = ZJ7465; HV = -8500; qe400 = 36.5
+[INFO] Hapd Serial = ZJ7465; chip = A; gain = 126800
+[INFO] Hapd Serial = ZJ7465; chip = B; gain = 136300
+[INFO] Hapd Serial = ZJ7465; chip = C; gain = 132900
+[INFO] Hapd Serial = ZJ7465; chip = D; gain = 131700
+[INFO] Sextant = 1, ring = 3, column = 3
+[INFO] module ID = 93, feb = 389, hapd = KA1034
+[INFO] Hapd Serial = KA1034; HV = -8500; qe400 = 32.3
+[INFO] Hapd Serial = KA1034; chip = A; gain = 129200
+[INFO] Hapd Serial = KA1034; chip = B; gain = 146800
+[INFO] Hapd Serial = KA1034; chip = C; gain = 131300
+[INFO] Hapd Serial = KA1034; chip = D; gain = 140300
+[INFO] Sextant = 1, ring = 3, column = 4
+[INFO] module ID = 94, feb = 259, hapd = KA0987
+[INFO] Hapd Serial = KA0987; HV = -8500; qe400 = 30.3
+[INFO] Hapd Serial = KA0987; chip = A; gain = 119200
+[INFO] Hapd Serial = KA0987; chip = B; gain = 118000
+[INFO] Hapd Serial = KA0987; chip = C; gain = 108600
+[INFO] Hapd Serial = KA0987; chip = D; gain = 87400
+[INFO] Sextant = 1, ring = 3, column = 5
+[INFO] module ID = 95, feb = 134, hapd = KA0309
+[INFO] Hapd Serial = KA0309; HV = -8500; qe400 = 35.4
+[INFO] Hapd Serial = KA0309; chip = A; gain = 132500
+[INFO] Hapd Serial = KA0309; chip = B; gain = 135100
+[INFO] Hapd Serial = KA0309; chip = C; gain = 136900
+[INFO] Hapd Serial = KA0309; chip = D; gain = 155200
+[INFO] Sextant = 1, ring = 3, column = 6
+[INFO] module ID = 96, feb = 350, hapd = KA0840
+[INFO] Hapd Serial = KA0840; HV = -8500; qe400 = 34
+[INFO] Hapd Serial = KA0840; chip = A; gain = 143000
+[INFO] Hapd Serial = KA0840; chip = B; gain = 121400
+[INFO] Hapd Serial = KA0840; chip = C; gain = 103900
+[INFO] Hapd Serial = KA0840; chip = D; gain = 140300
+[INFO] Sextant = 1, ring = 3, column = 7
+[INFO] module ID = 97, feb = 152, hapd = KA0447
+[INFO] Hapd Serial = KA0447; HV = -8500; qe400 = 31.2
+[INFO] Hapd Serial = KA0447; chip = A; gain = 149000
+[INFO] Hapd Serial = KA0447; chip = B; gain = 146700
+[INFO] Hapd Serial = KA0447; chip = C; gain = 112000
+[INFO] Hapd Serial = KA0447; chip = D; gain = 167600
+[INFO] Sextant = 1, ring = 3, column = 8
+[INFO] module ID = 98, feb = 118, hapd = KA0203
+[INFO] Hapd Serial = KA0203; HV = -8500; qe400 = 32.2
+[INFO] Hapd Serial = KA0203; chip = A; gain = 138700
+[INFO] Hapd Serial = KA0203; chip = B; gain = 95500
+[INFO] Hapd Serial = KA0203; chip = C; gain = 158700
+[INFO] Hapd Serial = KA0203; chip = D; gain = 125000
+[INFO] Sextant = 1, ring = 3, column = 9
+[INFO] module ID = 99, feb = 242, hapd = KA0667
+[INFO] Hapd Serial = KA0667; HV = -8500; qe400 = 26.9
+[INFO] Hapd Serial = KA0667; chip = A; gain = 86100
+[INFO] Hapd Serial = KA0667; chip = B; gain = 103200
+[INFO] Hapd Serial = KA0667; chip = C; gain = 85600
+[INFO] Hapd Serial = KA0667; chip = D; gain = 93800
+[INFO] Sextant = 1, ring = 4, column = 1
+[INFO] module ID = 145, feb = 262, hapd = KA0976
+[INFO] Hapd Serial = KA0976; HV = -8500; qe400 = 35.2
+[INFO] Hapd Serial = KA0976; chip = A; gain = 87300
+[INFO] Hapd Serial = KA0976; chip = B; gain = 147300
+[INFO] Hapd Serial = KA0976; chip = C; gain = 139000
+[INFO] Hapd Serial = KA0976; chip = D; gain = 138900
+[INFO] Sextant = 1, ring = 4, column = 2
+[INFO] module ID = 146, feb = 395, hapd = KA1025
+[INFO] Hapd Serial = KA1025; HV = -8500; qe400 = 35.8
+[INFO] Hapd Serial = KA1025; chip = A; gain = 86300
+[INFO] Hapd Serial = KA1025; chip = B; gain = 144800
+[INFO] Hapd Serial = KA1025; chip = C; gain = 131300
+[INFO] Hapd Serial = KA1025; chip = D; gain = 145800
+[INFO] Sextant = 1, ring = 4, column = 3
+[INFO] module ID = 147, feb = 21, hapd = ZJ5859
+[INFO] Hapd Serial = ZJ5859; HV = -8500; qe400 = 29.9
+[INFO] Hapd Serial = ZJ5859; chip = A; gain = 167100
+[INFO] Hapd Serial = ZJ5859; chip = B; gain = 132700
+[INFO] Hapd Serial = ZJ5859; chip = C; gain = 144600
+[INFO] Hapd Serial = ZJ5859; chip = D; gain = 138900
+[INFO] Sextant = 1, ring = 4, column = 4
+[INFO] module ID = 148, feb = 195, hapd = KA0984
+[INFO] Hapd Serial = KA0984; HV = -8500; qe400 = 26.7
+[INFO] Hapd Serial = KA0984; chip = A; gain = 118400
+[INFO] Hapd Serial = KA0984; chip = B; gain = 134300
+[INFO] Hapd Serial = KA0984; chip = C; gain = 151700
+[INFO] Hapd Serial = KA0984; chip = D; gain = 116500
+[INFO] Sextant = 1, ring = 4, column = 5
+[INFO] module ID = 149, feb = 406, hapd = KA1068
+[INFO] Hapd Serial = KA1068; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA1068; chip = A; gain = 133900
+[INFO] Hapd Serial = KA1068; chip = B; gain = 124100
+[INFO] Hapd Serial = KA1068; chip = C; gain = 112000
+[INFO] Hapd Serial = KA1068; chip = D; gain = 150300
+[INFO] Sextant = 1, ring = 4, column = 6
+[INFO] module ID = 150, feb = 420, hapd = KA0930
+[INFO] Hapd Serial = KA0930; HV = -8500; qe400 = 32.8
+[INFO] Hapd Serial = KA0930; chip = A; gain = 137800
+[INFO] Hapd Serial = KA0930; chip = B; gain = 104600
+[INFO] Hapd Serial = KA0930; chip = C; gain = 134400
+[INFO] Hapd Serial = KA0930; chip = D; gain = 104900
+[INFO] Sextant = 1, ring = 4, column = 7
+[INFO] module ID = 151, feb = 429, hapd = KA1096
+[INFO] Hapd Serial = KA1096; HV = -8500; qe400 = 32.6
+[INFO] Hapd Serial = KA1096; chip = A; gain = 163100
+[INFO] Hapd Serial = KA1096; chip = B; gain = 130400
+[INFO] Hapd Serial = KA1096; chip = C; gain = 150200
+[INFO] Hapd Serial = KA1096; chip = D; gain = 143000
+[INFO] Sextant = 1, ring = 4, column = 8
+[INFO] module ID = 152, feb = 210, hapd = KA0785
+[INFO] Hapd Serial = KA0785; HV = -8500; qe400 = 36.5
+[INFO] Hapd Serial = KA0785; chip = A; gain = 155200
+[INFO] Hapd Serial = KA0785; chip = B; gain = 127900
+[INFO] Hapd Serial = KA0785; chip = C; gain = 150600
+[INFO] Hapd Serial = KA0785; chip = D; gain = 158200
+[INFO] Sextant = 1, ring = 4, column = 9
+[INFO] module ID = 153, feb = 327, hapd = ZJ7888
+[INFO] Hapd Serial = ZJ7888; HV = -8500; qe400 = 30.9
+[INFO] Hapd Serial = ZJ7888; chip = A; gain = 147700
+[INFO] Hapd Serial = ZJ7888; chip = B; gain = 135100
+[INFO] Hapd Serial = ZJ7888; chip = C; gain = 117600
+[INFO] Hapd Serial = ZJ7888; chip = D; gain = 104500
+[INFO] Sextant = 1, ring = 4, column = 10
+[INFO] module ID = 154, feb = 308, hapd = ZJ7464
+[INFO] Hapd Serial = ZJ7464; HV = -8500; qe400 = 34.6
+[INFO] Hapd Serial = ZJ7464; chip = A; gain = 123000
+[INFO] Hapd Serial = ZJ7464; chip = B; gain = 121400
+[INFO] Hapd Serial = ZJ7464; chip = C; gain = 132800
+[INFO] Hapd Serial = ZJ7464; chip = D; gain = 127600
+[INFO] Sextant = 1, ring = 5, column = 1
+[INFO] module ID = 205, feb = 377, hapd = KA1082
+[INFO] Hapd Serial = KA1082; HV = -8500; qe400 = 37.3
+[INFO] Hapd Serial = KA1082; chip = A; gain = 158600
+[INFO] Hapd Serial = KA1082; chip = B; gain = 149500
+[INFO] Hapd Serial = KA1082; chip = C; gain = 148800
+[INFO] Hapd Serial = KA1082; chip = D; gain = 114800
+[INFO] Sextant = 1, ring = 5, column = 2
+[INFO] module ID = 206, feb = 202, hapd = KA0946
+[INFO] Hapd Serial = KA0946; HV = -8500; qe400 = 34.1
+[INFO] Hapd Serial = KA0946; chip = A; gain = 143000
+[INFO] Hapd Serial = KA0946; chip = B; gain = 143800
+[INFO] Hapd Serial = KA0946; chip = C; gain = 148500
+[INFO] Hapd Serial = KA0946; chip = D; gain = 150500
+[INFO] Sextant = 1, ring = 5, column = 3
+[INFO] module ID = 207, feb = 358, hapd = KA0874
+[INFO] Hapd Serial = KA0874; HV = -8500; qe400 = 29.8
+[INFO] Hapd Serial = KA0874; chip = A; gain = 115000
+[INFO] Hapd Serial = KA0874; chip = B; gain = 111100
+[INFO] Hapd Serial = KA0874; chip = C; gain = 128800
+[INFO] Hapd Serial = KA0874; chip = D; gain = 143600
+[INFO] Sextant = 1, ring = 5, column = 4
+[INFO] module ID = 208, feb = 31, hapd = KA0409
+[INFO] Hapd Serial = KA0409; HV = -8500; qe400 = 31.2
+[INFO] Hapd Serial = KA0409; chip = A; gain = 154700
+[INFO] Hapd Serial = KA0409; chip = B; gain = 158800
+[INFO] Hapd Serial = KA0409; chip = C; gain = 181800
+[INFO] Hapd Serial = KA0409; chip = D; gain = 156900
+[INFO] Sextant = 1, ring = 5, column = 5
+[INFO] module ID = 209, feb = 365, hapd = KA0825
+[INFO] Hapd Serial = KA0825; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA0825; chip = A; gain = 150700
+[INFO] Hapd Serial = KA0825; chip = B; gain = 107000
+[INFO] Hapd Serial = KA0825; chip = C; gain = 137500
+[INFO] Hapd Serial = KA0825; chip = D; gain = 153400
+[INFO] Sextant = 1, ring = 5, column = 6
+[INFO] module ID = 210, feb = 274, hapd = ZJ5872
+[INFO] Hapd Serial = ZJ5872; HV = -8500; qe400 = 31.6
+[INFO] Hapd Serial = ZJ5872; chip = A; gain = 135800
+[INFO] Hapd Serial = ZJ5872; chip = B; gain = 145900
+[INFO] Hapd Serial = ZJ5872; chip = C; gain = 159000
+[INFO] Hapd Serial = ZJ5872; chip = D; gain = 164300
+[INFO] Sextant = 1, ring = 5, column = 7
+[INFO] module ID = 211, feb = 174, hapd = KA0589
+[INFO] Hapd Serial = KA0589; HV = -8500; qe400 = 37.8
+[INFO] Hapd Serial = KA0589; chip = A; gain = 138100
+[INFO] Hapd Serial = KA0589; chip = B; gain = 112900
+[INFO] Hapd Serial = KA0589; chip = C; gain = 154800
+[INFO] Hapd Serial = KA0589; chip = D; gain = 125500
+[INFO] Sextant = 1, ring = 5, column = 8
+[INFO] module ID = 212, feb = 166, hapd = KA0536
+[INFO] Hapd Serial = KA0536; HV = -8500; qe400 = 36.1
+[INFO] Hapd Serial = KA0536; chip = A; gain = 134100
+[INFO] Hapd Serial = KA0536; chip = B; gain = 108100
+[INFO] Hapd Serial = KA0536; chip = C; gain = 120400
+[INFO] Hapd Serial = KA0536; chip = D; gain = 128600
+[INFO] Sextant = 1, ring = 5, column = 9
+[INFO] module ID = 213, feb = 381, hapd = KA1094
+[INFO] Hapd Serial = KA1094; HV = -8500; qe400 = 32
+[INFO] Hapd Serial = KA1094; chip = A; gain = 119800
+[INFO] Hapd Serial = KA1094; chip = B; gain = 132600
+[INFO] Hapd Serial = KA1094; chip = C; gain = 91800
+[INFO] Hapd Serial = KA1094; chip = D; gain = 120400
+[INFO] Sextant = 1, ring = 5, column = 10
+[INFO] module ID = 214, feb = 405, hapd = KA1024
+[INFO] Hapd Serial = KA1024; HV = -8500; qe400 = 35.6
+[INFO] Hapd Serial = KA1024; chip = A; gain = 141800
+[INFO] Hapd Serial = KA1024; chip = B; gain = 110700
+[INFO] Hapd Serial = KA1024; chip = C; gain = 91100
+[INFO] Hapd Serial = KA1024; chip = D; gain = 132800
+[INFO] Sextant = 1, ring = 5, column = 11
+[INFO] module ID = 215, feb = 146, hapd = KA0466
+[INFO] Hapd Serial = KA0466; HV = -8500; qe400 = 27.7
+[INFO] Hapd Serial = KA0466; chip = A; gain = 107500
+[INFO] Hapd Serial = KA0466; chip = B; gain = 131100
+[INFO] Hapd Serial = KA0466; chip = C; gain = 114000
+[INFO] Hapd Serial = KA0466; chip = D; gain = 141100
+[INFO] Sextant = 1, ring = 6, column = 1
+[INFO] module ID = 271, feb = 205, hapd = KA0981
+[INFO] Hapd Serial = KA0981; HV = -8500; qe400 = 29.9
+[INFO] Hapd Serial = KA0981; chip = A; gain = 128700
+[INFO] Hapd Serial = KA0981; chip = B; gain = 108400
+[INFO] Hapd Serial = KA0981; chip = C; gain = 142900
+[INFO] Hapd Serial = KA0981; chip = D; gain = 121700
+[INFO] Sextant = 1, ring = 6, column = 2
+[INFO] module ID = 272, feb = 158, hapd = ZJ5908
+[INFO] Hapd Serial = ZJ5908; HV = -8500; qe400 = 33.5
+[INFO] Hapd Serial = ZJ5908; chip = A; gain = 154200
+[INFO] Hapd Serial = ZJ5908; chip = B; gain = 117700
+[INFO] Hapd Serial = ZJ5908; chip = C; gain = 165800
+[INFO] Hapd Serial = ZJ5908; chip = D; gain = 163600
+[INFO] Sextant = 1, ring = 6, column = 3
+[INFO] module ID = 273, feb = 269, hapd = KA0958
+[INFO] Hapd Serial = KA0958; HV = -8500; qe400 = 26.2
+[INFO] Hapd Serial = KA0958; chip = A; gain = 116400
+[INFO] Hapd Serial = KA0958; chip = B; gain = 90000
+[INFO] Hapd Serial = KA0958; chip = C; gain = 84000
+[INFO] Hapd Serial = KA0958; chip = D; gain = 111900
+[INFO] Sextant = 1, ring = 6, column = 4
+[INFO] module ID = 274, feb = 135, hapd = KA0316
+[INFO] Hapd Serial = KA0316; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA0316; chip = A; gain = 133600
+[INFO] Hapd Serial = KA0316; chip = B; gain = 137500
+[INFO] Hapd Serial = KA0316; chip = C; gain = 132800
+[INFO] Hapd Serial = KA0316; chip = D; gain = 129600
+[INFO] Sextant = 1, ring = 6, column = 5
+[INFO] module ID = 275, feb = 401, hapd = KA1099
+[INFO] Hapd Serial = KA1099; HV = -8500; qe400 = 33.1
+[INFO] Hapd Serial = KA1099; chip = A; gain = 129800
+[INFO] Hapd Serial = KA1099; chip = B; gain = 154500
+[INFO] Hapd Serial = KA1099; chip = C; gain = 119600
+[INFO] Hapd Serial = KA1099; chip = D; gain = 115200
+[INFO] Sextant = 1, ring = 6, column = 6
+[INFO] module ID = 276, feb = 315, hapd = ZJ7886
+[INFO] Hapd Serial = ZJ7886; HV = -8500; qe400 = 27.2
+[INFO] Hapd Serial = ZJ7886; chip = A; gain = 101000
+[INFO] Hapd Serial = ZJ7886; chip = B; gain = 125000
+[INFO] Hapd Serial = ZJ7886; chip = C; gain = 130800
+[INFO] Hapd Serial = ZJ7886; chip = D; gain = 123200
+[INFO] Sextant = 1, ring = 6, column = 7
+[INFO] module ID = 277, feb = 54, hapd = KA0307
+[INFO] Hapd Serial = KA0307; HV = -8500; qe400 = 36.8
+[INFO] Hapd Serial = KA0307; chip = A; gain = 142000
+[INFO] Hapd Serial = KA0307; chip = B; gain = 157800
+[INFO] Hapd Serial = KA0307; chip = C; gain = 136200
+[INFO] Hapd Serial = KA0307; chip = D; gain = 140900
+[INFO] Sextant = 1, ring = 6, column = 8
+[INFO] module ID = 278, feb = 341, hapd = KA0864
+[INFO] Hapd Serial = KA0864; HV = -8500; qe400 = 34.4
+[INFO] Hapd Serial = KA0864; chip = A; gain = 126300
+[INFO] Hapd Serial = KA0864; chip = B; gain = 119500
+[INFO] Hapd Serial = KA0864; chip = C; gain = 139900
+[INFO] Hapd Serial = KA0864; chip = D; gain = 146200
+[INFO] Sextant = 1, ring = 6, column = 9
+[INFO] module ID = 279, feb = 227, hapd = KA0773
+[INFO] Hapd Serial = KA0773; HV = -8500; qe400 = 34.5
+[INFO] Hapd Serial = KA0773; chip = A; gain = 145500
+[INFO] Hapd Serial = KA0773; chip = B; gain = 140000
+[INFO] Hapd Serial = KA0773; chip = C; gain = 130400
+[INFO] Hapd Serial = KA0773; chip = D; gain = 146800
+[INFO] Sextant = 1, ring = 6, column = 10
+[INFO] module ID = 280, feb = 376, hapd = KA1047
+[INFO] Hapd Serial = KA1047; HV = -8500; qe400 = 30.4
+[INFO] Hapd Serial = KA1047; chip = A; gain = 157200
+[INFO] Hapd Serial = KA1047; chip = B; gain = 150500
+[INFO] Hapd Serial = KA1047; chip = C; gain = 156800
+[INFO] Hapd Serial = KA1047; chip = D; gain = 146300
+[INFO] Sextant = 1, ring = 6, column = 11
+[INFO] module ID = 281, feb = 336, hapd = KA0841
+[INFO] Hapd Serial = KA0841; HV = -8500; qe400 = 30.3
+[INFO] Hapd Serial = KA0841; chip = A; gain = 125000
+[INFO] Hapd Serial = KA0841; chip = B; gain = 137200
+[INFO] Hapd Serial = KA0841; chip = C; gain = 126600
+[INFO] Hapd Serial = KA0841; chip = D; gain = 131700
+[INFO] Sextant = 1, ring = 6, column = 12
+[INFO] module ID = 282, feb = 368, hapd = KA0843
+[INFO] Hapd Serial = KA0843; HV = -8500; qe400 = 35.4
+[INFO] Hapd Serial = KA0843; chip = A; gain = 125700
+[INFO] Hapd Serial = KA0843; chip = B; gain = 142100
+[INFO] Hapd Serial = KA0843; chip = C; gain = 145000
+[INFO] Hapd Serial = KA0843; chip = D; gain = 144100
+[INFO] Sextant = 1, ring = 7, column = 1
+[INFO] module ID = 343, feb = 191, hapd = KA0570
+[INFO] Hapd Serial = KA0570; HV = -8500; qe400 = 35.9
+[INFO] Hapd Serial = KA0570; chip = A; gain = 113200
+[INFO] Hapd Serial = KA0570; chip = B; gain = 95800
+[INFO] Hapd Serial = KA0570; chip = C; gain = 82300
+[INFO] Hapd Serial = KA0570; chip = D; gain = 97200
+[INFO] Sextant = 1, ring = 7, column = 2
+[INFO] module ID = 344, feb = 392, hapd = KA1049
+[INFO] Hapd Serial = KA1049; HV = -8500; qe400 = 37.4
+[INFO] Hapd Serial = KA1049; chip = A; gain = 141900
+[INFO] Hapd Serial = KA1049; chip = B; gain = 154400
+[INFO] Hapd Serial = KA1049; chip = C; gain = 149900
+[INFO] Hapd Serial = KA1049; chip = D; gain = 97200
+[INFO] Sextant = 1, ring = 7, column = 3
+[INFO] module ID = 345, feb = 126, hapd = KA0247
+[INFO] Hapd Serial = KA0247; HV = -8500; qe400 = 30.6
+[INFO] Hapd Serial = KA0247; chip = A; gain = 156800
+[INFO] Hapd Serial = KA0247; chip = B; gain = 149400
+[INFO] Hapd Serial = KA0247; chip = C; gain = 157900
+[INFO] Hapd Serial = KA0247; chip = D; gain = 166100
+[INFO] Sextant = 1, ring = 7, column = 4
+[INFO] module ID = 346, feb = 124, hapd = ZJ6748
+[INFO] Hapd Serial = ZJ6748; HV = -8500; qe400 = 32.6
+[INFO] Hapd Serial = ZJ6748; chip = A; gain = 135800
+[INFO] Hapd Serial = ZJ6748; chip = B; gain = 147000
+[INFO] Hapd Serial = ZJ6748; chip = C; gain = 123500
+[INFO] Hapd Serial = ZJ6748; chip = D; gain = 125600
+[INFO] Sextant = 1, ring = 7, column = 5
+[INFO] module ID = 347, feb = 110, hapd = ZJ7134
+[INFO] Hapd Serial = ZJ7134; HV = -8500; qe400 = 30
+[INFO] Hapd Serial = ZJ7134; chip = A; gain = 126000
+[INFO] Hapd Serial = ZJ7134; chip = B; gain = 97600
+[INFO] Hapd Serial = ZJ7134; chip = C; gain = 131300
+[INFO] Hapd Serial = ZJ7134; chip = D; gain = 111500
+[INFO] Sextant = 1, ring = 7, column = 6
+[INFO] module ID = 348, feb = 61, hapd = KA0881
+[INFO] Hapd Serial = KA0881; HV = -8500; qe400 = 32.7
+[INFO] Hapd Serial = KA0881; chip = A; gain = 124600
+[INFO] Hapd Serial = KA0881; chip = B; gain = 93300
+[INFO] Hapd Serial = KA0881; chip = C; gain = 137900
+[INFO] Hapd Serial = KA0881; chip = D; gain = 92200
+[INFO] Sextant = 1, ring = 7, column = 7
+[INFO] module ID = 349, feb = 37, hapd = ZJ5316
+[INFO] Hapd Serial = ZJ5316; HV = -8500; qe400 = 27.3
+[INFO] Hapd Serial = ZJ5316; chip = A; gain = 159500
+[INFO] Hapd Serial = ZJ5316; chip = B; gain = 146600
+[INFO] Hapd Serial = ZJ5316; chip = C; gain = 161100
+[INFO] Hapd Serial = ZJ5316; chip = D; gain = 107400
+[INFO] Sextant = 1, ring = 7, column = 8
+[INFO] module ID = 350, feb = 445, hapd = KA1135
+[INFO] Hapd Serial = KA1135; HV = -8500; qe400 = 37.1
+[INFO] Hapd Serial = KA1135; chip = A; gain = 138200
+[INFO] Hapd Serial = KA1135; chip = B; gain = 146100
+[INFO] Hapd Serial = KA1135; chip = C; gain = 136200
+[INFO] Hapd Serial = KA1135; chip = D; gain = 139400
+[INFO] Sextant = 1, ring = 7, column = 9
+[INFO] module ID = 351, feb = 359, hapd = KA0878
+[INFO] Hapd Serial = KA0878; HV = -8500; qe400 = 32.6
+[INFO] Hapd Serial = KA0878; chip = A; gain = 102300
+[INFO] Hapd Serial = KA0878; chip = B; gain = 131700
+[INFO] Hapd Serial = KA0878; chip = C; gain = 135600
+[INFO] Hapd Serial = KA0878; chip = D; gain = 102200
+[INFO] Sextant = 1, ring = 7, column = 10
+[INFO] module ID = 352, feb = 186, hapd = KA0510
+[INFO] Hapd Serial = KA0510; HV = -8500; qe400 = 26.4
+[INFO] Hapd Serial = KA0510; chip = A; gain = 132600
+[INFO] Hapd Serial = KA0510; chip = B; gain = 131700
+[INFO] Hapd Serial = KA0510; chip = C; gain = 169400
+[INFO] Hapd Serial = KA0510; chip = D; gain = 115000
+[INFO] Sextant = 1, ring = 7, column = 11
+[INFO] module ID = 353, feb = 223, hapd = KA0799
+[INFO] Hapd Serial = KA0799; HV = -8500; qe400 = 33.4
+[INFO] Hapd Serial = KA0799; chip = A; gain = 122400
+[INFO] Hapd Serial = KA0799; chip = B; gain = 131800
+[INFO] Hapd Serial = KA0799; chip = C; gain = 125700
+[INFO] Hapd Serial = KA0799; chip = D; gain = 139900
+[INFO] Sextant = 1, ring = 7, column = 12
+[INFO] module ID = 354, feb = 419, hapd = KA0929
+[INFO] Hapd Serial = KA0929; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA0929; chip = A; gain = 129500
+[INFO] Hapd Serial = KA0929; chip = B; gain = 95500
+[INFO] Hapd Serial = KA0929; chip = C; gain = 107600
+[INFO] Hapd Serial = KA0929; chip = D; gain = 84800
+[INFO] Sextant = 1, ring = 7, column = 13
+[INFO] module ID = 355, feb = 340, hapd = KA0897
+[INFO] Hapd Serial = KA0897; HV = -8500; qe400 = 28.9
+[INFO] Hapd Serial = KA0897; chip = A; gain = 136300
+[INFO] Hapd Serial = KA0897; chip = B; gain = 150900
+[INFO] Hapd Serial = KA0897; chip = C; gain = 123000
+[INFO] Hapd Serial = KA0897; chip = D; gain = 133200
+[INFO] Sextant = 4, ring = 1, column = 1
+[INFO] module ID = 22, feb = 188, hapd = KA0503
+[INFO] Hapd Serial = KA0503; HV = -8500; qe400 = 34.8
+[INFO] Hapd Serial = KA0503; chip = A; gain = 124300
+[INFO] Hapd Serial = KA0503; chip = B; gain = 127900
+[INFO] Hapd Serial = KA0503; chip = C; gain = 119900
+[INFO] Hapd Serial = KA0503; chip = D; gain = 144500
+[INFO] Sextant = 4, ring = 1, column = 2
+[INFO] module ID = 23, feb = 133, hapd = KA0295
+[INFO] Hapd Serial = KA0295; HV = -8500; qe400 = 35.2
+[INFO] Hapd Serial = KA0295; chip = A; gain = 146200
+[INFO] Hapd Serial = KA0295; chip = B; gain = 118400
+[INFO] Hapd Serial = KA0295; chip = C; gain = 165800
+[INFO] Hapd Serial = KA0295; chip = D; gain = 149300
+[INFO] Sextant = 4, ring = 1, column = 3
+[INFO] module ID = 24, feb = 123, hapd = KA0250
+[INFO] Hapd Serial = KA0250; HV = -8500; qe400 = 25.9
+[INFO] Hapd Serial = KA0250; chip = A; gain = 151300
+[INFO] Hapd Serial = KA0250; chip = B; gain = 146700
+[INFO] Hapd Serial = KA0250; chip = C; gain = 122300
+[INFO] Hapd Serial = KA0250; chip = D; gain = 146400
+[INFO] Sextant = 4, ring = 1, column = 4
+[INFO] module ID = 25, feb = 170, hapd = KA0465
+[INFO] Hapd Serial = KA0465; HV = -8500; qe400 = 29.4
+[INFO] Hapd Serial = KA0465; chip = A; gain = 143800
+[INFO] Hapd Serial = KA0465; chip = B; gain = 108600
+[INFO] Hapd Serial = KA0465; chip = C; gain = 125300
+[INFO] Hapd Serial = KA0465; chip = D; gain = 138900
+[INFO] Sextant = 4, ring = 1, column = 5
+[INFO] module ID = 26, feb = 258, hapd = KA0968
+[INFO] Hapd Serial = KA0968; HV = -8500; qe400 = 25.7
+[INFO] Hapd Serial = KA0968; chip = A; gain = 124800
+[INFO] Hapd Serial = KA0968; chip = B; gain = 133000
+[INFO] Hapd Serial = KA0968; chip = C; gain = 127200
+[INFO] Hapd Serial = KA0968; chip = D; gain = 142100
+[INFO] Sextant = 4, ring = 1, column = 6
+[INFO] module ID = 27, feb = 391, hapd = KA1041
+[INFO] Hapd Serial = KA1041; HV = -8500; qe400 = 35.4
+[INFO] Hapd Serial = KA1041; chip = A; gain = 141700
+[INFO] Hapd Serial = KA1041; chip = B; gain = 125500
+[INFO] Hapd Serial = KA1041; chip = C; gain = 89700
+[INFO] Hapd Serial = KA1041; chip = D; gain = 146000
+[INFO] Sextant = 4, ring = 1, column = 7
+[INFO] module ID = 28, feb = 142, hapd = KA0413
+[INFO] Hapd Serial = KA0413; HV = -8500; qe400 = 31.7
+[INFO] Hapd Serial = KA0413; chip = A; gain = 172000
+[INFO] Hapd Serial = KA0413; chip = B; gain = 154400
+[INFO] Hapd Serial = KA0413; chip = C; gain = 158200
+[INFO] Hapd Serial = KA0413; chip = D; gain = 131200
+[INFO] Sextant = 4, ring = 2, column = 1
+[INFO] module ID = 67, feb = 255, hapd = KA0973
+[INFO] Hapd Serial = KA0973; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA0973; chip = A; gain = 148100
+[INFO] Hapd Serial = KA0973; chip = B; gain = 83200
+[INFO] Hapd Serial = KA0973; chip = C; gain = 124900
+[INFO] Hapd Serial = KA0973; chip = D; gain = 117100
+[INFO] Sextant = 4, ring = 2, column = 2
+[INFO] module ID = 68, feb = 323, hapd = ZJ7891
+[INFO] Hapd Serial = ZJ7891; HV = -8500; qe400 = 32.9
+[INFO] Hapd Serial = ZJ7891; chip = A; gain = 85700
+[INFO] Hapd Serial = ZJ7891; chip = B; gain = 97200
+[INFO] Hapd Serial = ZJ7891; chip = C; gain = 114900
+[INFO] Hapd Serial = ZJ7891; chip = D; gain = 110900
+[INFO] Sextant = 4, ring = 2, column = 3
+[INFO] module ID = 69, feb = 137, hapd = KA0312
+[INFO] Hapd Serial = KA0312; HV = -8500; qe400 = 25.2
+[INFO] Hapd Serial = KA0312; chip = A; gain = 153400
+[INFO] Hapd Serial = KA0312; chip = B; gain = 174600
+[INFO] Hapd Serial = KA0312; chip = C; gain = 154400
+[INFO] Hapd Serial = KA0312; chip = D; gain = 134100
+[INFO] Sextant = 4, ring = 2, column = 4
+[INFO] module ID = 70, feb = 343, hapd = KA0868
+[INFO] Hapd Serial = KA0868; HV = -8500; qe400 = 31.9
+[INFO] Hapd Serial = KA0868; chip = A; gain = 153200
+[INFO] Hapd Serial = KA0868; chip = B; gain = 146200
+[INFO] Hapd Serial = KA0868; chip = C; gain = 147300
+[INFO] Hapd Serial = KA0868; chip = D; gain = 153900
+[INFO] Sextant = 4, ring = 2, column = 5
+[INFO] module ID = 71, feb = 424, hapd = KA0443
+[INFO] Hapd Serial = KA0443; HV = -8500; qe400 = 30.5
+[INFO] Hapd Serial = KA0443; chip = A; gain = 139500
+[INFO] Hapd Serial = KA0443; chip = B; gain = 116800
+[INFO] Hapd Serial = KA0443; chip = C; gain = 150400
+[INFO] Hapd Serial = KA0443; chip = D; gain = 79100
+[INFO] Sextant = 4, ring = 2, column = 6
+[INFO] module ID = 72, feb = 214, hapd = KA0763
+[INFO] Hapd Serial = KA0763; HV = -8500; qe400 = 28
+[INFO] Hapd Serial = KA0763; chip = A; gain = 96200
+[INFO] Hapd Serial = KA0763; chip = B; gain = 117600
+[INFO] Hapd Serial = KA0763; chip = C; gain = 130700
+[INFO] Hapd Serial = KA0763; chip = D; gain = 103000
+[INFO] Sextant = 4, ring = 2, column = 7
+[INFO] module ID = 73, feb = 208, hapd = KA0727
+[INFO] Hapd Serial = KA0727; HV = -8500; qe400 = 36
+[INFO] Hapd Serial = KA0727; chip = A; gain = 136100
+[INFO] Hapd Serial = KA0727; chip = B; gain = 114200
+[INFO] Hapd Serial = KA0727; chip = C; gain = 117100
+[INFO] Hapd Serial = KA0727; chip = D; gain = 135700
+[INFO] Sextant = 4, ring = 2, column = 8
+[INFO] module ID = 74, feb = 270, hapd = KA0974
+[INFO] Hapd Serial = KA0974; HV = -8500; qe400 = 35.1
+[INFO] Hapd Serial = KA0974; chip = A; gain = 112100
+[INFO] Hapd Serial = KA0974; chip = B; gain = 105700
+[INFO] Hapd Serial = KA0974; chip = C; gain = 122000
+[INFO] Hapd Serial = KA0974; chip = D; gain = 108000
+[INFO] Sextant = 4, ring = 3, column = 1
+[INFO] module ID = 118, feb = 193, hapd = KA0617
+[INFO] Hapd Serial = KA0617; HV = -8500; qe400 = 36.9
+[INFO] Hapd Serial = KA0617; chip = A; gain = 134300
+[INFO] Hapd Serial = KA0617; chip = B; gain = 163600
+[INFO] Hapd Serial = KA0617; chip = C; gain = 89900
+[INFO] Hapd Serial = KA0617; chip = D; gain = 122400
+[INFO] Sextant = 4, ring = 3, column = 2
+[INFO] module ID = 119, feb = 51, hapd = KA0683
+[INFO] Hapd Serial = KA0683; HV = -8500; qe400 = 33.7
+[INFO] Hapd Serial = KA0683; chip = A; gain = 121300
+[INFO] Hapd Serial = KA0683; chip = B; gain = 92800
+[INFO] Hapd Serial = KA0683; chip = C; gain = 92600
+[INFO] Hapd Serial = KA0683; chip = D; gain = 108600
+[INFO] Sextant = 4, ring = 3, column = 3
+[INFO] module ID = 120, feb = 321, hapd = ZJ7831
+[INFO] Hapd Serial = ZJ7831; HV = -8500; qe400 = 30.9
+[INFO] Hapd Serial = ZJ7831; chip = A; gain = 139800
+[INFO] Hapd Serial = ZJ7831; chip = B; gain = 127800
+[INFO] Hapd Serial = ZJ7831; chip = C; gain = 116200
+[INFO] Hapd Serial = ZJ7831; chip = D; gain = 151100
+[INFO] Sextant = 4, ring = 3, column = 4
+[INFO] module ID = 121, feb = 320, hapd = ZJ7827
+[INFO] Hapd Serial = ZJ7827; HV = -8500; qe400 = 25
+[INFO] Hapd Serial = ZJ7827; chip = A; gain = 107800
+[INFO] Hapd Serial = ZJ7827; chip = B; gain = 116800
+[INFO] Hapd Serial = ZJ7827; chip = C; gain = 108600
+[INFO] Hapd Serial = ZJ7827; chip = D; gain = 127900
+[INFO] Sextant = 4, ring = 3, column = 5
+[INFO] module ID = 122, feb = 160, hapd = ZJ6739
+[INFO] Hapd Serial = ZJ6739; HV = -8500; qe400 = 26.5
+[INFO] Hapd Serial = ZJ6739; chip = A; gain = 139700
+[INFO] Hapd Serial = ZJ6739; chip = B; gain = 119200
+[INFO] Hapd Serial = ZJ6739; chip = C; gain = 147000
+[INFO] Hapd Serial = ZJ6739; chip = D; gain = 113500
+[INFO] Sextant = 4, ring = 3, column = 6
+[INFO] module ID = 123, feb = 390, hapd = KA1037
+[INFO] Hapd Serial = KA1037; HV = -8500; qe400 = 28.9
+[INFO] Hapd Serial = KA1037; chip = A; gain = 150700
+[INFO] Hapd Serial = KA1037; chip = B; gain = 140000
+[INFO] Hapd Serial = KA1037; chip = C; gain = 143100
+[INFO] Hapd Serial = KA1037; chip = D; gain = 123100
+[INFO] Sextant = 4, ring = 3, column = 7
+[INFO] module ID = 124, feb = 49, hapd = KA0646
+[INFO] Hapd Serial = KA0646; HV = -8500; qe400 = 29.2
+[INFO] Hapd Serial = KA0646; chip = A; gain = 114400
+[INFO] Hapd Serial = KA0646; chip = B; gain = 110700
+[INFO] Hapd Serial = KA0646; chip = C; gain = 116600
+[INFO] Hapd Serial = KA0646; chip = D; gain = 105700
+[INFO] Sextant = 4, ring = 3, column = 8
+[INFO] module ID = 125, feb = 236, hapd = KA0615
+[INFO] Hapd Serial = KA0615; HV = -8500; qe400 = 31.3
+[INFO] Hapd Serial = KA0615; chip = A; gain = 149500
+[INFO] Hapd Serial = KA0615; chip = B; gain = 123900
+[INFO] Hapd Serial = KA0615; chip = C; gain = 123500
+[INFO] Hapd Serial = KA0615; chip = D; gain = 143200
+[INFO] Sextant = 4, ring = 3, column = 9
+[INFO] module ID = 126, feb = 112, hapd = KA0320
+[INFO] Hapd Serial = KA0320; HV = -8500; qe400 = 33.9
+[INFO] Hapd Serial = KA0320; chip = A; gain = 169900
+[INFO] Hapd Serial = KA0320; chip = B; gain = 156800
+[INFO] Hapd Serial = KA0320; chip = C; gain = 137100
+[INFO] Hapd Serial = KA0320; chip = D; gain = 146500
+[INFO] Sextant = 4, ring = 4, column = 1
+[INFO] module ID = 175, feb = 306, hapd = ZJ7697
+[INFO] Hapd Serial = ZJ7697; HV = -8500; qe400 = 33.2
+[INFO] Hapd Serial = ZJ7697; chip = A; gain = 132400
+[INFO] Hapd Serial = ZJ7697; chip = B; gain = 108300
+[INFO] Hapd Serial = ZJ7697; chip = C; gain = 130600
+[INFO] Hapd Serial = ZJ7697; chip = D; gain = 127600
+[INFO] Sextant = 4, ring = 4, column = 2
+[INFO] module ID = 176, feb = 292, hapd = ZJ6743
+[INFO] Hapd Serial = ZJ6743; HV = -8500; qe400 = 27.2
+[INFO] Hapd Serial = ZJ6743; chip = A; gain = 148500
+[INFO] Hapd Serial = ZJ6743; chip = B; gain = 148500
+[INFO] Hapd Serial = ZJ6743; chip = C; gain = 102600
+[INFO] Hapd Serial = ZJ6743; chip = D; gain = 125600
+[INFO] Sextant = 4, ring = 4, column = 3
+[INFO] module ID = 177, feb = 291, hapd = ZJ5938
+[INFO] Hapd Serial = ZJ5938; HV = -8500; qe400 = 27
+[INFO] Hapd Serial = ZJ5938; chip = A; gain = 187400
+[INFO] Hapd Serial = ZJ5938; chip = B; gain = 125400
+[INFO] Hapd Serial = ZJ5938; chip = C; gain = 120300
+[INFO] Hapd Serial = ZJ5938; chip = D; gain = 125300
+[INFO] Sextant = 4, ring = 4, column = 4
+[INFO] module ID = 178, feb = 289, hapd = ZJ5932
+[INFO] Hapd Serial = ZJ5932; HV = -8500; qe400 = 32.8
+[INFO] Hapd Serial = ZJ5932; chip = A; gain = 149600
+[INFO] Hapd Serial = ZJ5932; chip = B; gain = 161100
+[INFO] Hapd Serial = ZJ5932; chip = C; gain = 175100
+[INFO] Hapd Serial = ZJ5932; chip = D; gain = 154000
+[INFO] Sextant = 4, ring = 4, column = 5
+[INFO] module ID = 179, feb = 87, hapd = ZJ5594
+[INFO] Hapd Serial = ZJ5594; HV = -8500; qe400 = 28.4
+[INFO] Hapd Serial = ZJ5594; chip = A; gain = 152300
+[INFO] Hapd Serial = ZJ5594; chip = B; gain = 140000
+[INFO] Hapd Serial = ZJ5594; chip = C; gain = 136800
+[INFO] Hapd Serial = ZJ5594; chip = D; gain = 158000
+[INFO] Sextant = 4, ring = 4, column = 6
+[INFO] module ID = 180, feb = 333, hapd = KA0820
+[INFO] Hapd Serial = KA0820; HV = -8500; qe400 = 34.9
+[INFO] Hapd Serial = KA0820; chip = A; gain = 93600
+[INFO] Hapd Serial = KA0820; chip = B; gain = 102700
+[INFO] Hapd Serial = KA0820; chip = C; gain = 130700
+[INFO] Hapd Serial = KA0820; chip = D; gain = 142100
+[INFO] Sextant = 4, ring = 4, column = 7
+[INFO] module ID = 181, feb = 322, hapd = ZJ7884
+[INFO] Hapd Serial = ZJ7884; HV = -8500; qe400 = 30.1
+[INFO] Hapd Serial = ZJ7884; chip = A; gain = 118300
+[INFO] Hapd Serial = ZJ7884; chip = B; gain = 101900
+[INFO] Hapd Serial = ZJ7884; chip = C; gain = 122000
+[INFO] Hapd Serial = ZJ7884; chip = D; gain = 118600
+[INFO] Sextant = 4, ring = 4, column = 8
+[INFO] module ID = 182, feb = 84, hapd = KA0563
+[INFO] Hapd Serial = KA0563; HV = -8500; qe400 = 35.8
+[INFO] Hapd Serial = KA0563; chip = A; gain = 135500
+[INFO] Hapd Serial = KA0563; chip = B; gain = 142100
+[INFO] Hapd Serial = KA0563; chip = C; gain = 102400
+[INFO] Hapd Serial = KA0563; chip = D; gain = 127800
+[INFO] Sextant = 4, ring = 4, column = 9
+[INFO] module ID = 183, feb = 64, hapd = ZJ5576
+[INFO] Hapd Serial = ZJ5576; HV = -8500; qe400 = 27.7
+[INFO] Hapd Serial = ZJ5576; chip = A; gain = 137000
+[INFO] Hapd Serial = ZJ5576; chip = B; gain = 132100
+[INFO] Hapd Serial = ZJ5576; chip = C; gain = 123300
+[INFO] Hapd Serial = ZJ5576; chip = D; gain = 164700
+[INFO] Sextant = 4, ring = 4, column = 10
+[INFO] module ID = 184, feb = 147, hapd = KA0474
+[INFO] Hapd Serial = KA0474; HV = -8500; qe400 = 31.8
+[INFO] Hapd Serial = KA0474; chip = A; gain = 136000
+[INFO] Hapd Serial = KA0474; chip = B; gain = 116300
+[INFO] Hapd Serial = KA0474; chip = C; gain = 148200
+[INFO] Hapd Serial = KA0474; chip = D; gain = 155300
+[INFO] Sextant = 4, ring = 5, column = 1
+[INFO] module ID = 238, feb = 324, hapd = ZJ7820
+[INFO] Hapd Serial = ZJ7820; HV = -8500; qe400 = 24.1
+[INFO] Hapd Serial = ZJ7820; chip = A; gain = 118500
+[INFO] Hapd Serial = ZJ7820; chip = B; gain = 124900
+[INFO] Hapd Serial = ZJ7820; chip = C; gain = 134000
+[INFO] Hapd Serial = ZJ7820; chip = D; gain = 130300
+[INFO] Sextant = 4, ring = 5, column = 2
+[INFO] module ID = 239, feb = 86, hapd = KA0571
+[INFO] Hapd Serial = KA0571; HV = -8500; qe400 = 31.7
+[INFO] Hapd Serial = KA0571; chip = A; gain = 157200
+[INFO] Hapd Serial = KA0571; chip = B; gain = 108900
+[INFO] Hapd Serial = KA0571; chip = C; gain = 137100
+[INFO] Hapd Serial = KA0571; chip = D; gain = 119900
+[INFO] Sextant = 4, ring = 5, column = 3
+[INFO] module ID = 240, feb = 351, hapd = KA0808
+[INFO] Hapd Serial = KA0808; HV = -8500; qe400 = 30.8
+[INFO] Hapd Serial = KA0808; chip = A; gain = 123400
+[INFO] Hapd Serial = KA0808; chip = B; gain = 119000
+[INFO] Hapd Serial = KA0808; chip = C; gain = 110100
+[INFO] Hapd Serial = KA0808; chip = D; gain = 109900
+[INFO] Sextant = 4, ring = 5, column = 4
+[INFO] module ID = 241, feb = 46, hapd = KA0573
+[INFO] Hapd Serial = KA0573; HV = -8500; qe400 = 37
+[INFO] Hapd Serial = KA0573; chip = A; gain = 130300
+[INFO] Hapd Serial = KA0573; chip = B; gain = 119600
+[INFO] Hapd Serial = KA0573; chip = C; gain = 138900
+[INFO] Hapd Serial = KA0573; chip = D; gain = 155300
+[INFO] Sextant = 4, ring = 5, column = 5
+[INFO] module ID = 242, feb = 200, hapd = KA0935
+[INFO] Hapd Serial = KA0935; HV = -8500; qe400 = 25.6
+[INFO] Hapd Serial = KA0935; chip = A; gain = 146300
+[INFO] Hapd Serial = KA0935; chip = B; gain = 145700
+[INFO] Hapd Serial = KA0935; chip = C; gain = 112800
+[INFO] Hapd Serial = KA0935; chip = D; gain = 118100
+[INFO] Sextant = 4, ring = 5, column = 6
+[INFO] module ID = 243, feb = 129, hapd = KA0259
+[INFO] Hapd Serial = KA0259; HV = -8500; qe400 = 31
+[INFO] Hapd Serial = KA0259; chip = A; gain = 139200
+[INFO] Hapd Serial = KA0259; chip = B; gain = 167800
+[INFO] Hapd Serial = KA0259; chip = C; gain = 145900
+[INFO] Hapd Serial = KA0259; chip = D; gain = 156900
+[INFO] Sextant = 4, ring = 5, column = 7
+[INFO] module ID = 244, feb = 138, hapd = KA0335
+[INFO] Hapd Serial = KA0335; HV = -8500; qe400 = 33.1
+[INFO] Hapd Serial = KA0335; chip = A; gain = 144800
+[INFO] Hapd Serial = KA0335; chip = B; gain = 177900
+[INFO] Hapd Serial = KA0335; chip = C; gain = 126000
+[INFO] Hapd Serial = KA0335; chip = D; gain = 143100
+[INFO] Sextant = 4, ring = 5, column = 8
+[INFO] module ID = 245, feb = 67, hapd = ZJ5605
+[INFO] Hapd Serial = ZJ5605; HV = -8500; qe400 = 29.8
+[INFO] Hapd Serial = ZJ5605; chip = A; gain = 149800
+[INFO] Hapd Serial = ZJ5605; chip = B; gain = 171700
+[INFO] Hapd Serial = ZJ5605; chip = C; gain = 155500
+[INFO] Hapd Serial = ZJ5605; chip = D; gain = 159300
+[INFO] Sextant = 4, ring = 5, column = 9
+[INFO] module ID = 246, feb = 165, hapd = KA0535
+[INFO] Hapd Serial = KA0535; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA0535; chip = A; gain = 146100
+[INFO] Hapd Serial = KA0535; chip = B; gain = 157600
+[INFO] Hapd Serial = KA0535; chip = C; gain = 144600
+[INFO] Hapd Serial = KA0535; chip = D; gain = 119600
+[INFO] Sextant = 4, ring = 5, column = 10
+[INFO] module ID = 247, feb = 273, hapd = ZJ5600
+[INFO] Hapd Serial = ZJ5600; HV = -8500; qe400 = 29.2
+[INFO] Hapd Serial = ZJ5600; chip = A; gain = 129500
+[INFO] Hapd Serial = ZJ5600; chip = B; gain = 134000
+[INFO] Hapd Serial = ZJ5600; chip = C; gain = 124100
+[INFO] Hapd Serial = ZJ5600; chip = D; gain = 146500
+[INFO] Sextant = 4, ring = 5, column = 11
+[INFO] module ID = 248, feb = 90, hapd = KA0284
+[INFO] Hapd Serial = KA0284; HV = -8500; qe400 = 34
+[INFO] Hapd Serial = KA0284; chip = A; gain = 112500
+[INFO] Hapd Serial = KA0284; chip = B; gain = 128900
+[INFO] Hapd Serial = KA0284; chip = C; gain = 113000
+[INFO] Hapd Serial = KA0284; chip = D; gain = 145900
+[INFO] Sextant = 4, ring = 6, column = 1
+[INFO] module ID = 307, feb = 199, hapd = KA0919
+[INFO] Hapd Serial = KA0919; HV = -8500; qe400 = 32.2
+[INFO] Hapd Serial = KA0919; chip = A; gain = 115300
+[INFO] Hapd Serial = KA0919; chip = B; gain = 116500
+[INFO] Hapd Serial = KA0919; chip = C; gain = 101800
+[INFO] Hapd Serial = KA0919; chip = D; gain = 146100
+[INFO] Sextant = 4, ring = 6, column = 2
+[INFO] module ID = 308, feb = 332, hapd = KA0923
+[INFO] Hapd Serial = KA0923; HV = -8500; qe400 = 33.3
+[INFO] Hapd Serial = KA0923; chip = A; gain = 136800
+[INFO] Hapd Serial = KA0923; chip = B; gain = 113800
+[INFO] Hapd Serial = KA0923; chip = C; gain = 140400
+[INFO] Hapd Serial = KA0923; chip = D; gain = 142500
+[INFO] Sextant = 4, ring = 6, column = 3
+[INFO] module ID = 309, feb = 234, hapd = KA0767
+[INFO] Hapd Serial = KA0767; HV = -8500; qe400 = 34.6
+[INFO] Hapd Serial = KA0767; chip = A; gain = 124000
+[INFO] Hapd Serial = KA0767; chip = B; gain = 128200
+[INFO] Hapd Serial = KA0767; chip = C; gain = 132500
+[INFO] Hapd Serial = KA0767; chip = D; gain = 91000
+[INFO] Sextant = 4, ring = 6, column = 4
+[INFO] module ID = 310, feb = 287, hapd = ZJ5607
+[INFO] Hapd Serial = ZJ5607; HV = -8500; qe400 = 27
+[INFO] Hapd Serial = ZJ5607; chip = A; gain = 149000
+[INFO] Hapd Serial = ZJ5607; chip = B; gain = 147600
+[INFO] Hapd Serial = ZJ5607; chip = C; gain = 157200
+[INFO] Hapd Serial = ZJ5607; chip = D; gain = 157200
+[INFO] Sextant = 4, ring = 6, column = 5
+[INFO] module ID = 311, feb = 151, hapd = KA0446
+[INFO] Hapd Serial = KA0446; HV = -8500; qe400 = 31.5
+[INFO] Hapd Serial = KA0446; chip = A; gain = 109900
+[INFO] Hapd Serial = KA0446; chip = B; gain = 164600
+[INFO] Hapd Serial = KA0446; chip = C; gain = 141400
+[INFO] Hapd Serial = KA0446; chip = D; gain = 139000
+[INFO] Sextant = 4, ring = 6, column = 6
+[INFO] module ID = 312, feb = 394, hapd = KA1023
+[INFO] Hapd Serial = KA1023; HV = -8500; qe400 = 37.2
+[INFO] Hapd Serial = KA1023; chip = A; gain = 98200
+[INFO] Hapd Serial = KA1023; chip = B; gain = 144000
+[INFO] Hapd Serial = KA1023; chip = C; gain = 135600
+[INFO] Hapd Serial = KA1023; chip = D; gain = 149000
+[INFO] Sextant = 4, ring = 6, column = 7
+[INFO] module ID = 313, feb = 192, hapd = KA0604
+[INFO] Hapd Serial = KA0604; HV = -8500; qe400 = 32.2
+[INFO] Hapd Serial = KA0604; chip = A; gain = 107600
+[INFO] Hapd Serial = KA0604; chip = B; gain = 106600
+[INFO] Hapd Serial = KA0604; chip = C; gain = 93500
+[INFO] Hapd Serial = KA0604; chip = D; gain = 133200
+[INFO] Sextant = 4, ring = 6, column = 8
+[INFO] module ID = 314, feb = 414, hapd = KA1081
+[INFO] Hapd Serial = KA1081; HV = -8500; qe400 = 35.6
+[INFO] Hapd Serial = KA1081; chip = A; gain = 133000
+[INFO] Hapd Serial = KA1081; chip = B; gain = 121500
+[INFO] Hapd Serial = KA1081; chip = C; gain = 150100
+[INFO] Hapd Serial = KA1081; chip = D; gain = 142800
+[INFO] Sextant = 4, ring = 6, column = 9
+[INFO] module ID = 315, feb = 329, hapd = ZJ7889
+[INFO] Hapd Serial = ZJ7889; HV = -8500; qe400 = 31.2
+[INFO] Hapd Serial = ZJ7889; chip = A; gain = 87300
+[INFO] Hapd Serial = ZJ7889; chip = B; gain = 109500
+[INFO] Hapd Serial = ZJ7889; chip = C; gain = 129600
+[INFO] Hapd Serial = ZJ7889; chip = D; gain = 103100
+[INFO] Sextant = 4, ring = 6, column = 10
+[INFO] module ID = 316, feb = 313, hapd = ZJ7482
+[INFO] Hapd Serial = ZJ7482; HV = -8500; qe400 = 26.6
+[INFO] Hapd Serial = ZJ7482; chip = A; gain = 115600
+[INFO] Hapd Serial = ZJ7482; chip = B; gain = 116900
+[INFO] Hapd Serial = ZJ7482; chip = C; gain = 135700
+[INFO] Hapd Serial = ZJ7482; chip = D; gain = 128300
+[INFO] Sextant = 4, ring = 6, column = 11
+[INFO] module ID = 317, feb = 417, hapd = KA0166
+[INFO] Hapd Serial = KA0166; HV = -8500; qe400 = 34
+[INFO] Hapd Serial = KA0166; chip = A; gain = 139100
+[INFO] Hapd Serial = KA0166; chip = B; gain = 103800
+[INFO] Hapd Serial = KA0166; chip = C; gain = 160000
+[INFO] Hapd Serial = KA0166; chip = D; gain = 97500
+[INFO] Sextant = 4, ring = 6, column = 12
+[INFO] module ID = 318, feb = 79, hapd = KA0330
+[INFO] Hapd Serial = KA0330; HV = -8500; qe400 = 35.7
+[INFO] Hapd Serial = KA0330; chip = A; gain = 164600
+[INFO] Hapd Serial = KA0330; chip = B; gain = 141700
+[INFO] Hapd Serial = KA0330; chip = C; gain = 158600
+[INFO] Hapd Serial = KA0330; chip = D; gain = 142100
+[INFO] Sextant = 4, ring = 7, column = 1
+[INFO] module ID = 382, feb = 139, hapd = KA0342
+[INFO] Hapd Serial = KA0342; HV = -8500; qe400 = 24.1
+[INFO] Hapd Serial = KA0342; chip = A; gain = 169200
+[INFO] Hapd Serial = KA0342; chip = B; gain = 138200
+[INFO] Hapd Serial = KA0342; chip = C; gain = 140700
+[INFO] Hapd Serial = KA0342; chip = D; gain = 165000
+[INFO] Sextant = 4, ring = 7, column = 2
+[INFO] module ID = 383, feb = 397, hapd = KA1029
+[INFO] Hapd Serial = KA1029; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA1029; chip = A; gain = 136300
+[INFO] Hapd Serial = KA1029; chip = B; gain = 146400
+[INFO] Hapd Serial = KA1029; chip = C; gain = 106400
+[INFO] Hapd Serial = KA1029; chip = D; gain = 116900
+[INFO] Sextant = 4, ring = 7, column = 3
+[INFO] module ID = 384, feb = 455, hapd = KA0953
+[INFO] Hapd Serial = KA0953; HV = -8500; qe400 = 31
+[INFO] Hapd Serial = KA0953; chip = A; gain = 108900
+[INFO] Hapd Serial = KA0953; chip = B; gain = 135000
+[INFO] Hapd Serial = KA0953; chip = C; gain = 141300
+[INFO] Hapd Serial = KA0953; chip = D; gain = 120300
+[INFO] Sextant = 4, ring = 7, column = 4
+[INFO] module ID = 385, feb = 430, hapd = KA1097
+[INFO] Hapd Serial = KA1097; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA1097; chip = A; gain = 109300
+[INFO] Hapd Serial = KA1097; chip = B; gain = 136800
+[INFO] Hapd Serial = KA1097; chip = C; gain = 144000
+[INFO] Hapd Serial = KA1097; chip = D; gain = 145800
+[INFO] Sextant = 4, ring = 7, column = 5
+[INFO] module ID = 386, feb = 428, hapd = KA1087
+[INFO] Hapd Serial = KA1087; HV = -8500; qe400 = 31
+[INFO] Hapd Serial = KA1087; chip = A; gain = 101400
+[INFO] Hapd Serial = KA1087; chip = B; gain = 128400
+[INFO] Hapd Serial = KA1087; chip = C; gain = 138700
+[INFO] Hapd Serial = KA1087; chip = D; gain = 142200
+[INFO] Sextant = 4, ring = 7, column = 6
+[INFO] module ID = 387, feb = 50, hapd = KA0396
+[INFO] Hapd Serial = KA0396; HV = -8500; qe400 = 31
+[INFO] Hapd Serial = KA0396; chip = A; gain = 135200
+[INFO] Hapd Serial = KA0396; chip = B; gain = 121400
+[INFO] Hapd Serial = KA0396; chip = C; gain = 113300
+[INFO] Hapd Serial = KA0396; chip = D; gain = 177800
+[INFO] Sextant = 4, ring = 7, column = 7
+[INFO] module ID = 388, feb = 288, hapd = ZJ5902
+[INFO] Hapd Serial = ZJ5902; HV = -8500; qe400 = 29
+[INFO] Hapd Serial = ZJ5902; chip = A; gain = 144700
+[INFO] Hapd Serial = ZJ5902; chip = B; gain = 115300
+[INFO] Hapd Serial = ZJ5902; chip = C; gain = 136500
+[INFO] Hapd Serial = ZJ5902; chip = D; gain = 162400
+[INFO] Sextant = 4, ring = 7, column = 8
+[INFO] module ID = 389, feb = 296, hapd = ZJ5912
+[INFO] Hapd Serial = ZJ5912; HV = -8500; qe400 = 33.6
+[INFO] Hapd Serial = ZJ5912; chip = A; gain = 142000
+[INFO] Hapd Serial = ZJ5912; chip = B; gain = 101300
+[INFO] Hapd Serial = ZJ5912; chip = C; gain = 141700
+[INFO] Hapd Serial = ZJ5912; chip = D; gain = 163100
+[INFO] Sextant = 4, ring = 7, column = 9
+[INFO] module ID = 390, feb = 393, hapd = KA1066
+[INFO] Hapd Serial = KA1066; HV = -8500; qe400 = 33.8
+[INFO] Hapd Serial = KA1066; chip = A; gain = 125400
+[INFO] Hapd Serial = KA1066; chip = B; gain = 150700
+[INFO] Hapd Serial = KA1066; chip = C; gain = 139400
+[INFO] Hapd Serial = KA1066; chip = D; gain = 106200
+[INFO] Sextant = 4, ring = 7, column = 10
+[INFO] module ID = 391, feb = 111, hapd = KA0317
+[INFO] Hapd Serial = KA0317; HV = -8500; qe400 = 29.6
+[INFO] Hapd Serial = KA0317; chip = A; gain = 152300
+[INFO] Hapd Serial = KA0317; chip = B; gain = 143200
+[INFO] Hapd Serial = KA0317; chip = C; gain = 146400
+[INFO] Hapd Serial = KA0317; chip = D; gain = 122500
+[INFO] Sextant = 4, ring = 7, column = 11
+[INFO] module ID = 392, feb = 382, hapd = KA1011
+[INFO] Hapd Serial = KA1011; HV = -8500; qe400 = 32.7
+[INFO] Hapd Serial = KA1011; chip = A; gain = 139600
+[INFO] Hapd Serial = KA1011; chip = B; gain = 160200
+[INFO] Hapd Serial = KA1011; chip = C; gain = 118000
+[INFO] Hapd Serial = KA1011; chip = D; gain = 145100
+[INFO] Sextant = 4, ring = 7, column = 12
+[INFO] module ID = 393, feb = 32, hapd = KA0453
+[INFO] Hapd Serial = KA0453; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA0453; chip = A; gain = 145500
+[INFO] Hapd Serial = KA0453; chip = B; gain = 164500
+[INFO] Hapd Serial = KA0453; chip = C; gain = 112100
+[INFO] Hapd Serial = KA0453; chip = D; gain = 148300
+[INFO] Sextant = 4, ring = 7, column = 13
+[INFO] module ID = 394, feb = 364, hapd = KA0817
+[INFO] Hapd Serial = KA0817; HV = -8500; qe400 = 36.2
+[INFO] Hapd Serial = KA0817; chip = A; gain = 115900
+[INFO] Hapd Serial = KA0817; chip = B; gain = 134700
+[INFO] Hapd Serial = KA0817; chip = C; gain = 135000
+[INFO] Hapd Serial = KA0817; chip = D; gain = 134000
+[INFO] Sextant = 2, ring = 1, column = 1
+[INFO] module ID = 8, feb = 345, hapd = KA0883
+[INFO] Hapd Serial = KA0883; HV = -8500; qe400 = 34.3
+[INFO] Hapd Serial = KA0883; chip = A; gain = 136700
+[INFO] Hapd Serial = KA0883; chip = B; gain = 149900
+[INFO] Hapd Serial = KA0883; chip = C; gain = 103200
+[INFO] Hapd Serial = KA0883; chip = D; gain = 126300
+[INFO] Sextant = 2, ring = 1, column = 2
+[INFO] module ID = 9, feb = 177, hapd = KA0598
+[INFO] Hapd Serial = KA0598; HV = -8500; qe400 = 30.6
+[INFO] Hapd Serial = KA0598; chip = A; gain = 130100
+[INFO] Hapd Serial = KA0598; chip = B; gain = 120900
+[INFO] Hapd Serial = KA0598; chip = C; gain = 132800
+[INFO] Hapd Serial = KA0598; chip = D; gain = 124700
+[INFO] Sextant = 2, ring = 1, column = 3
+[INFO] module ID = 10, feb = 148, hapd = KA0476
+[INFO] Hapd Serial = KA0476; HV = -8500; qe400 = 32.2
+[INFO] Hapd Serial = KA0476; chip = A; gain = 159100
+[INFO] Hapd Serial = KA0476; chip = B; gain = 140200
+[INFO] Hapd Serial = KA0476; chip = C; gain = 134800
+[INFO] Hapd Serial = KA0476; chip = D; gain = 149700
+[INFO] Sextant = 2, ring = 1, column = 4
+[INFO] module ID = 11, feb = 425, hapd = KA0924
+[INFO] Hapd Serial = KA0924; HV = -8500; qe400 = 31.4
+[INFO] Hapd Serial = KA0924; chip = A; gain = 152600
+[INFO] Hapd Serial = KA0924; chip = B; gain = 89000
+[INFO] Hapd Serial = KA0924; chip = C; gain = 138700
+[INFO] Hapd Serial = KA0924; chip = D; gain = 86400
+[INFO] Sextant = 2, ring = 1, column = 5
+[INFO] module ID = 12, feb = 309, hapd = ZJ7694
+[INFO] Hapd Serial = ZJ7694; HV = -8500; qe400 = 31.5
+[INFO] Hapd Serial = ZJ7694; chip = A; gain = 158400
+[INFO] Hapd Serial = ZJ7694; chip = B; gain = 101600
+[INFO] Hapd Serial = ZJ7694; chip = C; gain = 110500
+[INFO] Hapd Serial = ZJ7694; chip = D; gain = 127000
+[INFO] Sextant = 2, ring = 1, column = 6
+[INFO] module ID = 13, feb = 295, hapd = ZJ5911
+[INFO] Hapd Serial = ZJ5911; HV = -8500; qe400 = 25.4
+[INFO] Hapd Serial = ZJ5911; chip = A; gain = 117200
+[INFO] Hapd Serial = ZJ5911; chip = B; gain = 116900
+[INFO] Hapd Serial = ZJ5911; chip = C; gain = 116900
+[INFO] Hapd Serial = ZJ5911; chip = D; gain = 126000
+[INFO] Sextant = 2, ring = 1, column = 7
+[INFO] module ID = 14, feb = 181, hapd = KA0704
+[INFO] Hapd Serial = KA0704; HV = -8500; qe400 = 35.7
+[INFO] Hapd Serial = KA0704; chip = A; gain = 95900
+[INFO] Hapd Serial = KA0704; chip = B; gain = 90900
+[INFO] Hapd Serial = KA0704; chip = C; gain = 113900
+[INFO] Hapd Serial = KA0704; chip = D; gain = 85800
+[INFO] Sextant = 2, ring = 2, column = 1
+[INFO] module ID = 51, feb = 206, hapd = KA0983
+[INFO] Hapd Serial = KA0983; HV = -8500; qe400 = 30.7
+[INFO] Hapd Serial = KA0983; chip = A; gain = 113800
+[INFO] Hapd Serial = KA0983; chip = B; gain = 134600
+[INFO] Hapd Serial = KA0983; chip = C; gain = 148900
+[INFO] Hapd Serial = KA0983; chip = D; gain = 137000
+[INFO] Sextant = 2, ring = 2, column = 2
+[INFO] module ID = 52, feb = 68, hapd = KA0275
+[INFO] Hapd Serial = KA0275; HV = -8500; qe400 = 31.2
+[INFO] Hapd Serial = KA0275; chip = A; gain = 162900
+[INFO] Hapd Serial = KA0275; chip = B; gain = 150800
+[INFO] Hapd Serial = KA0275; chip = C; gain = 150500
+[INFO] Hapd Serial = KA0275; chip = D; gain = 127800
+[INFO] Sextant = 2, ring = 2, column = 3
+[INFO] module ID = 53, feb = 293, hapd = ZJ5574
+[INFO] Hapd Serial = ZJ5574; HV = -8500; qe400 = 32.8
+[INFO] Hapd Serial = ZJ5574; chip = A; gain = 142200
+[INFO] Hapd Serial = ZJ5574; chip = B; gain = 150800
+[INFO] Hapd Serial = ZJ5574; chip = C; gain = 109500
+[INFO] Hapd Serial = ZJ5574; chip = D; gain = 145300
+[INFO] Sextant = 2, ring = 2, column = 4
+[INFO] module ID = 54, feb = 317, hapd = KA0560
+[INFO] Hapd Serial = KA0560; HV = -8500; qe400 = 35.7
+[INFO] Hapd Serial = KA0560; chip = A; gain = 138700
+[INFO] Hapd Serial = KA0560; chip = B; gain = 123700
+[INFO] Hapd Serial = KA0560; chip = C; gain = 154000
+[INFO] Hapd Serial = KA0560; chip = D; gain = 100000
+[INFO] Sextant = 2, ring = 2, column = 5
+[INFO] module ID = 55, feb = 171, hapd = KA0499
+[INFO] Hapd Serial = KA0499; HV = -8500; qe400 = 29.4
+[INFO] Hapd Serial = KA0499; chip = A; gain = 155300
+[INFO] Hapd Serial = KA0499; chip = B; gain = 100200
+[INFO] Hapd Serial = KA0499; chip = C; gain = 99900
+[INFO] Hapd Serial = KA0499; chip = D; gain = 125000
+[INFO] Sextant = 2, ring = 2, column = 6
+[INFO] module ID = 56, feb = 224, hapd = KA0756
+[INFO] Hapd Serial = KA0756; HV = -8500; qe400 = 29.6
+[INFO] Hapd Serial = KA0756; chip = A; gain = 153500
+[INFO] Hapd Serial = KA0756; chip = B; gain = 134300
+[INFO] Hapd Serial = KA0756; chip = C; gain = 122900
+[INFO] Hapd Serial = KA0756; chip = D; gain = 151900
+[INFO] Sextant = 2, ring = 2, column = 7
+[INFO] module ID = 57, feb = 285, hapd = KA0605
+[INFO] Hapd Serial = KA0605; HV = -8500; qe400 = 38.8
+[INFO] Hapd Serial = KA0605; chip = A; gain = 118700
+[INFO] Hapd Serial = KA0605; chip = B; gain = 121800
+[INFO] Hapd Serial = KA0605; chip = C; gain = 149200
+[INFO] Hapd Serial = KA0605; chip = D; gain = 103500
+[INFO] Sextant = 2, ring = 2, column = 8
+[INFO] module ID = 58, feb = 120, hapd = KA0215
+[INFO] Hapd Serial = KA0215; HV = -8500; qe400 = 31.9
+[INFO] Hapd Serial = KA0215; chip = A; gain = 124100
+[INFO] Hapd Serial = KA0215; chip = B; gain = 150800
+[INFO] Hapd Serial = KA0215; chip = C; gain = 131300
+[INFO] Hapd Serial = KA0215; chip = D; gain = 133500
+[INFO] Sextant = 2, ring = 3, column = 1
+[INFO] module ID = 100, feb = 109, hapd = KA0304
+[INFO] Hapd Serial = KA0304; HV = -8500; qe400 = 35.8
+[INFO] Hapd Serial = KA0304; chip = A; gain = 165700
+[INFO] Hapd Serial = KA0304; chip = B; gain = 153500
+[INFO] Hapd Serial = KA0304; chip = C; gain = 145100
+[INFO] Hapd Serial = KA0304; chip = D; gain = 143000
+[INFO] Sextant = 2, ring = 3, column = 2
+[INFO] module ID = 101, feb = 396, hapd = KA1027
+[INFO] Hapd Serial = KA1027; HV = -8500; qe400 = 25.4
+[INFO] Hapd Serial = KA1027; chip = A; gain = 110300
+[INFO] Hapd Serial = KA1027; chip = B; gain = 110100
+[INFO] Hapd Serial = KA1027; chip = C; gain = 146500
+[INFO] Hapd Serial = KA1027; chip = D; gain = 132000
+[INFO] Sextant = 2, ring = 3, column = 3
+[INFO] module ID = 102, feb = 219, hapd = KA0778
+[INFO] Hapd Serial = KA0778; HV = -8500; qe400 = 35.6
+[INFO] Hapd Serial = KA0778; chip = A; gain = 135700
+[INFO] Hapd Serial = KA0778; chip = B; gain = 151500
+[INFO] Hapd Serial = KA0778; chip = C; gain = 126100
+[INFO] Hapd Serial = KA0778; chip = D; gain = 164300
+[INFO] Sextant = 2, ring = 3, column = 4
+[INFO] module ID = 103, feb = 252, hapd = KA0915
+[INFO] Hapd Serial = KA0915; HV = -8500; qe400 = 32.2
+[INFO] Hapd Serial = KA0915; chip = A; gain = 137900
+[INFO] Hapd Serial = KA0915; chip = B; gain = 122100
+[INFO] Hapd Serial = KA0915; chip = C; gain = 137700
+[INFO] Hapd Serial = KA0915; chip = D; gain = 127400
+[INFO] Sextant = 2, ring = 3, column = 5
+[INFO] module ID = 104, feb = 248, hapd = KA0908
+[INFO] Hapd Serial = KA0908; HV = -8500; qe400 = 32.8
+[INFO] Hapd Serial = KA0908; chip = A; gain = 143100
+[INFO] Hapd Serial = KA0908; chip = B; gain = 126800
+[INFO] Hapd Serial = KA0908; chip = C; gain = 158300
+[INFO] Hapd Serial = KA0908; chip = D; gain = 155500
+[INFO] Sextant = 2, ring = 3, column = 6
+[INFO] module ID = 105, feb = 196, hapd = KA0985
+[INFO] Hapd Serial = KA0985; HV = -8500; qe400 = 30.1
+[INFO] Hapd Serial = KA0985; chip = A; gain = 125000
+[INFO] Hapd Serial = KA0985; chip = B; gain = 138100
+[INFO] Hapd Serial = KA0985; chip = C; gain = 123800
+[INFO] Hapd Serial = KA0985; chip = D; gain = 134200
+[INFO] Sextant = 2, ring = 3, column = 7
+[INFO] module ID = 106, feb = 132, hapd = KA0299
+[INFO] Hapd Serial = KA0299; HV = -8500; qe400 = 31.4
+[INFO] Hapd Serial = KA0299; chip = A; gain = 126800
+[INFO] Hapd Serial = KA0299; chip = B; gain = 134300
+[INFO] Hapd Serial = KA0299; chip = C; gain = 142800
+[INFO] Hapd Serial = KA0299; chip = D; gain = 162700
+[INFO] Sextant = 2, ring = 3, column = 8
+[INFO] module ID = 107, feb = 375, hapd = KA0813
+[INFO] Hapd Serial = KA0813; HV = -8500; qe400 = 35.6
+[INFO] Hapd Serial = KA0813; chip = A; gain = 144000
+[INFO] Hapd Serial = KA0813; chip = B; gain = 101000
+[INFO] Hapd Serial = KA0813; chip = C; gain = 122700
+[INFO] Hapd Serial = KA0813; chip = D; gain = 136000
+[INFO] Sextant = 2, ring = 3, column = 9
+[INFO] module ID = 108, feb = 416, hapd = KA0978
+[INFO] Hapd Serial = KA0978; HV = -8500; qe400 = 31.1
+[INFO] Hapd Serial = KA0978; chip = A; gain = 87900
+[INFO] Hapd Serial = KA0978; chip = B; gain = 111600
+[INFO] Hapd Serial = KA0978; chip = C; gain = 98200
+[INFO] Hapd Serial = KA0978; chip = D; gain = 105400
+[INFO] Sextant = 2, ring = 4, column = 1
+[INFO] module ID = 155, feb = 106, hapd = KA0240
+[INFO] Hapd Serial = KA0240; HV = -8500; qe400 = 26.5
+[INFO] Hapd Serial = KA0240; chip = A; gain = 150500
+[INFO] Hapd Serial = KA0240; chip = B; gain = 101900
+[INFO] Hapd Serial = KA0240; chip = C; gain = 155600
+[INFO] Hapd Serial = KA0240; chip = D; gain = 150500
+[INFO] Sextant = 2, ring = 4, column = 2
+[INFO] module ID = 156, feb = 403, hapd = KA1009
+[INFO] Hapd Serial = KA1009; HV = -8500; qe400 = 33.5
+[INFO] Hapd Serial = KA1009; chip = A; gain = 138000
+[INFO] Hapd Serial = KA1009; chip = B; gain = 99100
+[INFO] Hapd Serial = KA1009; chip = C; gain = 149100
+[INFO] Hapd Serial = KA1009; chip = D; gain = 143500
+[INFO] Sextant = 2, ring = 4, column = 3
+[INFO] module ID = 157, feb = 435, hapd = ZJ7885
+[INFO] Hapd Serial = ZJ7885; HV = -8500; qe400 = 28
+[INFO] Hapd Serial = ZJ7885; chip = A; gain = 100700
+[INFO] Hapd Serial = ZJ7885; chip = B; gain = 90700
+[INFO] Hapd Serial = ZJ7885; chip = C; gain = 125500
+[INFO] Hapd Serial = ZJ7885; chip = D; gain = 116700
+[INFO] Sextant = 2, ring = 4, column = 4
+[INFO] module ID = 158, feb = 266, hapd = KA0972
+[INFO] Hapd Serial = KA0972; HV = -8500; qe400 = 32.6
+[INFO] Hapd Serial = KA0972; chip = A; gain = 136000
+[INFO] Hapd Serial = KA0972; chip = B; gain = 102800
+[INFO] Hapd Serial = KA0972; chip = C; gain = 141200
+[INFO] Hapd Serial = KA0972; chip = D; gain = 125100
+[INFO] Sextant = 2, ring = 4, column = 5
+[INFO] module ID = 159, feb = 194, hapd = KA0949
+[INFO] Hapd Serial = KA0949; HV = -8500; qe400 = 31.3
+[INFO] Hapd Serial = KA0949; chip = A; gain = 150200
+[INFO] Hapd Serial = KA0949; chip = B; gain = 132300
+[INFO] Hapd Serial = KA0949; chip = C; gain = 144300
+[INFO] Hapd Serial = KA0949; chip = D; gain = 157800
+[INFO] Sextant = 2, ring = 4, column = 6
+[INFO] module ID = 160, feb = 385, hapd = KA1088
+[INFO] Hapd Serial = KA1088; HV = -8500; qe400 = 32.2
+[INFO] Hapd Serial = KA1088; chip = A; gain = 118700
+[INFO] Hapd Serial = KA1088; chip = B; gain = 163600
+[INFO] Hapd Serial = KA1088; chip = C; gain = 121000
+[INFO] Hapd Serial = KA1088; chip = D; gain = 123800
+[INFO] Sextant = 2, ring = 4, column = 7
+[INFO] module ID = 161, feb = 335, hapd = KA0822
+[INFO] Hapd Serial = KA0822; HV = -8500; qe400 = 34.4
+[INFO] Hapd Serial = KA0822; chip = A; gain = 125500
+[INFO] Hapd Serial = KA0822; chip = B; gain = 85400
+[INFO] Hapd Serial = KA0822; chip = C; gain = 124500
+[INFO] Hapd Serial = KA0822; chip = D; gain = 141000
+[INFO] Sextant = 2, ring = 4, column = 8
+[INFO] module ID = 162, feb = 330, hapd = ZJ7829
+[INFO] Hapd Serial = ZJ7829; HV = -8500; qe400 = 24.8
+[INFO] Hapd Serial = ZJ7829; chip = A; gain = 118500
+[INFO] Hapd Serial = ZJ7829; chip = B; gain = 111300
+[INFO] Hapd Serial = ZJ7829; chip = C; gain = 109800
+[INFO] Hapd Serial = ZJ7829; chip = D; gain = 119600
+[INFO] Sextant = 2, ring = 4, column = 9
+[INFO] module ID = 163, feb = 337, hapd = KA0851
+[INFO] Hapd Serial = KA0851; HV = -8500; qe400 = 35.2
+[INFO] Hapd Serial = KA0851; chip = A; gain = 106500
+[INFO] Hapd Serial = KA0851; chip = B; gain = 86100
+[INFO] Hapd Serial = KA0851; chip = C; gain = 135100
+[INFO] Hapd Serial = KA0851; chip = D; gain = 129100
+[INFO] Sextant = 2, ring = 4, column = 10
+[INFO] module ID = 164, feb = 197, hapd = KA0997
+[INFO] Hapd Serial = KA0997; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA0997; chip = A; gain = 123300
+[INFO] Hapd Serial = KA0997; chip = B; gain = 132400
+[INFO] Hapd Serial = KA0997; chip = C; gain = 151600
+[INFO] Hapd Serial = KA0997; chip = D; gain = 130100
+[INFO] Sextant = 2, ring = 5, column = 1
+[INFO] module ID = 216, feb = 410, hapd = KA1098
+[INFO] Hapd Serial = KA1098; HV = -8500; qe400 = 35.4
+[INFO] Hapd Serial = KA1098; chip = A; gain = 145100
+[INFO] Hapd Serial = KA1098; chip = B; gain = 118600
+[INFO] Hapd Serial = KA1098; chip = C; gain = 112800
+[INFO] Hapd Serial = KA1098; chip = D; gain = 129600
+[INFO] Sextant = 2, ring = 5, column = 2
+[INFO] module ID = 217, feb = 36, hapd = ZJ5580
+[INFO] Hapd Serial = ZJ5580; HV = -8500; qe400 = 26
+[INFO] Hapd Serial = ZJ5580; chip = A; gain = 144600
+[INFO] Hapd Serial = ZJ5580; chip = B; gain = 150700
+[INFO] Hapd Serial = ZJ5580; chip = C; gain = 145700
+[INFO] Hapd Serial = ZJ5580; chip = D; gain = 81800
+[INFO] Sextant = 2, ring = 5, column = 3
+[INFO] module ID = 218, feb = 141, hapd = KA0375
+[INFO] Hapd Serial = KA0375; HV = -8500; qe400 = 28.9
+[INFO] Hapd Serial = KA0375; chip = A; gain = 93900
+[INFO] Hapd Serial = KA0375; chip = B; gain = 144500
+[INFO] Hapd Serial = KA0375; chip = C; gain = 165700
+[INFO] Hapd Serial = KA0375; chip = D; gain = 138300
+[INFO] Sextant = 2, ring = 5, column = 4
+[INFO] module ID = 219, feb = 155, hapd = KA0438
+[INFO] Hapd Serial = KA0438; HV = -8500; qe400 = 30.4
+[INFO] Hapd Serial = KA0438; chip = A; gain = 137700
+[INFO] Hapd Serial = KA0438; chip = B; gain = 141200
+[INFO] Hapd Serial = KA0438; chip = C; gain = 144300
+[INFO] Hapd Serial = KA0438; chip = D; gain = 141400
+[INFO] Sextant = 2, ring = 5, column = 5
+[INFO] module ID = 220, feb = 24, hapd = KA0395
+[INFO] Hapd Serial = KA0395; HV = -8500; qe400 = 32.5
+[INFO] Hapd Serial = KA0395; chip = A; gain = 140800
+[INFO] Hapd Serial = KA0395; chip = B; gain = 169600
+[INFO] Hapd Serial = KA0395; chip = C; gain = 147500
+[INFO] Hapd Serial = KA0395; chip = D; gain = 163100
+[INFO] Sextant = 2, ring = 5, column = 6
+[INFO] module ID = 221, feb = 52, hapd = KA0685
+[INFO] Hapd Serial = KA0685; HV = -8500; qe400 = 31
+[INFO] Hapd Serial = KA0685; chip = A; gain = 99600
+[INFO] Hapd Serial = KA0685; chip = B; gain = 142400
+[INFO] Hapd Serial = KA0685; chip = C; gain = 138600
+[INFO] Hapd Serial = KA0685; chip = D; gain = 126100
+[INFO] Sextant = 2, ring = 5, column = 7
+[INFO] module ID = 222, feb = 277, hapd = ZJ5947
+[INFO] Hapd Serial = ZJ5947; HV = -8500; qe400 = 31.8
+[INFO] Hapd Serial = ZJ5947; chip = A; gain = 130700
+[INFO] Hapd Serial = ZJ5947; chip = B; gain = 118900
+[INFO] Hapd Serial = ZJ5947; chip = C; gain = 108200
+[INFO] Hapd Serial = ZJ5947; chip = D; gain = 143500
+[INFO] Sextant = 2, ring = 5, column = 8
+[INFO] module ID = 223, feb = 229, hapd = KA0747
+[INFO] Hapd Serial = KA0747; HV = -8500; qe400 = 30.9
+[INFO] Hapd Serial = KA0747; chip = A; gain = 103200
+[INFO] Hapd Serial = KA0747; chip = B; gain = 105900
+[INFO] Hapd Serial = KA0747; chip = C; gain = 111800
+[INFO] Hapd Serial = KA0747; chip = D; gain = 144500
+[INFO] Sextant = 2, ring = 5, column = 9
+[INFO] module ID = 224, feb = 427, hapd = KA1075
+[INFO] Hapd Serial = KA1075; HV = -8500; qe400 = 37.5
+[INFO] Hapd Serial = KA1075; chip = A; gain = 151500
+[INFO] Hapd Serial = KA1075; chip = B; gain = 154200
+[INFO] Hapd Serial = KA1075; chip = C; gain = 137000
+[INFO] Hapd Serial = KA1075; chip = D; gain = 144800
+[INFO] Sextant = 2, ring = 5, column = 10
+[INFO] module ID = 225, feb = 325, hapd = ZJ7822
+[INFO] Hapd Serial = ZJ7822; HV = -8500; qe400 = 25.2
+[INFO] Hapd Serial = ZJ7822; chip = A; gain = 107100
+[INFO] Hapd Serial = ZJ7822; chip = B; gain = 113100
+[INFO] Hapd Serial = ZJ7822; chip = C; gain = 115700
+[INFO] Hapd Serial = ZJ7822; chip = D; gain = 126500
+[INFO] Sextant = 2, ring = 5, column = 11
+[INFO] module ID = 226, feb = 357, hapd = KA0867
+[INFO] Hapd Serial = KA0867; HV = -8500; qe400 = 34.9
+[INFO] Hapd Serial = KA0867; chip = A; gain = 135100
+[INFO] Hapd Serial = KA0867; chip = B; gain = 121000
+[INFO] Hapd Serial = KA0867; chip = C; gain = 99400
+[INFO] Hapd Serial = KA0867; chip = D; gain = 122700
+[INFO] Sextant = 2, ring = 6, column = 1
+[INFO] module ID = 283, feb = 69, hapd = KA0276
+[INFO] Hapd Serial = KA0276; HV = -8500; qe400 = 32.5
+[INFO] Hapd Serial = KA0276; chip = A; gain = 108200
+[INFO] Hapd Serial = KA0276; chip = B; gain = 156600
+[INFO] Hapd Serial = KA0276; chip = C; gain = 169500
+[INFO] Hapd Serial = KA0276; chip = D; gain = 162100
+[INFO] Sextant = 2, ring = 6, column = 2
+[INFO] module ID = 284, feb = 379, hapd = KA1045
+[INFO] Hapd Serial = KA1045; HV = -8500; qe400 = 31.2
+[INFO] Hapd Serial = KA1045; chip = A; gain = 114000
+[INFO] Hapd Serial = KA1045; chip = B; gain = 143500
+[INFO] Hapd Serial = KA1045; chip = C; gain = 144700
+[INFO] Hapd Serial = KA1045; chip = D; gain = 140300
+[INFO] Sextant = 2, ring = 6, column = 3
+[INFO] module ID = 285, feb = 38, hapd = ZJ5573
+[INFO] Hapd Serial = ZJ5573; HV = -8500; qe400 = 27.1
+[INFO] Hapd Serial = ZJ5573; chip = A; gain = 138500
+[INFO] Hapd Serial = ZJ5573; chip = B; gain = 157900
+[INFO] Hapd Serial = ZJ5573; chip = C; gain = 129000
+[INFO] Hapd Serial = ZJ5573; chip = D; gain = 171300
+[INFO] Sextant = 2, ring = 6, column = 4
+[INFO] module ID = 286, feb = 150, hapd = KA0420
+[INFO] Hapd Serial = KA0420; HV = -8500; qe400 = 28.9
+[INFO] Hapd Serial = KA0420; chip = A; gain = 166600
+[INFO] Hapd Serial = KA0420; chip = B; gain = 125000
+[INFO] Hapd Serial = KA0420; chip = C; gain = 140000
+[INFO] Hapd Serial = KA0420; chip = D; gain = 150700
+[INFO] Sextant = 2, ring = 6, column = 5
+[INFO] module ID = 287, feb = 398, hapd = KA1054
+[INFO] Hapd Serial = KA1054; HV = -8500; qe400 = 38.5
+[INFO] Hapd Serial = KA1054; chip = A; gain = 132800
+[INFO] Hapd Serial = KA1054; chip = B; gain = 118500
+[INFO] Hapd Serial = KA1054; chip = C; gain = 119900
+[INFO] Hapd Serial = KA1054; chip = D; gain = 139200
+[INFO] Sextant = 2, ring = 6, column = 6
+[INFO] module ID = 288, feb = 265, hapd = KA0941
+[INFO] Hapd Serial = KA0941; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA0941; chip = A; gain = 158700
+[INFO] Hapd Serial = KA0941; chip = B; gain = 150100
+[INFO] Hapd Serial = KA0941; chip = C; gain = 134000
+[INFO] Hapd Serial = KA0941; chip = D; gain = 123800
+[INFO] Sextant = 2, ring = 6, column = 7
+[INFO] module ID = 289, feb = 88, hapd = KA0281
+[INFO] Hapd Serial = KA0281; HV = -8500; qe400 = 30.2
+[INFO] Hapd Serial = KA0281; chip = A; gain = 134200
+[INFO] Hapd Serial = KA0281; chip = B; gain = 152400
+[INFO] Hapd Serial = KA0281; chip = C; gain = 157400
+[INFO] Hapd Serial = KA0281; chip = D; gain = 163500
+[INFO] Sextant = 2, ring = 6, column = 8
+[INFO] module ID = 290, feb = 299, hapd = ZJ5898
+[INFO] Hapd Serial = ZJ5898; HV = -8500; qe400 = 33.8
+[INFO] Hapd Serial = ZJ5898; chip = A; gain = 131800
+[INFO] Hapd Serial = ZJ5898; chip = B; gain = 162200
+[INFO] Hapd Serial = ZJ5898; chip = C; gain = 148200
+[INFO] Hapd Serial = ZJ5898; chip = D; gain = 148400
+[INFO] Sextant = 2, ring = 6, column = 9
+[INFO] module ID = 291, feb = 257, hapd = KA0902
+[INFO] Hapd Serial = KA0902; HV = -8500; qe400 = 26.8
+[INFO] Hapd Serial = KA0902; chip = A; gain = 116900
+[INFO] Hapd Serial = KA0902; chip = B; gain = 132500
+[INFO] Hapd Serial = KA0902; chip = C; gain = 86200
+[INFO] Hapd Serial = KA0902; chip = D; gain = 156700
+[INFO] Sextant = 2, ring = 6, column = 10
+[INFO] module ID = 292, feb = 338, hapd = KA0893
+[INFO] Hapd Serial = KA0893; HV = -8500; qe400 = 34.2
+[INFO] Hapd Serial = KA0893; chip = A; gain = 152600
+[INFO] Hapd Serial = KA0893; chip = B; gain = 129100
+[INFO] Hapd Serial = KA0893; chip = C; gain = 128400
+[INFO] Hapd Serial = KA0893; chip = D; gain = 145000
+[INFO] Sextant = 2, ring = 6, column = 11
+[INFO] module ID = 293, feb = 433, hapd = KA0222
+[INFO] Hapd Serial = KA0222; HV = -8500; qe400 = 35.8
+[INFO] Hapd Serial = KA0222; chip = A; gain = 137900
+[INFO] Hapd Serial = KA0222; chip = B; gain = 163800
+[INFO] Hapd Serial = KA0222; chip = C; gain = 160000
+[INFO] Hapd Serial = KA0222; chip = D; gain = 151300
+[INFO] Sextant = 2, ring = 6, column = 12
+[INFO] module ID = 294, feb = 304, hapd = ZJ7472
+[INFO] Hapd Serial = ZJ7472; HV = -8500; qe400 = 31.7
+[INFO] Hapd Serial = ZJ7472; chip = A; gain = 131500
+[INFO] Hapd Serial = ZJ7472; chip = B; gain = 149000
+[INFO] Hapd Serial = ZJ7472; chip = C; gain = 132100
+[INFO] Hapd Serial = ZJ7472; chip = D; gain = 125600
+[INFO] Sextant = 2, ring = 7, column = 1
+[INFO] module ID = 356, feb = 453, hapd = KA0674
+[INFO] Hapd Serial = KA0674; HV = -8500; qe400 = 27.3
+[INFO] Hapd Serial = KA0674; chip = A; gain = 84700
+[INFO] Hapd Serial = KA0674; chip = B; gain = 107100
+[INFO] Hapd Serial = KA0674; chip = C; gain = 92400
+[INFO] Hapd Serial = KA0674; chip = D; gain = 97200
+[INFO] Sextant = 2, ring = 7, column = 2
+[INFO] module ID = 357, feb = 411, hapd = KA1018
+[INFO] Hapd Serial = KA1018; HV = -8500; qe400 = 33.3
+[INFO] Hapd Serial = KA1018; chip = A; gain = 95800
+[INFO] Hapd Serial = KA1018; chip = B; gain = 121000
+[INFO] Hapd Serial = KA1018; chip = C; gain = 136900
+[INFO] Hapd Serial = KA1018; chip = D; gain = 137200
+[INFO] Sextant = 2, ring = 7, column = 3
+[INFO] module ID = 358, feb = 441, hapd = KA0975
+[INFO] Hapd Serial = KA0975; HV = -8500; qe400 = 31.3
+[INFO] Hapd Serial = KA0975; chip = A; gain = 121900
+[INFO] Hapd Serial = KA0975; chip = B; gain = 142700
+[INFO] Hapd Serial = KA0975; chip = C; gain = 138400
+[INFO] Hapd Serial = KA0975; chip = D; gain = 144600
+[INFO] Sextant = 2, ring = 7, column = 4
+[INFO] module ID = 359, feb = 271, hapd = ZJ6729
+[INFO] Hapd Serial = ZJ6729; HV = -8500; qe400 = 38.8
+[INFO] Hapd Serial = ZJ6729; chip = A; gain = 103500
+[INFO] Hapd Serial = ZJ6729; chip = B; gain = 103000
+[INFO] Hapd Serial = ZJ6729; chip = C; gain = 100200
+[INFO] Hapd Serial = ZJ6729; chip = D; gain = 114000
+[INFO] Sextant = 2, ring = 7, column = 5
+[INFO] module ID = 360, feb = 439, hapd = KA1126
+[INFO] Hapd Serial = KA1126; HV = -8500; qe400 = 35.7
+[INFO] Hapd Serial = KA1126; chip = A; gain = 155900
+[INFO] Hapd Serial = KA1126; chip = B; gain = 131600
+[INFO] Hapd Serial = KA1126; chip = C; gain = 149400
+[INFO] Hapd Serial = KA1126; chip = D; gain = 134200
+[INFO] Sextant = 2, ring = 7, column = 6
+[INFO] module ID = 361, feb = 316, hapd = ZJ7824
+[INFO] Hapd Serial = ZJ7824; HV = -8500; qe400 = 24.3
+[INFO] Hapd Serial = ZJ7824; chip = A; gain = 120500
+[INFO] Hapd Serial = ZJ7824; chip = B; gain = 83000
+[INFO] Hapd Serial = ZJ7824; chip = C; gain = 164000
+[INFO] Hapd Serial = ZJ7824; chip = D; gain = 140200
+[INFO] Sextant = 2, ring = 7, column = 7
+[INFO] module ID = 362, feb = 244, hapd = KA0686
+[INFO] Hapd Serial = KA0686; HV = -8500; qe400 = 33.2
+[INFO] Hapd Serial = KA0686; chip = A; gain = 115500
+[INFO] Hapd Serial = KA0686; chip = B; gain = 160900
+[INFO] Hapd Serial = KA0686; chip = C; gain = 133600
+[INFO] Hapd Serial = KA0686; chip = D; gain = 145800
+[INFO] Sextant = 2, ring = 7, column = 8
+[INFO] module ID = 363, feb = 40, hapd = KA0456
+[INFO] Hapd Serial = KA0456; HV = -8500; qe400 = 31
+[INFO] Hapd Serial = KA0456; chip = A; gain = 151100
+[INFO] Hapd Serial = KA0456; chip = B; gain = 126000
+[INFO] Hapd Serial = KA0456; chip = C; gain = 133700
+[INFO] Hapd Serial = KA0456; chip = D; gain = 174300
+[INFO] Sextant = 2, ring = 7, column = 9
+[INFO] module ID = 364, feb = 319, hapd = ZJ7893
+[INFO] Hapd Serial = ZJ7893; HV = -8500; qe400 = 30.8
+[INFO] Hapd Serial = ZJ7893; chip = A; gain = 107200
+[INFO] Hapd Serial = ZJ7893; chip = B; gain = 114000
+[INFO] Hapd Serial = ZJ7893; chip = C; gain = 122800
+[INFO] Hapd Serial = ZJ7893; chip = D; gain = 99500
+[INFO] Sextant = 2, ring = 7, column = 10
+[INFO] module ID = 365, feb = 346, hapd = KA0831
+[INFO] Hapd Serial = KA0831; HV = -8500; qe400 = 30.4
+[INFO] Hapd Serial = KA0831; chip = A; gain = 124300
+[INFO] Hapd Serial = KA0831; chip = B; gain = 123800
+[INFO] Hapd Serial = KA0831; chip = C; gain = 103600
+[INFO] Hapd Serial = KA0831; chip = D; gain = 114700
+[INFO] Sextant = 2, ring = 7, column = 11
+[INFO] module ID = 366, feb = 243, hapd = KA0684
+[INFO] Hapd Serial = KA0684; HV = -8500; qe400 = 29.1
+[INFO] Hapd Serial = KA0684; chip = A; gain = 130700
+[INFO] Hapd Serial = KA0684; chip = B; gain = 166900
+[INFO] Hapd Serial = KA0684; chip = C; gain = 148200
+[INFO] Hapd Serial = KA0684; chip = D; gain = 128500
+[INFO] Sextant = 2, ring = 7, column = 12
+[INFO] module ID = 367, feb = 447, hapd = KA1137
+[INFO] Hapd Serial = KA1137; HV = -8500; qe400 = 37.6
+[INFO] Hapd Serial = KA1137; chip = A; gain = 138700
+[INFO] Hapd Serial = KA1137; chip = B; gain = 147000
+[INFO] Hapd Serial = KA1137; chip = C; gain = 153500
+[INFO] Hapd Serial = KA1137; chip = D; gain = 124500
+[INFO] Sextant = 2, ring = 7, column = 13
+[INFO] module ID = 368, feb = 443, hapd = ZJ7832
+[INFO] Hapd Serial = ZJ7832; HV = -8500; qe400 = 30.5
+[INFO] Hapd Serial = ZJ7832; chip = A; gain = 123800
+[INFO] Hapd Serial = ZJ7832; chip = B; gain = 127100
+[INFO] Hapd Serial = ZJ7832; chip = C; gain = 116400
+[INFO] Hapd Serial = ZJ7832; chip = D; gain = 111100
+[INFO] Sextant = 5, ring = 1, column = 1
+[INFO] module ID = 29, feb = 407, hapd = KA1008
+[INFO] Hapd Serial = KA1008; HV = -8500; qe400 = 32.3
+[INFO] Hapd Serial = KA1008; chip = A; gain = 137800
+[INFO] Hapd Serial = KA1008; chip = B; gain = 103000
+[INFO] Hapd Serial = KA1008; chip = C; gain = 138300
+[INFO] Hapd Serial = KA1008; chip = D; gain = 134600
+[INFO] Sextant = 5, ring = 1, column = 2
+[INFO] module ID = 30, feb = 451, hapd = KA0724
+[INFO] Hapd Serial = KA0724; HV = -8500; qe400 = 34.7
+[INFO] Hapd Serial = KA0724; chip = A; gain = 111400
+[INFO] Hapd Serial = KA0724; chip = B; gain = 127200
+[INFO] Hapd Serial = KA0724; chip = C; gain = 108100
+[INFO] Hapd Serial = KA0724; chip = D; gain = 145600
+[INFO] Sextant = 5, ring = 1, column = 3
+[INFO] module ID = 31, feb = 178, hapd = KA0593
+[INFO] Hapd Serial = KA0593; HV = -8500; qe400 = 28.1
+[INFO] Hapd Serial = KA0593; chip = A; gain = 129600
+[INFO] Hapd Serial = KA0593; chip = B; gain = 141900
+[INFO] Hapd Serial = KA0593; chip = C; gain = 147000
+[INFO] Hapd Serial = KA0593; chip = D; gain = 130700
+[INFO] Sextant = 5, ring = 1, column = 4
+[INFO] module ID = 32, feb = 360, hapd = KA0826
+[INFO] Hapd Serial = KA0826; HV = -8500; qe400 = 31.7
+[INFO] Hapd Serial = KA0826; chip = A; gain = 131600
+[INFO] Hapd Serial = KA0826; chip = B; gain = 131600
+[INFO] Hapd Serial = KA0826; chip = C; gain = 103700
+[INFO] Hapd Serial = KA0826; chip = D; gain = 130400
+[INFO] Sextant = 5, ring = 1, column = 5
+[INFO] module ID = 33, feb = 29, hapd = ZJ5894
+[INFO] Hapd Serial = ZJ5894; HV = -8500; qe400 = 30.3
+[INFO] Hapd Serial = ZJ5894; chip = A; gain = 134900
+[INFO] Hapd Serial = ZJ5894; chip = B; gain = 148700
+[INFO] Hapd Serial = ZJ5894; chip = C; gain = 145700
+[INFO] Hapd Serial = ZJ5894; chip = D; gain = 170400
+[INFO] Sextant = 5, ring = 1, column = 6
+[INFO] module ID = 34, feb = 302, hapd = ZJ5937
+[INFO] Hapd Serial = ZJ5937; HV = -8500; qe400 = 33.6
+[INFO] Hapd Serial = ZJ5937; chip = A; gain = 132700
+[INFO] Hapd Serial = ZJ5937; chip = B; gain = 138800
+[INFO] Hapd Serial = ZJ5937; chip = C; gain = 116400
+[INFO] Hapd Serial = ZJ5937; chip = D; gain = 128700
+[INFO] Sextant = 5, ring = 1, column = 7
+[INFO] module ID = 35, feb = 283, hapd = ZJ5943
+[INFO] Hapd Serial = ZJ5943; HV = -8500; qe400 = 32.6
+[INFO] Hapd Serial = ZJ5943; chip = A; gain = 85600
+[INFO] Hapd Serial = ZJ5943; chip = B; gain = 102900
+[INFO] Hapd Serial = ZJ5943; chip = C; gain = 113600
+[INFO] Hapd Serial = ZJ5943; chip = D; gain = 115500
+[INFO] Sextant = 5, ring = 2, column = 1
+[INFO] module ID = 75, feb = 163, hapd = KA0514
+[INFO] Hapd Serial = KA0514; HV = -8500; qe400 = 31
+[INFO] Hapd Serial = KA0514; chip = A; gain = 127400
+[INFO] Hapd Serial = KA0514; chip = B; gain = 118600
+[INFO] Hapd Serial = KA0514; chip = C; gain = 124900
+[INFO] Hapd Serial = KA0514; chip = D; gain = 155900
+[INFO] Sextant = 5, ring = 2, column = 2
+[INFO] module ID = 76, feb = 153, hapd = KA0423
+[INFO] Hapd Serial = KA0423; HV = -8500; qe400 = 34
+[INFO] Hapd Serial = KA0423; chip = A; gain = 162900
+[INFO] Hapd Serial = KA0423; chip = B; gain = 167100
+[INFO] Hapd Serial = KA0423; chip = C; gain = 158800
+[INFO] Hapd Serial = KA0423; chip = D; gain = 109400
+[INFO] Sextant = 5, ring = 2, column = 3
+[INFO] module ID = 77, feb = 114, hapd = KA1055
+[INFO] Hapd Serial = KA1055; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA1055; chip = A; gain = 139200
+[INFO] Hapd Serial = KA1055; chip = B; gain = 139600
+[INFO] Hapd Serial = KA1055; chip = C; gain = 137700
+[INFO] Hapd Serial = KA1055; chip = D; gain = 131000
+[INFO] Sextant = 5, ring = 2, column = 4
+[INFO] module ID = 78, feb = 47, hapd = KA0580
+[INFO] Hapd Serial = KA0580; HV = -8500; qe400 = 34.3
+[INFO] Hapd Serial = KA0580; chip = A; gain = 143300
+[INFO] Hapd Serial = KA0580; chip = B; gain = 123100
+[INFO] Hapd Serial = KA0580; chip = C; gain = 153300
+[INFO] Hapd Serial = KA0580; chip = D; gain = 133200
+[INFO] Sextant = 5, ring = 2, column = 5
+[INFO] module ID = 79, feb = 78, hapd = KA0325
+[INFO] Hapd Serial = KA0325; HV = -8500; qe400 = 28.5
+[INFO] Hapd Serial = KA0325; chip = A; gain = 142700
+[INFO] Hapd Serial = KA0325; chip = B; gain = 143100
+[INFO] Hapd Serial = KA0325; chip = C; gain = 140600
+[INFO] Hapd Serial = KA0325; chip = D; gain = 190500
+[INFO] Sextant = 5, ring = 2, column = 6
+[INFO] module ID = 80, feb = 201, hapd = KA0954
+[INFO] Hapd Serial = KA0954; HV = -8500; qe400 = 34.9
+[INFO] Hapd Serial = KA0954; chip = A; gain = 143900
+[INFO] Hapd Serial = KA0954; chip = B; gain = 131800
+[INFO] Hapd Serial = KA0954; chip = C; gain = 123900
+[INFO] Hapd Serial = KA0954; chip = D; gain = 137600
+[INFO] Sextant = 5, ring = 2, column = 7
+[INFO] module ID = 81, feb = 276, hapd = ZJ6732
+[INFO] Hapd Serial = ZJ6732; HV = -8500; qe400 = 29.1
+[INFO] Hapd Serial = ZJ6732; chip = A; gain = 139600
+[INFO] Hapd Serial = ZJ6732; chip = B; gain = 123800
+[INFO] Hapd Serial = ZJ6732; chip = C; gain = 121400
+[INFO] Hapd Serial = ZJ6732; chip = D; gain = 124500
+[INFO] Sextant = 5, ring = 2, column = 8
+[INFO] module ID = 82, feb = 27, hapd = ZJ5945
+[INFO] Hapd Serial = ZJ5945; HV = -8500; qe400 = 29.8
+[INFO] Hapd Serial = ZJ5945; chip = A; gain = 92800
+[INFO] Hapd Serial = ZJ5945; chip = B; gain = 109400
+[INFO] Hapd Serial = ZJ5945; chip = C; gain = 115000
+[INFO] Hapd Serial = ZJ5945; chip = D; gain = 99800
+[INFO] Sextant = 5, ring = 3, column = 1
+[INFO] module ID = 127, feb = 423, hapd = KA0368
+[INFO] Hapd Serial = KA0368; HV = -8500; qe400 = 32.3
+[INFO] Hapd Serial = KA0368; chip = A; gain = 164100
+[INFO] Hapd Serial = KA0368; chip = B; gain = 136100
+[INFO] Hapd Serial = KA0368; chip = C; gain = 153400
+[INFO] Hapd Serial = KA0368; chip = D; gain = 135800
+[INFO] Sextant = 5, ring = 3, column = 2
+[INFO] module ID = 128, feb = 207, hapd = KA0665
+[INFO] Hapd Serial = KA0665; HV = -8500; qe400 = 27.8
+[INFO] Hapd Serial = KA0665; chip = A; gain = 106200
+[INFO] Hapd Serial = KA0665; chip = B; gain = 151100
+[INFO] Hapd Serial = KA0665; chip = C; gain = 152200
+[INFO] Hapd Serial = KA0665; chip = D; gain = 126300
+[INFO] Sextant = 5, ring = 3, column = 3
+[INFO] module ID = 129, feb = 418, hapd = KA0235
+[INFO] Hapd Serial = KA0235; HV = -8500; qe400 = 25.8
+[INFO] Hapd Serial = KA0235; chip = A; gain = 169500
+[INFO] Hapd Serial = KA0235; chip = B; gain = 179700
+[INFO] Hapd Serial = KA0235; chip = C; gain = 170500
+[INFO] Hapd Serial = KA0235; chip = D; gain = 145400
+[INFO] Sextant = 5, ring = 3, column = 4
+[INFO] module ID = 130, feb = 348, hapd = KA0839
+[INFO] Hapd Serial = KA0839; HV = -8500; qe400 = 35.5
+[INFO] Hapd Serial = KA0839; chip = A; gain = 150500
+[INFO] Hapd Serial = KA0839; chip = B; gain = 133000
+[INFO] Hapd Serial = KA0839; chip = C; gain = 130200
+[INFO] Hapd Serial = KA0839; chip = D; gain = 144400
+[INFO] Sextant = 5, ring = 3, column = 5
+[INFO] module ID = 131, feb = 362, hapd = KA0876
+[INFO] Hapd Serial = KA0876; HV = -8500; qe400 = 33.4
+[INFO] Hapd Serial = KA0876; chip = A; gain = 133900
+[INFO] Hapd Serial = KA0876; chip = B; gain = 117000
+[INFO] Hapd Serial = KA0876; chip = C; gain = 141200
+[INFO] Hapd Serial = KA0876; chip = D; gain = 130200
+[INFO] Sextant = 5, ring = 3, column = 6
+[INFO] module ID = 132, feb = 246, hapd = KA0777
+[INFO] Hapd Serial = KA0777; HV = -8500; qe400 = 35.5
+[INFO] Hapd Serial = KA0777; chip = A; gain = 112500
+[INFO] Hapd Serial = KA0777; chip = B; gain = 135800
+[INFO] Hapd Serial = KA0777; chip = C; gain = 122600
+[INFO] Hapd Serial = KA0777; chip = D; gain = 131500
+[INFO] Sextant = 5, ring = 3, column = 7
+[INFO] module ID = 133, feb = 412, hapd = KA1061
+[INFO] Hapd Serial = KA1061; HV = -8500; qe400 = 33.5
+[INFO] Hapd Serial = KA1061; chip = A; gain = 130800
+[INFO] Hapd Serial = KA1061; chip = B; gain = 137600
+[INFO] Hapd Serial = KA1061; chip = C; gain = 96300
+[INFO] Hapd Serial = KA1061; chip = D; gain = 134000
+[INFO] Sextant = 5, ring = 3, column = 8
+[INFO] module ID = 134, feb = 371, hapd = KA0869
+[INFO] Hapd Serial = KA0869; HV = -8500; qe400 = 35.8
+[INFO] Hapd Serial = KA0869; chip = A; gain = 117600
+[INFO] Hapd Serial = KA0869; chip = B; gain = 98700
+[INFO] Hapd Serial = KA0869; chip = C; gain = 93100
+[INFO] Hapd Serial = KA0869; chip = D; gain = 97600
+[INFO] Sextant = 5, ring = 3, column = 9
+[INFO] module ID = 135, feb = 267, hapd = KA0986
+[INFO] Hapd Serial = KA0986; HV = -8500; qe400 = 34.9
+[INFO] Hapd Serial = KA0986; chip = A; gain = 131600
+[INFO] Hapd Serial = KA0986; chip = B; gain = 111700
+[INFO] Hapd Serial = KA0986; chip = C; gain = 140800
+[INFO] Hapd Serial = KA0986; chip = D; gain = 144400
+[INFO] Sextant = 5, ring = 4, column = 1
+[INFO] module ID = 185, feb = 122, hapd = KA0238
+[INFO] Hapd Serial = KA0238; HV = -8500; qe400 = 32.8
+[INFO] Hapd Serial = KA0238; chip = A; gain = 144100
+[INFO] Hapd Serial = KA0238; chip = B; gain = 174200
+[INFO] Hapd Serial = KA0238; chip = C; gain = 152600
+[INFO] Hapd Serial = KA0238; chip = D; gain = 145700
+[INFO] Sextant = 5, ring = 4, column = 2
+[INFO] module ID = 186, feb = 235, hapd = KA0794
+[INFO] Hapd Serial = KA0794; HV = -8500; qe400 = 36.5
+[INFO] Hapd Serial = KA0794; chip = A; gain = 138600
+[INFO] Hapd Serial = KA0794; chip = B; gain = 155300
+[INFO] Hapd Serial = KA0794; chip = C; gain = 107800
+[INFO] Hapd Serial = KA0794; chip = D; gain = 120800
+[INFO] Sextant = 5, ring = 4, column = 3
+[INFO] module ID = 187, feb = 342, hapd = KA0865
+[INFO] Hapd Serial = KA0865; HV = -8500; qe400 = 34.1
+[INFO] Hapd Serial = KA0865; chip = A; gain = 119200
+[INFO] Hapd Serial = KA0865; chip = B; gain = 95400
+[INFO] Hapd Serial = KA0865; chip = C; gain = 126900
+[INFO] Hapd Serial = KA0865; chip = D; gain = 107900
+[INFO] Sextant = 5, ring = 4, column = 4
+[INFO] module ID = 188, feb = 254, hapd = KA0932
+[INFO] Hapd Serial = KA0932; HV = -8500; qe400 = 30.4
+[INFO] Hapd Serial = KA0932; chip = A; gain = 135700
+[INFO] Hapd Serial = KA0932; chip = B; gain = 153400
+[INFO] Hapd Serial = KA0932; chip = C; gain = 136600
+[INFO] Hapd Serial = KA0932; chip = D; gain = 134700
+[INFO] Sextant = 5, ring = 4, column = 5
+[INFO] module ID = 189, feb = 241, hapd = KA0651
+[INFO] Hapd Serial = KA0651; HV = -8500; qe400 = 29
+[INFO] Hapd Serial = KA0651; chip = A; gain = 144800
+[INFO] Hapd Serial = KA0651; chip = B; gain = 104100
+[INFO] Hapd Serial = KA0651; chip = C; gain = 109200
+[INFO] Hapd Serial = KA0651; chip = D; gain = 152900
+[INFO] Sextant = 5, ring = 4, column = 6
+[INFO] module ID = 190, feb = 169, hapd = KA0569
+[INFO] Hapd Serial = KA0569; HV = -8500; qe400 = 28
+[INFO] Hapd Serial = KA0569; chip = A; gain = 116500
+[INFO] Hapd Serial = KA0569; chip = B; gain = 146500
+[INFO] Hapd Serial = KA0569; chip = C; gain = 145400
+[INFO] Hapd Serial = KA0569; chip = D; gain = 110500
+[INFO] Sextant = 5, ring = 4, column = 7
+[INFO] module ID = 191, feb = 159, hapd = KA0225
+[INFO] Hapd Serial = KA0225; HV = -8500; qe400 = 32.9
+[INFO] Hapd Serial = KA0225; chip = A; gain = 114000
+[INFO] Hapd Serial = KA0225; chip = B; gain = 136800
+[INFO] Hapd Serial = KA0225; chip = C; gain = 120900
+[INFO] Hapd Serial = KA0225; chip = D; gain = 146700
+[INFO] Sextant = 5, ring = 4, column = 8
+[INFO] module ID = 192, feb = 217, hapd = KA0766
+[INFO] Hapd Serial = KA0766; HV = -8500; qe400 = 35.6
+[INFO] Hapd Serial = KA0766; chip = A; gain = 161700
+[INFO] Hapd Serial = KA0766; chip = B; gain = 150800
+[INFO] Hapd Serial = KA0766; chip = C; gain = 119000
+[INFO] Hapd Serial = KA0766; chip = D; gain = 124000
+[INFO] Sextant = 5, ring = 4, column = 9
+[INFO] module ID = 193, feb = 339, hapd = KA0894
+[INFO] Hapd Serial = KA0894; HV = -8500; qe400 = 35.8
+[INFO] Hapd Serial = KA0894; chip = A; gain = 136700
+[INFO] Hapd Serial = KA0894; chip = B; gain = 129200
+[INFO] Hapd Serial = KA0894; chip = C; gain = 124500
+[INFO] Hapd Serial = KA0894; chip = D; gain = 132800
+[INFO] Sextant = 5, ring = 4, column = 10
+[INFO] module ID = 194, feb = 215, hapd = KA0610
+[INFO] Hapd Serial = KA0610; HV = -8500; qe400 = 39.4
+[INFO] Hapd Serial = KA0610; chip = A; gain = 132600
+[INFO] Hapd Serial = KA0610; chip = B; gain = 134000
+[INFO] Hapd Serial = KA0610; chip = C; gain = 123500
+[INFO] Hapd Serial = KA0610; chip = D; gain = 131000
+[INFO] Sextant = 5, ring = 5, column = 1
+[INFO] module ID = 249, feb = 57, hapd = KA0379
+[INFO] Hapd Serial = KA0379; HV = -8500; qe400 = 31.3
+[INFO] Hapd Serial = KA0379; chip = A; gain = 157100
+[INFO] Hapd Serial = KA0379; chip = B; gain = 157400
+[INFO] Hapd Serial = KA0379; chip = C; gain = 162800
+[INFO] Hapd Serial = KA0379; chip = D; gain = 164300
+[INFO] Sextant = 5, ring = 5, column = 2
+[INFO] module ID = 250, feb = 76, hapd = KA0679
+[INFO] Hapd Serial = KA0679; HV = -8500; qe400 = 28.5
+[INFO] Hapd Serial = KA0679; chip = A; gain = 143700
+[INFO] Hapd Serial = KA0679; chip = B; gain = 132600
+[INFO] Hapd Serial = KA0679; chip = C; gain = 141800
+[INFO] Hapd Serial = KA0679; chip = D; gain = 140100
+[INFO] Sextant = 5, ring = 5, column = 3
+[INFO] module ID = 251, feb = 173, hapd = KA0572
+[INFO] Hapd Serial = KA0572; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA0572; chip = A; gain = 128600
+[INFO] Hapd Serial = KA0572; chip = B; gain = 144600
+[INFO] Hapd Serial = KA0572; chip = C; gain = 137300
+[INFO] Hapd Serial = KA0572; chip = D; gain = 139400
+[INFO] Sextant = 5, ring = 5, column = 4
+[INFO] module ID = 252, feb = 421, hapd = KA1106
+[INFO] Hapd Serial = KA1106; HV = -8500; qe400 = 34.1
+[INFO] Hapd Serial = KA1106; chip = A; gain = 119100
+[INFO] Hapd Serial = KA1106; chip = B; gain = 96700
+[INFO] Hapd Serial = KA1106; chip = C; gain = 153500
+[INFO] Hapd Serial = KA1106; chip = D; gain = 150800
+[INFO] Sextant = 5, ring = 5, column = 5
+[INFO] module ID = 253, feb = 434, hapd = ZJ7830
+[INFO] Hapd Serial = ZJ7830; HV = -8500; qe400 = 25.9
+[INFO] Hapd Serial = ZJ7830; chip = A; gain = 157400
+[INFO] Hapd Serial = ZJ7830; chip = B; gain = 116700
+[INFO] Hapd Serial = ZJ7830; chip = C; gain = 132900
+[INFO] Hapd Serial = ZJ7830; chip = D; gain = 123100
+[INFO] Sextant = 5, ring = 5, column = 6
+[INFO] module ID = 254, feb = 28, hapd = ZJ5887
+[INFO] Hapd Serial = ZJ5887; HV = -8500; qe400 = 24.8
+[INFO] Hapd Serial = ZJ5887; chip = A; gain = 143400
+[INFO] Hapd Serial = ZJ5887; chip = B; gain = 132900
+[INFO] Hapd Serial = ZJ5887; chip = C; gain = 169700
+[INFO] Hapd Serial = ZJ5887; chip = D; gain = 107000
+[INFO] Sextant = 5, ring = 5, column = 7
+[INFO] module ID = 255, feb = 363, hapd = KA0872
+[INFO] Hapd Serial = KA0872; HV = -8500; qe400 = 29.3
+[INFO] Hapd Serial = KA0872; chip = A; gain = 120700
+[INFO] Hapd Serial = KA0872; chip = B; gain = 121500
+[INFO] Hapd Serial = KA0872; chip = C; gain = 129900
+[INFO] Hapd Serial = KA0872; chip = D; gain = 130700
+[INFO] Sextant = 5, ring = 5, column = 8
+[INFO] module ID = 256, feb = 230, hapd = KA0787
+[INFO] Hapd Serial = KA0787; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA0787; chip = A; gain = 128200
+[INFO] Hapd Serial = KA0787; chip = B; gain = 117500
+[INFO] Hapd Serial = KA0787; chip = C; gain = 133000
+[INFO] Hapd Serial = KA0787; chip = D; gain = 156200
+[INFO] Sextant = 5, ring = 5, column = 9
+[INFO] module ID = 257, feb = 35, hapd = ZJ5614
+[INFO] Hapd Serial = ZJ5614; HV = -8500; qe400 = 29.2
+[INFO] Hapd Serial = ZJ5614; chip = A; gain = 115100
+[INFO] Hapd Serial = ZJ5614; chip = B; gain = 141700
+[INFO] Hapd Serial = ZJ5614; chip = C; gain = 128800
+[INFO] Hapd Serial = ZJ5614; chip = D; gain = 91900
+[INFO] Sextant = 5, ring = 5, column = 10
+[INFO] module ID = 258, feb = 400, hapd = KA1085
+[INFO] Hapd Serial = KA1085; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA1085; chip = A; gain = 137300
+[INFO] Hapd Serial = KA1085; chip = B; gain = 157200
+[INFO] Hapd Serial = KA1085; chip = C; gain = 121100
+[INFO] Hapd Serial = KA1085; chip = D; gain = 97800
+[INFO] Sextant = 5, ring = 5, column = 11
+[INFO] module ID = 259, feb = 102, hapd = KA0266
+[INFO] Hapd Serial = KA0266; HV = -8500; qe400 = 30.1
+[INFO] Hapd Serial = KA0266; chip = A; gain = 141500
+[INFO] Hapd Serial = KA0266; chip = B; gain = 131100
+[INFO] Hapd Serial = KA0266; chip = C; gain = 153300
+[INFO] Hapd Serial = KA0266; chip = D; gain = 161700
+[INFO] Sextant = 5, ring = 6, column = 1
+[INFO] module ID = 319, feb = 71, hapd = KA0287
+[INFO] Hapd Serial = KA0287; HV = -8500; qe400 = 38.9
+[INFO] Hapd Serial = KA0287; chip = A; gain = 128000
+[INFO] Hapd Serial = KA0287; chip = B; gain = 139000
+[INFO] Hapd Serial = KA0287; chip = C; gain = 147600
+[INFO] Hapd Serial = KA0287; chip = D; gain = 167500
+[INFO] Sextant = 5, ring = 6, column = 2
+[INFO] module ID = 320, feb = 373, hapd = KA1007
+[INFO] Hapd Serial = KA1007; HV = -8500; qe400 = 28.8
+[INFO] Hapd Serial = KA1007; chip = A; gain = 134900
+[INFO] Hapd Serial = KA1007; chip = B; gain = 141800
+[INFO] Hapd Serial = KA1007; chip = C; gain = 115100
+[INFO] Hapd Serial = KA1007; chip = D; gain = 130700
+[INFO] Sextant = 5, ring = 6, column = 3
+[INFO] module ID = 321, feb = 452, hapd = KA1131
+[INFO] Hapd Serial = KA1131; HV = -8500; qe400 = 34.5
+[INFO] Hapd Serial = KA1131; chip = A; gain = 144900
+[INFO] Hapd Serial = KA1131; chip = B; gain = 157900
+[INFO] Hapd Serial = KA1131; chip = C; gain = 147800
+[INFO] Hapd Serial = KA1131; chip = D; gain = 171600
+[INFO] Sextant = 5, ring = 6, column = 4
+[INFO] module ID = 322, feb = 226, hapd = KA0768
+[INFO] Hapd Serial = KA0768; HV = -8500; qe400 = 30.3
+[INFO] Hapd Serial = KA0768; chip = A; gain = 168300
+[INFO] Hapd Serial = KA0768; chip = B; gain = 142500
+[INFO] Hapd Serial = KA0768; chip = C; gain = 146400
+[INFO] Hapd Serial = KA0768; chip = D; gain = 114100
+[INFO] Sextant = 5, ring = 6, column = 5
+[INFO] module ID = 323, feb = 380, hapd = KA1093
+[INFO] Hapd Serial = KA1093; HV = -8500; qe400 = 36.9
+[INFO] Hapd Serial = KA1093; chip = A; gain = 110200
+[INFO] Hapd Serial = KA1093; chip = B; gain = 119400
+[INFO] Hapd Serial = KA1093; chip = C; gain = 145300
+[INFO] Hapd Serial = KA1093; chip = D; gain = 135500
+[INFO] Sextant = 5, ring = 6, column = 6
+[INFO] module ID = 324, feb = 184, hapd = KA0722
+[INFO] Hapd Serial = KA0722; HV = -8500; qe400 = 35.1
+[INFO] Hapd Serial = KA0722; chip = A; gain = 106900
+[INFO] Hapd Serial = KA0722; chip = B; gain = 153700
+[INFO] Hapd Serial = KA0722; chip = C; gain = 153000
+[INFO] Hapd Serial = KA0722; chip = D; gain = 130900
+[INFO] Sextant = 5, ring = 6, column = 7
+[INFO] module ID = 325, feb = 331, hapd = KA0838
+[INFO] Hapd Serial = KA0838; HV = -8500; qe400 = 27.7
+[INFO] Hapd Serial = KA0838; chip = A; gain = 137500
+[INFO] Hapd Serial = KA0838; chip = B; gain = 121200
+[INFO] Hapd Serial = KA0838; chip = C; gain = 133900
+[INFO] Hapd Serial = KA0838; chip = D; gain = 141500
+[INFO] Sextant = 5, ring = 6, column = 8
+[INFO] module ID = 326, feb = 48, hapd = KA0632
+[INFO] Hapd Serial = KA0632; HV = -8500; qe400 = 35.7
+[INFO] Hapd Serial = KA0632; chip = A; gain = 141300
+[INFO] Hapd Serial = KA0632; chip = B; gain = 128800
+[INFO] Hapd Serial = KA0632; chip = C; gain = 95200
+[INFO] Hapd Serial = KA0632; chip = D; gain = 98900
+[INFO] Sextant = 5, ring = 6, column = 9
+[INFO] module ID = 327, feb = 44, hapd = KA0516
+[INFO] Hapd Serial = KA0516; HV = -8500; qe400 = 31.1
+[INFO] Hapd Serial = KA0516; chip = A; gain = 135700
+[INFO] Hapd Serial = KA0516; chip = B; gain = 164700
+[INFO] Hapd Serial = KA0516; chip = C; gain = 115900
+[INFO] Hapd Serial = KA0516; chip = D; gain = 140600
+[INFO] Sextant = 5, ring = 6, column = 10
+[INFO] module ID = 328, feb = 100, hapd = KA0260
+[INFO] Hapd Serial = KA0260; HV = -8500; qe400 = 29.3
+[INFO] Hapd Serial = KA0260; chip = A; gain = 144900
+[INFO] Hapd Serial = KA0260; chip = B; gain = 161700
+[INFO] Hapd Serial = KA0260; chip = C; gain = 139200
+[INFO] Hapd Serial = KA0260; chip = D; gain = 146800
+[INFO] Sextant = 5, ring = 6, column = 11
+[INFO] module ID = 329, feb = 446, hapd = KA1136
+[INFO] Hapd Serial = KA1136; HV = -8500; qe400 = 33.2
+[INFO] Hapd Serial = KA1136; chip = A; gain = 99400
+[INFO] Hapd Serial = KA1136; chip = B; gain = 88000
+[INFO] Hapd Serial = KA1136; chip = C; gain = 119900
+[INFO] Hapd Serial = KA1136; chip = D; gain = 111900
+[INFO] Sextant = 5, ring = 6, column = 12
+[INFO] module ID = 330, feb = 94, hapd = KA0963
+[INFO] Hapd Serial = KA0963; HV = -8500; qe400 = 35.8
+[INFO] Hapd Serial = KA0963; chip = A; gain = 118700
+[INFO] Hapd Serial = KA0963; chip = B; gain = 141500
+[INFO] Hapd Serial = KA0963; chip = C; gain = 120600
+[INFO] Hapd Serial = KA0963; chip = D; gain = 130600
+[INFO] Sextant = 5, ring = 7, column = 1
+[INFO] module ID = 395, feb = 182, hapd = KA0530
+[INFO] Hapd Serial = KA0530; HV = -8500; qe400 = 32.6
+[INFO] Hapd Serial = KA0530; chip = A; gain = 125200
+[INFO] Hapd Serial = KA0530; chip = B; gain = 120900
+[INFO] Hapd Serial = KA0530; chip = C; gain = 113700
+[INFO] Hapd Serial = KA0530; chip = D; gain = 122500
+[INFO] Sextant = 5, ring = 7, column = 2
+[INFO] module ID = 396, feb = 189, hapd = KA0521
+[INFO] Hapd Serial = KA0521; HV = -8500; qe400 = 33.8
+[INFO] Hapd Serial = KA0521; chip = A; gain = 141300
+[INFO] Hapd Serial = KA0521; chip = B; gain = 123400
+[INFO] Hapd Serial = KA0521; chip = C; gain = 127200
+[INFO] Hapd Serial = KA0521; chip = D; gain = 133500
+[INFO] Sextant = 5, ring = 7, column = 3
+[INFO] module ID = 397, feb = 231, hapd = KA0796
+[INFO] Hapd Serial = KA0796; HV = -8500; qe400 = 34.1
+[INFO] Hapd Serial = KA0796; chip = A; gain = 141900
+[INFO] Hapd Serial = KA0796; chip = B; gain = 129600
+[INFO] Hapd Serial = KA0796; chip = C; gain = 135700
+[INFO] Hapd Serial = KA0796; chip = D; gain = 115200
+[INFO] Sextant = 5, ring = 7, column = 4
+[INFO] module ID = 398, feb = 238, hapd = KA0631
+[INFO] Hapd Serial = KA0631; HV = -8500; qe400 = 35.2
+[INFO] Hapd Serial = KA0631; chip = A; gain = 133500
+[INFO] Hapd Serial = KA0631; chip = B; gain = 142500
+[INFO] Hapd Serial = KA0631; chip = C; gain = 146200
+[INFO] Hapd Serial = KA0631; chip = D; gain = 149200
+[INFO] Sextant = 5, ring = 7, column = 5
+[INFO] module ID = 399, feb = 384, hapd = KA1080
+[INFO] Hapd Serial = KA1080; HV = -8500; qe400 = 37
+[INFO] Hapd Serial = KA1080; chip = A; gain = 155900
+[INFO] Hapd Serial = KA1080; chip = B; gain = 124700
+[INFO] Hapd Serial = KA1080; chip = C; gain = 145600
+[INFO] Hapd Serial = KA1080; chip = D; gain = 124500
+[INFO] Sextant = 5, ring = 7, column = 6
+[INFO] module ID = 400, feb = 222, hapd = KA0798
+[INFO] Hapd Serial = KA0798; HV = -8500; qe400 = 33.9
+[INFO] Hapd Serial = KA0798; chip = A; gain = 125600
+[INFO] Hapd Serial = KA0798; chip = B; gain = 116800
+[INFO] Hapd Serial = KA0798; chip = C; gain = 121100
+[INFO] Hapd Serial = KA0798; chip = D; gain = 134200
+[INFO] Sextant = 5, ring = 7, column = 7
+[INFO] module ID = 401, feb = 408, hapd = KA1022
+[INFO] Hapd Serial = KA1022; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA1022; chip = A; gain = 133700
+[INFO] Hapd Serial = KA1022; chip = B; gain = 143300
+[INFO] Hapd Serial = KA1022; chip = C; gain = 150600
+[INFO] Hapd Serial = KA1022; chip = D; gain = 125900
+[INFO] Sextant = 5, ring = 7, column = 8
+[INFO] module ID = 402, feb = 149, hapd = KA0414
+[INFO] Hapd Serial = KA0414; HV = -8500; qe400 = 34.5
+[INFO] Hapd Serial = KA0414; chip = A; gain = 149000
+[INFO] Hapd Serial = KA0414; chip = B; gain = 158700
+[INFO] Hapd Serial = KA0414; chip = C; gain = 133800
+[INFO] Hapd Serial = KA0414; chip = D; gain = 151000
+[INFO] Sextant = 5, ring = 7, column = 9
+[INFO] module ID = 403, feb = 318, hapd = ZJ7833
+[INFO] Hapd Serial = ZJ7833; HV = -8500; qe400 = 32
+[INFO] Hapd Serial = ZJ7833; chip = A; gain = 127000
+[INFO] Hapd Serial = ZJ7833; chip = B; gain = 126100
+[INFO] Hapd Serial = ZJ7833; chip = C; gain = 136600
+[INFO] Hapd Serial = ZJ7833; chip = D; gain = 93200
+[INFO] Sextant = 5, ring = 7, column = 10
+[INFO] module ID = 404, feb = 450, hapd = KA1130
+[INFO] Hapd Serial = KA1130; HV = -8500; qe400 = 36.8
+[INFO] Hapd Serial = KA1130; chip = A; gain = 132200
+[INFO] Hapd Serial = KA1130; chip = B; gain = 161700
+[INFO] Hapd Serial = KA1130; chip = C; gain = 142400
+[INFO] Hapd Serial = KA1130; chip = D; gain = 149400
+[INFO] Sextant = 5, ring = 7, column = 11
+[INFO] module ID = 405, feb = 314, hapd = ZJ7823
+[INFO] Hapd Serial = ZJ7823; HV = -8500; qe400 = 32.9
+[INFO] Hapd Serial = ZJ7823; chip = A; gain = 145200
+[INFO] Hapd Serial = ZJ7823; chip = B; gain = 142800
+[INFO] Hapd Serial = ZJ7823; chip = C; gain = 97400
+[INFO] Hapd Serial = ZJ7823; chip = D; gain = 148000
+[INFO] Sextant = 5, ring = 7, column = 12
+[INFO] module ID = 406, feb = 462, hapd = ZJ7471
+[INFO] Hapd Serial = ZJ7471; HV = -8500; qe400 = 35.5
+[INFO] Hapd Serial = ZJ7471; chip = A; gain = 137700
+[INFO] Hapd Serial = ZJ7471; chip = B; gain = 144700
+[INFO] Hapd Serial = ZJ7471; chip = C; gain = 102000
+[INFO] Hapd Serial = ZJ7471; chip = D; gain = 158600
+[INFO] Sextant = 5, ring = 7, column = 13
+[INFO] module ID = 407, feb = 183, hapd = KA0701
+[INFO] Hapd Serial = KA0701; HV = -8500; qe400 = 36
+[INFO] Hapd Serial = KA0701; chip = A; gain = 164800
+[INFO] Hapd Serial = KA0701; chip = B; gain = 166900
+[INFO] Hapd Serial = KA0701; chip = C; gain = 139600
+[INFO] Hapd Serial = KA0701; chip = D; gain = 156600
+[INFO] Sextant = 6, ring = 1, column = 1
+[INFO] module ID = 36, feb = 187, hapd = KA0502
+[INFO] Hapd Serial = KA0502; HV = -8500; qe400 = 30.3
+[INFO] Hapd Serial = KA0502; chip = A; gain = 131700
+[INFO] Hapd Serial = KA0502; chip = B; gain = 146500
+[INFO] Hapd Serial = KA0502; chip = C; gain = 142900
+[INFO] Hapd Serial = KA0502; chip = D; gain = 113600
+[INFO] Sextant = 6, ring = 2, column = 1
+[INFO] module ID = 83, feb = 168, hapd = KA0623
+[INFO] Hapd Serial = KA0623; HV = -8500; qe400 = 26.8
+[INFO] Hapd Serial = KA0623; chip = A; gain = 116700
+[INFO] Hapd Serial = KA0623; chip = B; gain = 119700
+[INFO] Hapd Serial = KA0623; chip = C; gain = 84500
+[INFO] Hapd Serial = KA0623; chip = D; gain = 146600
+[INFO] Sextant = 6, ring = 3, column = 1
+[INFO] module ID = 136, feb = 39, hapd = KA0461
+[INFO] Hapd Serial = KA0461; HV = -8500; qe400 = 27.4
+[INFO] Hapd Serial = KA0461; chip = A; gain = 128500
+[INFO] Hapd Serial = KA0461; chip = B; gain = 178600
+[INFO] Hapd Serial = KA0461; chip = C; gain = 142100
+[INFO] Hapd Serial = KA0461; chip = D; gain = 149000
+[INFO] Sextant = 6, ring = 4, column = 1
+[INFO] module ID = 195, feb = 42, hapd = KA0464
+[INFO] Hapd Serial = KA0464; HV = -8500; qe400 = 31.9
+[INFO] Hapd Serial = KA0464; chip = A; gain = 123500
+[INFO] Hapd Serial = KA0464; chip = B; gain = 106400
+[INFO] Hapd Serial = KA0464; chip = C; gain = 90500
+[INFO] Hapd Serial = KA0464; chip = D; gain = 133000
+[INFO] Sextant = 6, ring = 5, column = 1
+[INFO] module ID = 260, feb = 212, hapd = KA0719
+[INFO] Hapd Serial = KA0719; HV = -8500; qe400 = 36.1
+[INFO] Hapd Serial = KA0719; chip = A; gain = 109300
+[INFO] Hapd Serial = KA0719; chip = B; gain = 103000
+[INFO] Hapd Serial = KA0719; chip = C; gain = 106000
+[INFO] Hapd Serial = KA0719; chip = D; gain = 108600
+[INFO] Sextant = 6, ring = 6, column = 1
+[INFO] module ID = 331, feb = 426, hapd = KA1105
+[INFO] Hapd Serial = KA1105; HV = -8500; qe400 = 33.8
+[INFO] Hapd Serial = KA1105; chip = A; gain = 113800
+[INFO] Hapd Serial = KA1105; chip = B; gain = 136500
+[INFO] Hapd Serial = KA1105; chip = C; gain = 123000
+[INFO] Hapd Serial = KA1105; chip = D; gain = 133300
+[INFO] Sextant = 6, ring = 7, column = 1
+[INFO] module ID = 408, feb = 225, hapd = KA0762
+[INFO] Hapd Serial = KA0762; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA0762; chip = A; gain = 128800
+[INFO] Hapd Serial = KA0762; chip = B; gain = 143900
+[INFO] Hapd Serial = KA0762; chip = C; gain = 142900
+[INFO] Hapd Serial = KA0762; chip = D; gain = 107300
+[INFO] Sextant = 6, ring = 1, column = 2
+[INFO] module ID = 37, feb = 442, hapd = KA1108
+[INFO] Hapd Serial = KA1108; HV = -8500; qe400 = 33.8
+[INFO] Hapd Serial = KA1108; chip = A; gain = 144700
+[INFO] Hapd Serial = KA1108; chip = B; gain = 130200
+[INFO] Hapd Serial = KA1108; chip = C; gain = 147000
+[INFO] Hapd Serial = KA1108; chip = D; gain = 130300
+[INFO] Sextant = 6, ring = 2, column = 2
+[INFO] module ID = 84, feb = 367, hapd = KA0827
+[INFO] Hapd Serial = KA0827; HV = -8500; qe400 = 34.4
+[INFO] Hapd Serial = KA0827; chip = A; gain = 134500
+[INFO] Hapd Serial = KA0827; chip = B; gain = 122200
+[INFO] Hapd Serial = KA0827; chip = C; gain = 136600
+[INFO] Hapd Serial = KA0827; chip = D; gain = 146700
+[INFO] Sextant = 6, ring = 3, column = 2
+[INFO] module ID = 137, feb = 74, hapd = KA0614
+[INFO] Hapd Serial = KA0614; HV = -8500; qe400 = 29.8
+[INFO] Hapd Serial = KA0614; chip = A; gain = 152200
+[INFO] Hapd Serial = KA0614; chip = B; gain = 120200
+[INFO] Hapd Serial = KA0614; chip = C; gain = 143900
+[INFO] Hapd Serial = KA0614; chip = D; gain = 155500
+[INFO] Sextant = 6, ring = 4, column = 2
+[INFO] module ID = 196, feb = 144, hapd = ZJ5579
+[INFO] Hapd Serial = ZJ5579; HV = -8500; qe400 = 29.7
+[INFO] Hapd Serial = ZJ5579; chip = A; gain = 147100
+[INFO] Hapd Serial = ZJ5579; chip = B; gain = 163900
+[INFO] Hapd Serial = ZJ5579; chip = C; gain = 163100
+[INFO] Hapd Serial = ZJ5579; chip = D; gain = 173400
+[INFO] Sextant = 6, ring = 5, column = 2
+[INFO] module ID = 261, feb = 301, hapd = ZJ5931
+[INFO] Hapd Serial = ZJ5931; HV = -8500; qe400 = 31.5
+[INFO] Hapd Serial = ZJ5931; chip = A; gain = 149400
+[INFO] Hapd Serial = ZJ5931; chip = B; gain = 103200
+[INFO] Hapd Serial = ZJ5931; chip = C; gain = 166200
+[INFO] Hapd Serial = ZJ5931; chip = D; gain = 155100
+[INFO] Sextant = 6, ring = 6, column = 2
+[INFO] module ID = 332, feb = 436, hapd = KA1120
+[INFO] Hapd Serial = KA1120; HV = -8500; qe400 = 37.7
+[INFO] Hapd Serial = KA1120; chip = A; gain = 130500
+[INFO] Hapd Serial = KA1120; chip = B; gain = 124100
+[INFO] Hapd Serial = KA1120; chip = C; gain = 95300
+[INFO] Hapd Serial = KA1120; chip = D; gain = 124300
+[INFO] Sextant = 6, ring = 7, column = 2
+[INFO] module ID = 409, feb = 127, hapd = KA0249
+[INFO] Hapd Serial = KA0249; HV = -8500; qe400 = 30.9
+[INFO] Hapd Serial = KA0249; chip = A; gain = 123600
+[INFO] Hapd Serial = KA0249; chip = B; gain = 135800
+[INFO] Hapd Serial = KA0249; chip = C; gain = 139800
+[INFO] Hapd Serial = KA0249; chip = D; gain = 146600
+[INFO] Sextant = 6, ring = 1, column = 3
+[INFO] module ID = 38, feb = 386, hapd = KA0959
+[INFO] Hapd Serial = KA0959; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA0959; chip = A; gain = 141000
+[INFO] Hapd Serial = KA0959; chip = B; gain = 159100
+[INFO] Hapd Serial = KA0959; chip = C; gain = 88600
+[INFO] Hapd Serial = KA0959; chip = D; gain = 136000
+[INFO] Sextant = 6, ring = 2, column = 3
+[INFO] module ID = 85, feb = 438, hapd = KA1125
+[INFO] Hapd Serial = KA1125; HV = -8500; qe400 = 37.7
+[INFO] Hapd Serial = KA1125; chip = A; gain = 119200
+[INFO] Hapd Serial = KA1125; chip = B; gain = 104500
+[INFO] Hapd Serial = KA1125; chip = C; gain = 82800
+[INFO] Hapd Serial = KA1125; chip = D; gain = 114800
+[INFO] Sextant = 6, ring = 3, column = 3
+[INFO] module ID = 138, feb = 25, hapd = ZJ5865
+[INFO] Hapd Serial = ZJ5865; HV = -8500; qe400 = 29.6
+[INFO] Hapd Serial = ZJ5865; chip = A; gain = 142700
+[INFO] Hapd Serial = ZJ5865; chip = B; gain = 155200
+[INFO] Hapd Serial = ZJ5865; chip = C; gain = 158300
+[INFO] Hapd Serial = ZJ5865; chip = D; gain = 153400
+[INFO] Sextant = 6, ring = 4, column = 3
+[INFO] module ID = 197, feb = 136, hapd = KA0323
+[INFO] Hapd Serial = KA0323; HV = -8500; qe400 = 24.4
+[INFO] Hapd Serial = KA0323; chip = A; gain = 136100
+[INFO] Hapd Serial = KA0323; chip = B; gain = 160400
+[INFO] Hapd Serial = KA0323; chip = C; gain = 152100
+[INFO] Hapd Serial = KA0323; chip = D; gain = 171900
+[INFO] Sextant = 6, ring = 5, column = 3
+[INFO] module ID = 262, feb = 72, hapd = KA0289
+[INFO] Hapd Serial = KA0289; HV = -8500; qe400 = 31.9
+[INFO] Hapd Serial = KA0289; chip = A; gain = 99400
+[INFO] Hapd Serial = KA0289; chip = B; gain = 141200
+[INFO] Hapd Serial = KA0289; chip = C; gain = 138600
+[INFO] Hapd Serial = KA0289; chip = D; gain = 167000
+[INFO] Sextant = 6, ring = 6, column = 3
+[INFO] module ID = 333, feb = 128, hapd = KA0253
+[INFO] Hapd Serial = KA0253; HV = -8500; qe400 = 30.5
+[INFO] Hapd Serial = KA0253; chip = A; gain = 146200
+[INFO] Hapd Serial = KA0253; chip = B; gain = 108700
+[INFO] Hapd Serial = KA0253; chip = C; gain = 138900
+[INFO] Hapd Serial = KA0253; chip = D; gain = 123400
+[INFO] Sextant = 6, ring = 7, column = 3
+[INFO] module ID = 410, feb = 56, hapd = KA0398
+[INFO] Hapd Serial = KA0398; HV = -8500; qe400 = 33.3
+[INFO] Hapd Serial = KA0398; chip = A; gain = 150200
+[INFO] Hapd Serial = KA0398; chip = B; gain = 162300
+[INFO] Hapd Serial = KA0398; chip = C; gain = 110700
+[INFO] Hapd Serial = KA0398; chip = D; gain = 156100
+[INFO] Sextant = 6, ring = 1, column = 4
+[INFO] module ID = 39, feb = 228, hapd = KA0742
+[INFO] Hapd Serial = KA0742; HV = -8500; qe400 = 32.8
+[INFO] Hapd Serial = KA0742; chip = A; gain = 126200
+[INFO] Hapd Serial = KA0742; chip = B; gain = 113400
+[INFO] Hapd Serial = KA0742; chip = C; gain = 110200
+[INFO] Hapd Serial = KA0742; chip = D; gain = 108500
+[INFO] Sextant = 6, ring = 2, column = 4
+[INFO] module ID = 86, feb = 328, hapd = ZJ6724
+[INFO] Hapd Serial = ZJ6724; HV = -8500; qe400 = 35.7
+[INFO] Hapd Serial = ZJ6724; chip = A; gain = 99900
+[INFO] Hapd Serial = ZJ6724; chip = B; gain = 108400
+[INFO] Hapd Serial = ZJ6724; chip = C; gain = 101700
+[INFO] Hapd Serial = ZJ6724; chip = D; gain = 98500
+[INFO] Sextant = 6, ring = 3, column = 4
+[INFO] module ID = 139, feb = 458, hapd = KA1129
+[INFO] Hapd Serial = KA1129; HV = -8500; qe400 = 34.2
+[INFO] Hapd Serial = KA1129; chip = A; gain = 166100
+[INFO] Hapd Serial = KA1129; chip = B; gain = 150300
+[INFO] Hapd Serial = KA1129; chip = C; gain = 140400
+[INFO] Hapd Serial = KA1129; chip = D; gain = 137400
+[INFO] Sextant = 6, ring = 4, column = 4
+[INFO] module ID = 198, feb = 105, hapd = KA0228
+[INFO] Hapd Serial = KA0228; HV = -8500; qe400 = 32.9
+[INFO] Hapd Serial = KA0228; chip = A; gain = 147500
+[INFO] Hapd Serial = KA0228; chip = B; gain = 100500
+[INFO] Hapd Serial = KA0228; chip = C; gain = 161800
+[INFO] Hapd Serial = KA0228; chip = D; gain = 156300
+[INFO] Sextant = 6, ring = 5, column = 4
+[INFO] module ID = 263, feb = 179, hapd = KA0648
+[INFO] Hapd Serial = KA0648; HV = -8500; qe400 = 26.3
+[INFO] Hapd Serial = KA0648; chip = A; gain = 123500
+[INFO] Hapd Serial = KA0648; chip = B; gain = 111200
+[INFO] Hapd Serial = KA0648; chip = C; gain = 135900
+[INFO] Hapd Serial = KA0648; chip = D; gain = 164100
+[INFO] Sextant = 6, ring = 6, column = 4
+[INFO] module ID = 334, feb = 232, hapd = KA0441
+[INFO] Hapd Serial = KA0441; HV = -8500; qe400 = 33.8
+[INFO] Hapd Serial = KA0441; chip = A; gain = 87800
+[INFO] Hapd Serial = KA0441; chip = B; gain = 114900
+[INFO] Hapd Serial = KA0441; chip = C; gain = 103700
+[INFO] Hapd Serial = KA0441; chip = D; gain = 154700
+[INFO] Sextant = 6, ring = 7, column = 4
+[INFO] module ID = 411, feb = 55, hapd = KA0823
+[INFO] Hapd Serial = KA0823; HV = -8500; qe400 = 37.3
+[INFO] Hapd Serial = KA0823; chip = A; gain = 123200
+[INFO] Hapd Serial = KA0823; chip = B; gain = 151300
+[INFO] Hapd Serial = KA0823; chip = C; gain = 100100
+[INFO] Hapd Serial = KA0823; chip = D; gain = 126300
+[INFO] Sextant = 6, ring = 1, column = 5
+[INFO] module ID = 40, feb = 115, hapd = KA0152
+[INFO] Hapd Serial = KA0152; HV = -8500; qe400 = 30.8
+[INFO] Hapd Serial = KA0152; chip = A; gain = 100800
+[INFO] Hapd Serial = KA0152; chip = B; gain = 97000
+[INFO] Hapd Serial = KA0152; chip = C; gain = 113100
+[INFO] Hapd Serial = KA0152; chip = D; gain = 90300
+[INFO] Sextant = 6, ring = 2, column = 5
+[INFO] module ID = 87, feb = 143, hapd = ZJ5571
+[INFO] Hapd Serial = ZJ5571; HV = -8500; qe400 = 30.7
+[INFO] Hapd Serial = ZJ5571; chip = A; gain = 154000
+[INFO] Hapd Serial = ZJ5571; chip = B; gain = 138600
+[INFO] Hapd Serial = ZJ5571; chip = C; gain = 113600
+[INFO] Hapd Serial = ZJ5571; chip = D; gain = 128800
+[INFO] Sextant = 6, ring = 3, column = 5
+[INFO] module ID = 140, feb = 103, hapd = KA0268
+[INFO] Hapd Serial = KA0268; HV = -8500; qe400 = 31.7
+[INFO] Hapd Serial = KA0268; chip = A; gain = 148900
+[INFO] Hapd Serial = KA0268; chip = B; gain = 158800
+[INFO] Hapd Serial = KA0268; chip = C; gain = 158000
+[INFO] Hapd Serial = KA0268; chip = D; gain = 148600
+[INFO] Sextant = 6, ring = 4, column = 5
+[INFO] module ID = 199, feb = 387, hapd = KA1010
+[INFO] Hapd Serial = KA1010; HV = -8500; qe400 = 28.8
+[INFO] Hapd Serial = KA1010; chip = A; gain = 132200
+[INFO] Hapd Serial = KA1010; chip = B; gain = 137500
+[INFO] Hapd Serial = KA1010; chip = C; gain = 120800
+[INFO] Hapd Serial = KA1010; chip = D; gain = 136200
+[INFO] Sextant = 6, ring = 5, column = 5
+[INFO] module ID = 264, feb = 43, hapd = ZJ7882
+[INFO] Hapd Serial = ZJ7882; HV = -8500; qe400 = 30.9
+[INFO] Hapd Serial = ZJ7882; chip = A; gain = 123900
+[INFO] Hapd Serial = ZJ7882; chip = B; gain = 134000
+[INFO] Hapd Serial = ZJ7882; chip = C; gain = 137900
+[INFO] Hapd Serial = ZJ7882; chip = D; gain = 127600
+[INFO] Sextant = 6, ring = 6, column = 5
+[INFO] module ID = 335, feb = 121, hapd = KA0232
+[INFO] Hapd Serial = KA0232; HV = -8500; qe400 = 25.4
+[INFO] Hapd Serial = KA0232; chip = A; gain = 144500
+[INFO] Hapd Serial = KA0232; chip = B; gain = 158200
+[INFO] Hapd Serial = KA0232; chip = C; gain = 139200
+[INFO] Hapd Serial = KA0232; chip = D; gain = 129000
+[INFO] Sextant = 6, ring = 7, column = 5
+[INFO] module ID = 412, feb = 186, hapd = KA0501
+[INFO] Hapd Serial = KA0501; HV = -8500; qe400 = 33.5
+[INFO] Hapd Serial = KA0501; chip = A; gain = 113800
+[INFO] Hapd Serial = KA0501; chip = B; gain = 140700
+[INFO] Hapd Serial = KA0501; chip = C; gain = 107000
+[INFO] Hapd Serial = KA0501; chip = D; gain = 120700
+[INFO] Sextant = 6, ring = 1, column = 6
+[INFO] module ID = 41, feb = 117, hapd = ZJ5949
+[INFO] Hapd Serial = ZJ5949; HV = -8500; qe400 = 31.8
+[INFO] Hapd Serial = ZJ5949; chip = A; gain = 120500
+[INFO] Hapd Serial = ZJ5949; chip = B; gain = 113500
+[INFO] Hapd Serial = ZJ5949; chip = C; gain = 106700
+[INFO] Hapd Serial = ZJ5949; chip = D; gain = 107000
+[INFO] Sextant = 6, ring = 2, column = 6
+[INFO] module ID = 88, feb = 374, hapd = KA0942
+[INFO] Hapd Serial = KA0942; HV = -8500; qe400 = 33.6
+[INFO] Hapd Serial = KA0942; chip = A; gain = 124700
+[INFO] Hapd Serial = KA0942; chip = B; gain = 152800
+[INFO] Hapd Serial = KA0942; chip = C; gain = 105600
+[INFO] Hapd Serial = KA0942; chip = D; gain = 145500
+[INFO] Sextant = 6, ring = 3, column = 6
+[INFO] module ID = 141, feb = 253, hapd = KA0925
+[INFO] Hapd Serial = KA0925; HV = -8500; qe400 = 36.5
+[INFO] Hapd Serial = KA0925; chip = A; gain = 140900
+[INFO] Hapd Serial = KA0925; chip = B; gain = 126000
+[INFO] Hapd Serial = KA0925; chip = C; gain = 129200
+[INFO] Hapd Serial = KA0925; chip = D; gain = 128900
+[INFO] Sextant = 6, ring = 4, column = 6
+[INFO] module ID = 200, feb = 449, hapd = KA1102
+[INFO] Hapd Serial = KA1102; HV = -8500; qe400 = 34.2
+[INFO] Hapd Serial = KA1102; chip = A; gain = 138500
+[INFO] Hapd Serial = KA1102; chip = B; gain = 93600
+[INFO] Hapd Serial = KA1102; chip = C; gain = 126000
+[INFO] Hapd Serial = KA1102; chip = D; gain = 104300
+[INFO] Sextant = 6, ring = 5, column = 6
+[INFO] module ID = 265, feb = 399, hapd = KA1067
+[INFO] Hapd Serial = KA1067; HV = -8500; qe400 = 36.1
+[INFO] Hapd Serial = KA1067; chip = A; gain = 132400
+[INFO] Hapd Serial = KA1067; chip = B; gain = 158300
+[INFO] Hapd Serial = KA1067; chip = C; gain = 157800
+[INFO] Hapd Serial = KA1067; chip = D; gain = 132500
+[INFO] Sextant = 6, ring = 6, column = 6
+[INFO] module ID = 336, feb = 402, hapd = KA1006
+[INFO] Hapd Serial = KA1006; HV = -8500; qe400 = 31.8
+[INFO] Hapd Serial = KA1006; chip = A; gain = 130500
+[INFO] Hapd Serial = KA1006; chip = B; gain = 149400
+[INFO] Hapd Serial = KA1006; chip = C; gain = 141100
+[INFO] Hapd Serial = KA1006; chip = D; gain = 138400
+[INFO] Sextant = 6, ring = 7, column = 6
+[INFO] module ID = 413, feb = 73, hapd = KA0280
+[INFO] Hapd Serial = KA0280; HV = -8500; qe400 = 33.4
+[INFO] Hapd Serial = KA0280; chip = A; gain = 150100
+[INFO] Hapd Serial = KA0280; chip = B; gain = 138000
+[INFO] Hapd Serial = KA0280; chip = C; gain = 140100
+[INFO] Hapd Serial = KA0280; chip = D; gain = 143500
+[INFO] Sextant = 6, ring = 1, column = 7
+[INFO] module ID = 42, feb = 59, hapd = KA0680
+[INFO] Hapd Serial = KA0680; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA0680; chip = A; gain = 137500
+[INFO] Hapd Serial = KA0680; chip = B; gain = 127300
+[INFO] Hapd Serial = KA0680; chip = C; gain = 130800
+[INFO] Hapd Serial = KA0680; chip = D; gain = 125800
+[INFO] Sextant = 6, ring = 2, column = 7
+[INFO] module ID = 89, feb = 107, hapd = KA0242
+[INFO] Hapd Serial = KA0242; HV = -8500; qe400 = 29.3
+[INFO] Hapd Serial = KA0242; chip = A; gain = 139300
+[INFO] Hapd Serial = KA0242; chip = B; gain = 151900
+[INFO] Hapd Serial = KA0242; chip = C; gain = 148500
+[INFO] Hapd Serial = KA0242; chip = D; gain = 164200
+[INFO] Sextant = 6, ring = 3, column = 7
+[INFO] module ID = 142, feb = 104, hapd = ZJ7133
+[INFO] Hapd Serial = ZJ7133; HV = -8500; qe400 = 27
+[INFO] Hapd Serial = ZJ7133; chip = A; gain = 128100
+[INFO] Hapd Serial = ZJ7133; chip = B; gain = 144500
+[INFO] Hapd Serial = ZJ7133; chip = C; gain = 136300
+[INFO] Hapd Serial = ZJ7133; chip = D; gain = 138100
+[INFO] Sextant = 6, ring = 4, column = 7
+[INFO] module ID = 201, feb = 372, hapd = KA0896
+[INFO] Hapd Serial = KA0896; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA0896; chip = A; gain = 137100
+[INFO] Hapd Serial = KA0896; chip = B; gain = 92000
+[INFO] Hapd Serial = KA0896; chip = C; gain = 93400
+[INFO] Hapd Serial = KA0896; chip = D; gain = 92000
+[INFO] Sextant = 6, ring = 5, column = 7
+[INFO] module ID = 266, feb = 58, hapd = KA0344
+[INFO] Hapd Serial = KA0344; HV = -8500; qe400 = 29
+[INFO] Hapd Serial = KA0344; chip = A; gain = 185000
+[INFO] Hapd Serial = KA0344; chip = B; gain = 171700
+[INFO] Hapd Serial = KA0344; chip = C; gain = 155500
+[INFO] Hapd Serial = KA0344; chip = D; gain = 145600
+[INFO] Sextant = 6, ring = 6, column = 7
+[INFO] module ID = 337, feb = 130, hapd = KA0273
+[INFO] Hapd Serial = KA0273; HV = -8500; qe400 = 29.9
+[INFO] Hapd Serial = KA0273; chip = A; gain = 145400
+[INFO] Hapd Serial = KA0273; chip = B; gain = 162000
+[INFO] Hapd Serial = KA0273; chip = C; gain = 149300
+[INFO] Hapd Serial = KA0273; chip = D; gain = 147200
+[INFO] Sextant = 6, ring = 7, column = 7
+[INFO] module ID = 414, feb = 80, hapd = KA0348
+[INFO] Hapd Serial = KA0348; HV = -8500; qe400 = 32.8
+[INFO] Hapd Serial = KA0348; chip = A; gain = 148800
+[INFO] Hapd Serial = KA0348; chip = B; gain = 134000
+[INFO] Hapd Serial = KA0348; chip = C; gain = 100000
+[INFO] Hapd Serial = KA0348; chip = D; gain = 129800
+[INFO] Sextant = 6, ring = 2, column = 8
+[INFO] module ID = 90, feb = 53, hapd = KA0302
+[INFO] Hapd Serial = KA0302; HV = -8500; qe400 = 28.3
+[INFO] Hapd Serial = KA0302; chip = A; gain = 137700
+[INFO] Hapd Serial = KA0302; chip = B; gain = 149600
+[INFO] Hapd Serial = KA0302; chip = C; gain = 154700
+[INFO] Hapd Serial = KA0302; chip = D; gain = 138100
+[INFO] Sextant = 6, ring = 3, column = 8
+[INFO] module ID = 143, feb = 356, hapd = KA0870
+[INFO] Hapd Serial = KA0870; HV = -8500; qe400 = 35
+[INFO] Hapd Serial = KA0870; chip = A; gain = 111800
+[INFO] Hapd Serial = KA0870; chip = B; gain = 116600
+[INFO] Hapd Serial = KA0870; chip = C; gain = 129600
+[INFO] Hapd Serial = KA0870; chip = D; gain = 142400
+[INFO] Sextant = 6, ring = 4, column = 8
+[INFO] module ID = 202, feb = 75, hapd = KA0616
+[INFO] Hapd Serial = KA0616; HV = -8500; qe400 = 38.4
+[INFO] Hapd Serial = KA0616; chip = A; gain = 120800
+[INFO] Hapd Serial = KA0616; chip = B; gain = 121100
+[INFO] Hapd Serial = KA0616; chip = C; gain = 103500
+[INFO] Hapd Serial = KA0616; chip = D; gain = 162500
+[INFO] Sextant = 6, ring = 5, column = 8
+[INFO] module ID = 267, feb = 60, hapd = KA0764
+[INFO] Hapd Serial = KA0764; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA0764; chip = A; gain = 107400
+[INFO] Hapd Serial = KA0764; chip = B; gain = 112000
+[INFO] Hapd Serial = KA0764; chip = C; gain = 138100
+[INFO] Hapd Serial = KA0764; chip = D; gain = 97600
+[INFO] Sextant = 6, ring = 6, column = 8
+[INFO] module ID = 338, feb = 261, hapd = KA0920
+[INFO] Hapd Serial = KA0920; HV = -8500; qe400 = 28.6
+[INFO] Hapd Serial = KA0920; chip = A; gain = 106100
+[INFO] Hapd Serial = KA0920; chip = B; gain = 137600
+[INFO] Hapd Serial = KA0920; chip = C; gain = 74300
+[INFO] Hapd Serial = KA0920; chip = D; gain = 95200
+[INFO] Sextant = 6, ring = 7, column = 8
+[INFO] module ID = 415, feb = 81, hapd = KA0350
+[INFO] Hapd Serial = KA0350; HV = -8500; qe400 = 31.7
+[INFO] Hapd Serial = KA0350; chip = A; gain = 140700
+[INFO] Hapd Serial = KA0350; chip = B; gain = 163500
+[INFO] Hapd Serial = KA0350; chip = C; gain = 131100
+[INFO] Hapd Serial = KA0350; chip = D; gain = 131200
+[INFO] Sextant = 6, ring = 3, column = 9
+[INFO] module ID = 144, feb = 211, hapd = KA0524
+[INFO] Hapd Serial = KA0524; HV = -8500; qe400 = 34.5
+[INFO] Hapd Serial = KA0524; chip = A; gain = 137700
+[INFO] Hapd Serial = KA0524; chip = B; gain = 146700
+[INFO] Hapd Serial = KA0524; chip = C; gain = 112600
+[INFO] Hapd Serial = KA0524; chip = D; gain = 122900
+[INFO] Sextant = 6, ring = 4, column = 9
+[INFO] module ID = 203, feb = 108, hapd = KA0267
+[INFO] Hapd Serial = KA0267; HV = -8500; qe400 = 33.7
+[INFO] Hapd Serial = KA0267; chip = A; gain = 134700
+[INFO] Hapd Serial = KA0267; chip = B; gain = 131100
+[INFO] Hapd Serial = KA0267; chip = C; gain = 141800
+[INFO] Hapd Serial = KA0267; chip = D; gain = 144700
+[INFO] Sextant = 6, ring = 5, column = 9
+[INFO] module ID = 268, feb = 209, hapd = KA0765
+[INFO] Hapd Serial = KA0765; HV = -8500; qe400 = 34.8
+[INFO] Hapd Serial = KA0765; chip = A; gain = 135300
+[INFO] Hapd Serial = KA0765; chip = B; gain = 128200
+[INFO] Hapd Serial = KA0765; chip = C; gain = 141900
+[INFO] Hapd Serial = KA0765; chip = D; gain = 122300
+[INFO] Sextant = 6, ring = 6, column = 9
+[INFO] module ID = 339, feb = 413, hapd = KA1089
+[INFO] Hapd Serial = KA1089; HV = -8500; qe400 = 35.5
+[INFO] Hapd Serial = KA1089; chip = A; gain = 130000
+[INFO] Hapd Serial = KA1089; chip = B; gain = 143100
+[INFO] Hapd Serial = KA1089; chip = C; gain = 120900
+[INFO] Hapd Serial = KA1089; chip = D; gain = 145700
+[INFO] Sextant = 6, ring = 7, column = 9
+[INFO] module ID = 416, feb = 93, hapd = KA0955
+[INFO] Hapd Serial = KA0955; HV = -8500; qe400 = 31.3
+[INFO] Hapd Serial = KA0955; chip = A; gain = 131000
+[INFO] Hapd Serial = KA0955; chip = B; gain = 105200
+[INFO] Hapd Serial = KA0955; chip = C; gain = 139300
+[INFO] Hapd Serial = KA0955; chip = D; gain = 119000
+[INFO] Sextant = 6, ring = 4, column = 10
+[INFO] module ID = 204, feb = 85, hapd = KA0485
+[INFO] Hapd Serial = KA0485; HV = -8500; qe400 = 30.9
+[INFO] Hapd Serial = KA0485; chip = A; gain = 152000
+[INFO] Hapd Serial = KA0485; chip = B; gain = 155900
+[INFO] Hapd Serial = KA0485; chip = C; gain = 148800
+[INFO] Hapd Serial = KA0485; chip = D; gain = 148300
+[INFO] Sextant = 6, ring = 5, column = 10
+[INFO] module ID = 269, feb = 250, hapd = KA0952
+[INFO] Hapd Serial = KA0952; HV = -8500; qe400 = 31.9
+[INFO] Hapd Serial = KA0952; chip = A; gain = 145500
+[INFO] Hapd Serial = KA0952; chip = B; gain = 150900
+[INFO] Hapd Serial = KA0952; chip = C; gain = 134100
+[INFO] Hapd Serial = KA0952; chip = D; gain = 126400
+[INFO] Sextant = 6, ring = 6, column = 10
+[INFO] module ID = 340, feb = 281, hapd = ZJ5922
+[INFO] Hapd Serial = ZJ5922; HV = -8500; qe400 = 28
+[INFO] Hapd Serial = ZJ5922; chip = A; gain = 96700
+[INFO] Hapd Serial = ZJ5922; chip = B; gain = 119800
+[INFO] Hapd Serial = ZJ5922; chip = C; gain = 113200
+[INFO] Hapd Serial = ZJ5922; chip = D; gain = 125900
+[INFO] Sextant = 6, ring = 7, column = 10
+[INFO] module ID = 417, feb = 161, hapd = KA0478
+[INFO] Hapd Serial = KA0478; HV = -8500; qe400 = 30.9
+[INFO] Hapd Serial = KA0478; chip = A; gain = 91800
+[INFO] Hapd Serial = KA0478; chip = B; gain = 147200
+[INFO] Hapd Serial = KA0478; chip = C; gain = 148600
+[INFO] Hapd Serial = KA0478; chip = D; gain = 173700
+[INFO] Sextant = 6, ring = 5, column = 11
+[INFO] module ID = 270, feb = 260, hapd = KA0736
+[INFO] Hapd Serial = KA0736; HV = -8500; qe400 = 31.3
+[INFO] Hapd Serial = KA0736; chip = A; gain = 127300
+[INFO] Hapd Serial = KA0736; chip = B; gain = 129300
+[INFO] Hapd Serial = KA0736; chip = C; gain = 154000
+[INFO] Hapd Serial = KA0736; chip = D; gain = 120100
+[INFO] Sextant = 6, ring = 6, column = 11
+[INFO] module ID = 341, feb = 268, hapd = KA0993
+[INFO] Hapd Serial = KA0993; HV = -8500; qe400 = 27.7
+[INFO] Hapd Serial = KA0993; chip = A; gain = 134600
+[INFO] Hapd Serial = KA0993; chip = B; gain = 127900
+[INFO] Hapd Serial = KA0993; chip = C; gain = 144700
+[INFO] Hapd Serial = KA0993; chip = D; gain = 139500
+[INFO] Sextant = 6, ring = 7, column = 11
+[INFO] module ID = 418, feb = 415, hapd = KA0937
+[INFO] Hapd Serial = KA0937; HV = -8500; qe400 = 34.6
+[INFO] Hapd Serial = KA0937; chip = A; gain = 140700
+[INFO] Hapd Serial = KA0937; chip = B; gain = 135300
+[INFO] Hapd Serial = KA0937; chip = C; gain = 151600
+[INFO] Hapd Serial = KA0937; chip = D; gain = 110200
+[INFO] Sextant = 6, ring = 6, column = 12
+[INFO] module ID = 342, feb = 431, hapd = KA0940
+[INFO] Hapd Serial = KA0940; HV = -8500; qe400 = 35.2
+[INFO] Hapd Serial = KA0940; chip = A; gain = 154100
+[INFO] Hapd Serial = KA0940; chip = B; gain = 144900
+[INFO] Hapd Serial = KA0940; chip = C; gain = 158700
+[INFO] Hapd Serial = KA0940; chip = D; gain = 125200
+[INFO] Sextant = 6, ring = 7, column = 12
+[INFO] module ID = 419, feb = 101, hapd = KA0263
+[INFO] Hapd Serial = KA0263; HV = -8500; qe400 = 29
+[INFO] Hapd Serial = KA0263; chip = A; gain = 150000
+[INFO] Hapd Serial = KA0263; chip = B; gain = 147100
+[INFO] Hapd Serial = KA0263; chip = C; gain = 139900
+[INFO] Hapd Serial = KA0263; chip = D; gain = 156900
+[INFO] Sextant = 6, ring = 7, column = 13
+[INFO] module ID = 420, feb = 131, hapd = KA0274
+[INFO] Hapd Serial = KA0274; HV = -8500; qe400 = 27.7
+[INFO] Hapd Serial = KA0274; chip = A; gain = 162700
+[INFO] Hapd Serial = KA0274; chip = B; gain = 143900
+[INFO] Hapd Serial = KA0274; chip = C; gain = 144900
+[INFO] Hapd Serial = KA0274; chip = D; gain = 163200
+[INFO] Sextant = 3, ring = 1, column = 1
+[INFO] module ID = 15, feb = 286, hapd = ZJ5606
+[INFO] Hapd Serial = ZJ5606; HV = -8500; qe400 = 25.7
+[INFO] Hapd Serial = ZJ5606; chip = A; gain = 184300
+[INFO] Hapd Serial = ZJ5606; chip = B; gain = 155300
+[INFO] Hapd Serial = ZJ5606; chip = C; gain = 117100
+[INFO] Hapd Serial = ZJ5606; chip = D; gain = 154900
+[INFO] Sextant = 3, ring = 2, column = 1
+[INFO] module ID = 59, feb = 91, hapd = ZJ6723
+[INFO] Hapd Serial = ZJ6723; HV = -8500; qe400 = 33.6
+[INFO] Hapd Serial = ZJ6723; chip = A; gain = 80700
+[INFO] Hapd Serial = ZJ6723; chip = B; gain = 125200
+[INFO] Hapd Serial = ZJ6723; chip = C; gain = 110900
+[INFO] Hapd Serial = ZJ6723; chip = D; gain = 101800
+[INFO] Sextant = 3, ring = 3, column = 1
+[INFO] module ID = 109, feb = 310, hapd = ZJ5907
+[INFO] Hapd Serial = ZJ5907; HV = -8500; qe400 = 30.3
+[INFO] Hapd Serial = ZJ5907; chip = A; gain = 158000
+[INFO] Hapd Serial = ZJ5907; chip = B; gain = 115800
+[INFO] Hapd Serial = ZJ5907; chip = C; gain = 130600
+[INFO] Hapd Serial = ZJ5907; chip = D; gain = 153400
+[INFO] Sextant = 3, ring = 4, column = 1
+[INFO] module ID = 165, feb = 272, hapd = ZJ7480
+[INFO] Hapd Serial = ZJ7480; HV = -8500; qe400 = 32.7
+[INFO] Hapd Serial = ZJ7480; chip = A; gain = 128700
+[INFO] Hapd Serial = ZJ7480; chip = B; gain = 121300
+[INFO] Hapd Serial = ZJ7480; chip = C; gain = 129400
+[INFO] Hapd Serial = ZJ7480; chip = D; gain = 127000
+[INFO] Sextant = 3, ring = 5, column = 1
+[INFO] module ID = 227, feb = 92, hapd = ZJ7470
+[INFO] Hapd Serial = ZJ7470; HV = -8500; qe400 = 33.5
+[INFO] Hapd Serial = ZJ7470; chip = A; gain = 137900
+[INFO] Hapd Serial = ZJ7470; chip = B; gain = 134000
+[INFO] Hapd Serial = ZJ7470; chip = C; gain = 104100
+[INFO] Hapd Serial = ZJ7470; chip = D; gain = 136200
+[INFO] Sextant = 3, ring = 6, column = 1
+[INFO] module ID = 295, feb = 30, hapd = ZJ5880
+[INFO] Hapd Serial = ZJ5880; HV = -8500; qe400 = 26
+[INFO] Hapd Serial = ZJ5880; chip = A; gain = 155400
+[INFO] Hapd Serial = ZJ5880; chip = B; gain = 149300
+[INFO] Hapd Serial = ZJ5880; chip = C; gain = 119900
+[INFO] Hapd Serial = ZJ5880; chip = D; gain = 142300
+[INFO] Sextant = 3, ring = 7, column = 1
+[INFO] module ID = 369, feb = 237, hapd = KA0626
+[INFO] Hapd Serial = KA0626; HV = -8500; qe400 = 38.8
+[INFO] Hapd Serial = KA0626; chip = A; gain = 139100
+[INFO] Hapd Serial = KA0626; chip = B; gain = 147200
+[INFO] Hapd Serial = KA0626; chip = C; gain = 127100
+[INFO] Hapd Serial = KA0626; chip = D; gain = 143400
+[INFO] Sextant = 3, ring = 1, column = 2
+[INFO] module ID = 16, feb = 89, hapd = KA0575
+[INFO] Hapd Serial = KA0575; HV = -8500; qe400 = 31.6
+[INFO] Hapd Serial = KA0575; chip = A; gain = 151900
+[INFO] Hapd Serial = KA0575; chip = B; gain = 146200
+[INFO] Hapd Serial = KA0575; chip = C; gain = 91300
+[INFO] Hapd Serial = KA0575; chip = D; gain = 110900
+[INFO] Sextant = 3, ring = 2, column = 2
+[INFO] module ID = 60, feb = 125, hapd = KA0245
+[INFO] Hapd Serial = KA0245; HV = -8500; qe400 = 28.9
+[INFO] Hapd Serial = KA0245; chip = A; gain = 135400
+[INFO] Hapd Serial = KA0245; chip = B; gain = 94300
+[INFO] Hapd Serial = KA0245; chip = C; gain = 99100
+[INFO] Hapd Serial = KA0245; chip = D; gain = 121400
+[INFO] Sextant = 3, ring = 3, column = 2
+[INFO] module ID = 110, feb = 190, hapd = KA0508
+[INFO] Hapd Serial = KA0508; HV = -8500; qe400 = 31.2
+[INFO] Hapd Serial = KA0508; chip = A; gain = 128000
+[INFO] Hapd Serial = KA0508; chip = B; gain = 144200
+[INFO] Hapd Serial = KA0508; chip = C; gain = 105700
+[INFO] Hapd Serial = KA0508; chip = D; gain = 148500
+[INFO] Sextant = 3, ring = 4, column = 2
+[INFO] module ID = 166, feb = 354, hapd = KA0810
+[INFO] Hapd Serial = KA0810; HV = -8500; qe400 = 36.3
+[INFO] Hapd Serial = KA0810; chip = A; gain = 139500
+[INFO] Hapd Serial = KA0810; chip = B; gain = 120800
+[INFO] Hapd Serial = KA0810; chip = C; gain = 121600
+[INFO] Hapd Serial = KA0810; chip = D; gain = 127100
+[INFO] Sextant = 3, ring = 5, column = 2
+[INFO] module ID = 228, feb = 307, hapd = ZJ7463
+[INFO] Hapd Serial = ZJ7463; HV = -8500; qe400 = 28.1
+[INFO] Hapd Serial = ZJ7463; chip = A; gain = 123800
+[INFO] Hapd Serial = ZJ7463; chip = B; gain = 121500
+[INFO] Hapd Serial = ZJ7463; chip = C; gain = 147900
+[INFO] Hapd Serial = ZJ7463; chip = D; gain = 156800
+[INFO] Sextant = 3, ring = 6, column = 2
+[INFO] module ID = 296, feb = 461, hapd = ZJ5583
+[INFO] Hapd Serial = ZJ5583; HV = -8500; qe400 = 28.5
+[INFO] Hapd Serial = ZJ5583; chip = A; gain = 147800
+[INFO] Hapd Serial = ZJ5583; chip = B; gain = 157500
+[INFO] Hapd Serial = ZJ5583; chip = C; gain = 122200
+[INFO] Hapd Serial = ZJ5583; chip = D; gain = 130600
+[INFO] Sextant = 3, ring = 7, column = 2
+[INFO] module ID = 370, feb = 140, hapd = KA0360
+[INFO] Hapd Serial = KA0360; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA0360; chip = A; gain = 133400
+[INFO] Hapd Serial = KA0360; chip = B; gain = 143300
+[INFO] Hapd Serial = KA0360; chip = C; gain = 113700
+[INFO] Hapd Serial = KA0360; chip = D; gain = 152000
+[INFO] Sextant = 3, ring = 1, column = 3
+[INFO] module ID = 17, feb = 440, hapd = KA0672
+[INFO] Hapd Serial = KA0672; HV = -8500; qe400 = 32.3
+[INFO] Hapd Serial = KA0672; chip = A; gain = 130800
+[INFO] Hapd Serial = KA0672; chip = B; gain = 123900
+[INFO] Hapd Serial = KA0672; chip = C; gain = 151300
+[INFO] Hapd Serial = KA0672; chip = D; gain = 155200
+[INFO] Sextant = 3, ring = 2, column = 3
+[INFO] module ID = 61, feb = 176, hapd = KA0597
+[INFO] Hapd Serial = KA0597; HV = -8500; qe400 = 30.5
+[INFO] Hapd Serial = KA0597; chip = A; gain = 154900
+[INFO] Hapd Serial = KA0597; chip = B; gain = 134900
+[INFO] Hapd Serial = KA0597; chip = C; gain = 160000
+[INFO] Hapd Serial = KA0597; chip = D; gain = 138000
+[INFO] Sextant = 3, ring = 3, column = 3
+[INFO] module ID = 111, feb = 404, hapd = KA0455
+[INFO] Hapd Serial = KA0455; HV = -8500; qe400 = 31.4
+[INFO] Hapd Serial = KA0455; chip = A; gain = 157000
+[INFO] Hapd Serial = KA0455; chip = B; gain = 114100
+[INFO] Hapd Serial = KA0455; chip = C; gain = 119200
+[INFO] Hapd Serial = KA0455; chip = D; gain = 159400
+[INFO] Sextant = 3, ring = 4, column = 3
+[INFO] module ID = 167, feb = 185, hapd = KA0583
+[INFO] Hapd Serial = KA0583; HV = -8500; qe400 = 33.5
+[INFO] Hapd Serial = KA0583; chip = A; gain = 131800
+[INFO] Hapd Serial = KA0583; chip = B; gain = 135800
+[INFO] Hapd Serial = KA0583; chip = C; gain = 144000
+[INFO] Hapd Serial = KA0583; chip = D; gain = 138000
+[INFO] Sextant = 3, ring = 5, column = 3
+[INFO] module ID = 229, feb = 383, hapd = KA1035
+[INFO] Hapd Serial = KA1035; HV = -8500; qe400 = 34.6
+[INFO] Hapd Serial = KA1035; chip = A; gain = 132300
+[INFO] Hapd Serial = KA1035; chip = B; gain = 105400
+[INFO] Hapd Serial = KA1035; chip = C; gain = 113600
+[INFO] Hapd Serial = KA1035; chip = D; gain = 131800
+[INFO] Sextant = 3, ring = 6, column = 3
+[INFO] module ID = 297, feb = 457, hapd = KA0769
+[INFO] Hapd Serial = KA0769; HV = -8500; qe400 = 35.4
+[INFO] Hapd Serial = KA0769; chip = A; gain = 123000
+[INFO] Hapd Serial = KA0769; chip = B; gain = 144300
+[INFO] Hapd Serial = KA0769; chip = C; gain = 139400
+[INFO] Hapd Serial = KA0769; chip = D; gain = 131500
+[INFO] Sextant = 3, ring = 7, column = 3
+[INFO] module ID = 371, feb = 369, hapd = KA0804
+[INFO] Hapd Serial = KA0804; HV = -8500; qe400 = 34.1
+[INFO] Hapd Serial = KA0804; chip = A; gain = 99200
+[INFO] Hapd Serial = KA0804; chip = B; gain = 134000
+[INFO] Hapd Serial = KA0804; chip = C; gain = 132800
+[INFO] Hapd Serial = KA0804; chip = D; gain = 114100
+[INFO] Sextant = 3, ring = 1, column = 4
+[INFO] module ID = 18, feb = 245, hapd = ZJ6750
+[INFO] Hapd Serial = ZJ6750; HV = -8500; qe400 = 33.7
+[INFO] Hapd Serial = ZJ6750; chip = A; gain = 159600
+[INFO] Hapd Serial = ZJ6750; chip = B; gain = 143600
+[INFO] Hapd Serial = ZJ6750; chip = C; gain = 149700
+[INFO] Hapd Serial = ZJ6750; chip = D; gain = 134800
+[INFO] Sextant = 3, ring = 2, column = 4
+[INFO] module ID = 62, feb = 33, hapd = ZJ7468
+[INFO] Hapd Serial = ZJ7468; HV = -8500; qe400 = 31.9
+[INFO] Hapd Serial = ZJ7468; chip = A; gain = 112700
+[INFO] Hapd Serial = ZJ7468; chip = B; gain = 98700
+[INFO] Hapd Serial = ZJ7468; chip = C; gain = 132600
+[INFO] Hapd Serial = ZJ7468; chip = D; gain = 127000
+[INFO] Sextant = 3, ring = 3, column = 4
+[INFO] module ID = 112, feb = 66, hapd = ZJ5601
+[INFO] Hapd Serial = ZJ5601; HV = -8500; qe400 = 26.6
+[INFO] Hapd Serial = ZJ5601; chip = A; gain = 129300
+[INFO] Hapd Serial = ZJ5601; chip = B; gain = 133600
+[INFO] Hapd Serial = ZJ5601; chip = C; gain = 127300
+[INFO] Hapd Serial = ZJ5601; chip = D; gain = 156900
+[INFO] Sextant = 3, ring = 4, column = 4
+[INFO] module ID = 168, feb = 116, hapd = KA0282
+[INFO] Hapd Serial = KA0282; HV = -8500; qe400 = 29.7
+[INFO] Hapd Serial = KA0282; chip = A; gain = 157800
+[INFO] Hapd Serial = KA0282; chip = B; gain = 182400
+[INFO] Hapd Serial = KA0282; chip = C; gain = 168500
+[INFO] Hapd Serial = KA0282; chip = D; gain = 147000
+[INFO] Sextant = 3, ring = 5, column = 4
+[INFO] module ID = 230, feb = 361, hapd = KA0859
+[INFO] Hapd Serial = KA0859; HV = -8500; qe400 = 34.6
+[INFO] Hapd Serial = KA0859; chip = A; gain = 133900
+[INFO] Hapd Serial = KA0859; chip = B; gain = 138200
+[INFO] Hapd Serial = KA0859; chip = C; gain = 109100
+[INFO] Hapd Serial = KA0859; chip = D; gain = 133000
+[INFO] Sextant = 3, ring = 6, column = 4
+[INFO] module ID = 298, feb = 386, hapd = KA0531
+[INFO] Hapd Serial = KA0531; HV = -8500; qe400 = 34.1
+[INFO] Hapd Serial = KA0531; chip = A; gain = 118500
+[INFO] Hapd Serial = KA0531; chip = B; gain = 112300
+[INFO] Hapd Serial = KA0531; chip = C; gain = 117800
+[INFO] Hapd Serial = KA0531; chip = D; gain = 100200
+[INFO] Sextant = 3, ring = 7, column = 4
+[INFO] module ID = 372, feb = 204, hapd = KA0948
+[INFO] Hapd Serial = KA0948; HV = -8500; qe400 = 36.1
+[INFO] Hapd Serial = KA0948; chip = A; gain = 140500
+[INFO] Hapd Serial = KA0948; chip = B; gain = 128800
+[INFO] Hapd Serial = KA0948; chip = C; gain = 126100
+[INFO] Hapd Serial = KA0948; chip = D; gain = 120200
+[INFO] Sextant = 3, ring = 1, column = 5
+[INFO] module ID = 19, feb = 282, hapd = ZJ5930
+[INFO] Hapd Serial = ZJ5930; HV = -8500; qe400 = 32.6
+[INFO] Hapd Serial = ZJ5930; chip = A; gain = 123500
+[INFO] Hapd Serial = ZJ5930; chip = B; gain = 170900
+[INFO] Hapd Serial = ZJ5930; chip = C; gain = 160800
+[INFO] Hapd Serial = ZJ5930; chip = D; gain = 162100
+[INFO] Sextant = 3, ring = 2, column = 5
+[INFO] module ID = 63, feb = 353, hapd = KA0801
+[INFO] Hapd Serial = KA0801; HV = -8500; qe400 = 34.6
+[INFO] Hapd Serial = KA0801; chip = A; gain = 143500
+[INFO] Hapd Serial = KA0801; chip = B; gain = 104500
+[INFO] Hapd Serial = KA0801; chip = C; gain = 108300
+[INFO] Hapd Serial = KA0801; chip = D; gain = 85800
+[INFO] Sextant = 3, ring = 3, column = 5
+[INFO] module ID = 113, feb = 326, hapd = ZJ7826
+[INFO] Hapd Serial = ZJ7826; HV = -8500; qe400 = 29.1
+[INFO] Hapd Serial = ZJ7826; chip = A; gain = 118000
+[INFO] Hapd Serial = ZJ7826; chip = B; gain = 101800
+[INFO] Hapd Serial = ZJ7826; chip = C; gain = 132800
+[INFO] Hapd Serial = ZJ7826; chip = D; gain = 110800
+[INFO] Sextant = 3, ring = 4, column = 5
+[INFO] module ID = 169, feb = 164, hapd = KA0656
+[INFO] Hapd Serial = KA0656; HV = -8500; qe400 = 32.2
+[INFO] Hapd Serial = KA0656; chip = A; gain = 94400
+[INFO] Hapd Serial = KA0656; chip = B; gain = 92200
+[INFO] Hapd Serial = KA0656; chip = C; gain = 93200
+[INFO] Hapd Serial = KA0656; chip = D; gain = 95500
+[INFO] Sextant = 3, ring = 5, column = 5
+[INFO] module ID = 231, feb = 459, hapd = KA0695
+[INFO] Hapd Serial = KA0695; HV = -8500; qe400 = 34.2
+[INFO] Hapd Serial = KA0695; chip = A; gain = 149900
+[INFO] Hapd Serial = KA0695; chip = B; gain = 131100
+[INFO] Hapd Serial = KA0695; chip = C; gain = 144700
+[INFO] Hapd Serial = KA0695; chip = D; gain = 150300
+[INFO] Sextant = 3, ring = 6, column = 5
+[INFO] module ID = 299, feb = 172, hapd = KA0555
+[INFO] Hapd Serial = KA0555; HV = -8500; qe400 = 34.3
+[INFO] Hapd Serial = KA0555; chip = A; gain = 141000
+[INFO] Hapd Serial = KA0555; chip = B; gain = 133300
+[INFO] Hapd Serial = KA0555; chip = C; gain = 134000
+[INFO] Hapd Serial = KA0555; chip = D; gain = 106100
+[INFO] Sextant = 3, ring = 7, column = 5
+[INFO] module ID = 373, feb = 448, hapd = KA0720
+[INFO] Hapd Serial = KA0720; HV = -8500; qe400 = 36.4
+[INFO] Hapd Serial = KA0720; chip = A; gain = 143400
+[INFO] Hapd Serial = KA0720; chip = B; gain = 98000
+[INFO] Hapd Serial = KA0720; chip = C; gain = 113700
+[INFO] Hapd Serial = KA0720; chip = D; gain = 83400
+[INFO] Sextant = 3, ring = 1, column = 6
+[INFO] module ID = 20, feb = 113, hapd = KA0357
+[INFO] Hapd Serial = KA0357; HV = -8500; qe400 = 27.2
+[INFO] Hapd Serial = KA0357; chip = A; gain = 149700
+[INFO] Hapd Serial = KA0357; chip = B; gain = 130500
+[INFO] Hapd Serial = KA0357; chip = C; gain = 162600
+[INFO] Hapd Serial = KA0357; chip = D; gain = 136700
+[INFO] Sextant = 3, ring = 2, column = 6
+[INFO] module ID = 64, feb = 180, hapd = ZJ7702
+[INFO] Hapd Serial = ZJ7702; HV = -8500; qe400 = 33.9
+[INFO] Hapd Serial = ZJ7702; chip = A; gain = 127300
+[INFO] Hapd Serial = ZJ7702; chip = B; gain = 126100
+[INFO] Hapd Serial = ZJ7702; chip = C; gain = 98300
+[INFO] Hapd Serial = ZJ7702; chip = D; gain = 142800
+[INFO] Sextant = 3, ring = 3, column = 6
+[INFO] module ID = 114, feb = 311, hapd = ZJ7701
+[INFO] Hapd Serial = ZJ7701; HV = -8500; qe400 = 29.9
+[INFO] Hapd Serial = ZJ7701; chip = A; gain = 139500
+[INFO] Hapd Serial = ZJ7701; chip = B; gain = 117400
+[INFO] Hapd Serial = ZJ7701; chip = C; gain = 144400
+[INFO] Hapd Serial = ZJ7701; chip = D; gain = 132200
+[INFO] Sextant = 3, ring = 4, column = 6
+[INFO] module ID = 170, feb = 70, hapd = KA0279
+[INFO] Hapd Serial = KA0279; HV = -8500; qe400 = 33
+[INFO] Hapd Serial = KA0279; chip = A; gain = 142600
+[INFO] Hapd Serial = KA0279; chip = B; gain = 161500
+[INFO] Hapd Serial = KA0279; chip = C; gain = 140600
+[INFO] Hapd Serial = KA0279; chip = D; gain = 141800
+[INFO] Sextant = 3, ring = 5, column = 6
+[INFO] module ID = 232, feb = 300, hapd = KA1100
+[INFO] Hapd Serial = KA1100; HV = -8500; qe400 = 33.8
+[INFO] Hapd Serial = KA1100; chip = A; gain = 139000
+[INFO] Hapd Serial = KA1100; chip = B; gain = 157600
+[INFO] Hapd Serial = KA1100; chip = C; gain = 120700
+[INFO] Hapd Serial = KA1100; chip = D; gain = 120100
+[INFO] Sextant = 3, ring = 6, column = 6
+[INFO] module ID = 300, feb = 278, hapd = KA0507
+[INFO] Hapd Serial = KA0507; HV = -8500; qe400 = 34
+[INFO] Hapd Serial = KA0507; chip = A; gain = 120000
+[INFO] Hapd Serial = KA0507; chip = B; gain = 145700
+[INFO] Hapd Serial = KA0507; chip = C; gain = 135700
+[INFO] Hapd Serial = KA0507; chip = D; gain = 94700
+[INFO] Sextant = 3, ring = 7, column = 6
+[INFO] module ID = 374, feb = 290, hapd = ZJ5933
+[INFO] Hapd Serial = ZJ5933; HV = -8500; qe400 = 28.5
+[INFO] Hapd Serial = ZJ5933; chip = A; gain = 146600
+[INFO] Hapd Serial = ZJ5933; chip = B; gain = 166200
+[INFO] Hapd Serial = ZJ5933; chip = C; gain = 148300
+[INFO] Hapd Serial = ZJ5933; chip = D; gain = 141700
+[INFO] Sextant = 3, ring = 7, column = 13
+[INFO] module ID = 381, feb = 62, hapd = KA0399
+[INFO] Hapd Serial = KA0399; HV = -8500; qe400 = 28.6
+[INFO] Hapd Serial = KA0399; chip = A; gain = 146700
+[INFO] Hapd Serial = KA0399; chip = B; gain = 139500
+[INFO] Hapd Serial = KA0399; chip = C; gain = 131800
+[INFO] Hapd Serial = KA0399; chip = D; gain = 142600
+[INFO] Sextant = 3, ring = 7, column = 12
+[INFO] module ID = 380, feb = 65, hapd = KA0677
+[INFO] Hapd Serial = KA0677; HV = -8500; qe400 = 32.5
+[INFO] Hapd Serial = KA0677; chip = A; gain = 100700
+[INFO] Hapd Serial = KA0677; chip = B; gain = 86100
+[INFO] Hapd Serial = KA0677; chip = C; gain = 102700
+[INFO] Hapd Serial = KA0677; chip = D; gain = 91000
+[INFO] Sextant = 3, ring = 6, column = 12
+[INFO] module ID = 306, feb = 256, hapd = KA0658
+[INFO] Hapd Serial = KA0658; HV = -8500; qe400 = 30.4
+[INFO] Hapd Serial = KA0658; chip = A; gain = 110500
+[INFO] Hapd Serial = KA0658; chip = B; gain = 90000
+[INFO] Hapd Serial = KA0658; chip = C; gain = 123000
+[INFO] Hapd Serial = KA0658; chip = D; gain = 128400
+[INFO] Sextant = 3, ring = 7, column = 11
+[INFO] module ID = 379, feb = 298, hapd = ZJ5919
+[INFO] Hapd Serial = ZJ5919; HV = -8500; qe400 = 34.7
+[INFO] Hapd Serial = ZJ5919; chip = A; gain = 132900
+[INFO] Hapd Serial = ZJ5919; chip = B; gain = 140100
+[INFO] Hapd Serial = ZJ5919; chip = C; gain = 152000
+[INFO] Hapd Serial = ZJ5919; chip = D; gain = 122000
+[INFO] Sextant = 3, ring = 6, column = 11
+[INFO] module ID = 305, feb = 239, hapd = KA0745
+[INFO] Hapd Serial = KA0745; HV = -8500; qe400 = 30.7
+[INFO] Hapd Serial = KA0745; chip = A; gain = 112300
+[INFO] Hapd Serial = KA0745; chip = B; gain = 104900
+[INFO] Hapd Serial = KA0745; chip = C; gain = 126400
+[INFO] Hapd Serial = KA0745; chip = D; gain = 132500
+[INFO] Sextant = 3, ring = 5, column = 11
+[INFO] module ID = 237, feb = 233, hapd = KA0757
+[INFO] Hapd Serial = KA0757; HV = -8500; qe400 = 34.6
+[INFO] Hapd Serial = KA0757; chip = A; gain = 122700
+[INFO] Hapd Serial = KA0757; chip = B; gain = 129400
+[INFO] Hapd Serial = KA0757; chip = C; gain = 154400
+[INFO] Hapd Serial = KA0757; chip = D; gain = 135400
+[INFO] Sextant = 3, ring = 7, column = 10
+[INFO] module ID = 378, feb = 167, hapd = KA0537
+[INFO] Hapd Serial = KA0537; HV = -8500; qe400 = 32.4
+[INFO] Hapd Serial = KA0537; chip = A; gain = 117600
+[INFO] Hapd Serial = KA0537; chip = B; gain = 160500
+[INFO] Hapd Serial = KA0537; chip = C; gain = 164800
+[INFO] Hapd Serial = KA0537; chip = D; gain = 134700
+[INFO] Sextant = 3, ring = 6, column = 10
+[INFO] module ID = 304, feb = 220, hapd = KA0526
+[INFO] Hapd Serial = KA0526; HV = -8500; qe400 = 36.4
+[INFO] Hapd Serial = KA0526; chip = A; gain = 122700
+[INFO] Hapd Serial = KA0526; chip = B; gain = 114500
+[INFO] Hapd Serial = KA0526; chip = C; gain = 124900
+[INFO] Hapd Serial = KA0526; chip = D; gain = 154600
+[INFO] Sextant = 3, ring = 5, column = 10
+[INFO] module ID = 236, feb = 77, hapd = KA0692
+[INFO] Hapd Serial = KA0692; HV = -8500; qe400 = 35.1
+[INFO] Hapd Serial = KA0692; chip = A; gain = 134600
+[INFO] Hapd Serial = KA0692; chip = B; gain = 92300
+[INFO] Hapd Serial = KA0692; chip = C; gain = 103800
+[INFO] Hapd Serial = KA0692; chip = D; gain = 119100
+[INFO] Sextant = 3, ring = 4, column = 10
+[INFO] module ID = 174, feb = 56, hapd = ZJ7469
+[INFO] Hapd Serial = ZJ7469; HV = -8500; qe400 = 35.8
+[INFO] Hapd Serial = ZJ7469; chip = A; gain = 128100
+[INFO] Hapd Serial = ZJ7469; chip = B; gain = 140200
+[INFO] Hapd Serial = ZJ7469; chip = C; gain = 136400
+[INFO] Hapd Serial = ZJ7469; chip = D; gain = 144300
+[INFO] Sextant = 3, ring = 7, column = 9
+[INFO] module ID = 377, feb = 198, hapd = KA0903
+[INFO] Hapd Serial = KA0903; HV = -8500; qe400 = 34.1
+[INFO] Hapd Serial = KA0903; chip = A; gain = 104200
+[INFO] Hapd Serial = KA0903; chip = B; gain = 127600
+[INFO] Hapd Serial = KA0903; chip = C; gain = 127100
+[INFO] Hapd Serial = KA0903; chip = D; gain = 143800
+[INFO] Sextant = 3, ring = 6, column = 9
+[INFO] module ID = 303, feb = 347, hapd = KA0836
+[INFO] Hapd Serial = KA0836; HV = -8500; qe400 = 30.9
+[INFO] Hapd Serial = KA0836; chip = A; gain = 137500
+[INFO] Hapd Serial = KA0836; chip = B; gain = 79300
+[INFO] Hapd Serial = KA0836; chip = C; gain = 104500
+[INFO] Hapd Serial = KA0836; chip = D; gain = 134900
+[INFO] Sextant = 3, ring = 5, column = 9
+[INFO] module ID = 235, feb = 119, hapd = ZJ7135
+[INFO] Hapd Serial = ZJ7135; HV = -8500; qe400 = 36.6
+[INFO] Hapd Serial = ZJ7135; chip = A; gain = 136800
+[INFO] Hapd Serial = ZJ7135; chip = B; gain = 137600
+[INFO] Hapd Serial = ZJ7135; chip = C; gain = 137700
+[INFO] Hapd Serial = ZJ7135; chip = D; gain = 145000
+[INFO] Sextant = 3, ring = 4, column = 9
+[INFO] module ID = 173, feb = 251, hapd = KA0775
+[INFO] Hapd Serial = KA0775; HV = -8500; qe400 = 33.3
+[INFO] Hapd Serial = KA0775; chip = A; gain = 142700
+[INFO] Hapd Serial = KA0775; chip = B; gain = 134600
+[INFO] Hapd Serial = KA0775; chip = C; gain = 130500
+[INFO] Hapd Serial = KA0775; chip = D; gain = 121100
+[INFO] Sextant = 3, ring = 3, column = 9
+[INFO] module ID = 117, feb = 432, hapd = KA0189
+[INFO] Hapd Serial = KA0189; HV = -8500; qe400 = 26.7
+[INFO] Hapd Serial = KA0189; chip = A; gain = 147200
+[INFO] Hapd Serial = KA0189; chip = B; gain = 128400
+[INFO] Hapd Serial = KA0189; chip = C; gain = 134200
+[INFO] Hapd Serial = KA0189; chip = D; gain = 119800
+[INFO] Sextant = 3, ring = 7, column = 8
+[INFO] module ID = 376, feb = 175, hapd = KA0591
+[INFO] Hapd Serial = KA0591; HV = -8500; qe400 = 30
+[INFO] Hapd Serial = KA0591; chip = A; gain = 150100
+[INFO] Hapd Serial = KA0591; chip = B; gain = 152600
+[INFO] Hapd Serial = KA0591; chip = C; gain = 105800
+[INFO] Hapd Serial = KA0591; chip = D; gain = 142200
+[INFO] Sextant = 3, ring = 6, column = 8
+[INFO] module ID = 302, feb = 34, hapd = KA0472
+[INFO] Hapd Serial = KA0472; HV = -8500; qe400 = 30.4
+[INFO] Hapd Serial = KA0472; chip = A; gain = 105000
+[INFO] Hapd Serial = KA0472; chip = B; gain = 115700
+[INFO] Hapd Serial = KA0472; chip = C; gain = 118000
+[INFO] Hapd Serial = KA0472; chip = D; gain = 139100
+[INFO] Sextant = 3, ring = 5, column = 8
+[INFO] module ID = 234, feb = 213, hapd = KA0760
+[INFO] Hapd Serial = KA0760; HV = -8500; qe400 = 34.3
+[INFO] Hapd Serial = KA0760; chip = A; gain = 124000
+[INFO] Hapd Serial = KA0760; chip = B; gain = 132200
+[INFO] Hapd Serial = KA0760; chip = C; gain = 143400
+[INFO] Hapd Serial = KA0760; chip = D; gain = 138200
+[INFO] Sextant = 3, ring = 4, column = 8
+[INFO] module ID = 172, feb = 334, hapd = KA0821
+[INFO] Hapd Serial = KA0821; HV = -8500; qe400 = 35.3
+[INFO] Hapd Serial = KA0821; chip = A; gain = 151900
+[INFO] Hapd Serial = KA0821; chip = B; gain = 157500
+[INFO] Hapd Serial = KA0821; chip = C; gain = 117600
+[INFO] Hapd Serial = KA0821; chip = D; gain = 150300
+[INFO] Sextant = 3, ring = 3, column = 8
+[INFO] module ID = 116, feb = 388, hapd = KA1013
+[INFO] Hapd Serial = KA1013; HV = -8500; qe400 = 31.9
+[INFO] Hapd Serial = KA1013; chip = A; gain = 151700
+[INFO] Hapd Serial = KA1013; chip = B; gain = 138300
+[INFO] Hapd Serial = KA1013; chip = C; gain = 138300
+[INFO] Hapd Serial = KA1013; chip = D; gain = 132400
+[INFO] Sextant = 3, ring = 2, column = 8
+[INFO] module ID = 66, feb = 305, hapd = ZJ7467
+[INFO] Hapd Serial = ZJ7467; HV = -8500; qe400 = 35.9
+[INFO] Hapd Serial = ZJ7467; chip = A; gain = 139800
+[INFO] Hapd Serial = ZJ7467; chip = B; gain = 124100
+[INFO] Hapd Serial = ZJ7467; chip = C; gain = 140700
+[INFO] Hapd Serial = ZJ7467; chip = D; gain = 106300
+[INFO] Sextant = 3, ring = 7, column = 7
+[INFO] module ID = 375, feb = 240, hapd = KA0611
+[INFO] Hapd Serial = KA0611; HV = -8500; qe400 = 31.4
+[INFO] Hapd Serial = KA0611; chip = A; gain = 118100
+[INFO] Hapd Serial = KA0611; chip = B; gain = 129500
+[INFO] Hapd Serial = KA0611; chip = C; gain = 119400
+[INFO] Hapd Serial = KA0611; chip = D; gain = 110800
+[INFO] Sextant = 3, ring = 6, column = 7
+[INFO] module ID = 301, feb = 284, hapd = ZJ6722
+[INFO] Hapd Serial = ZJ6722; HV = -8500; qe400 = 32.7
+[INFO] Hapd Serial = ZJ6722; chip = A; gain = 106400
+[INFO] Hapd Serial = ZJ6722; chip = B; gain = 143200
+[INFO] Hapd Serial = ZJ6722; chip = C; gain = 96300
+[INFO] Hapd Serial = ZJ6722; chip = D; gain = 144400
+[INFO] Sextant = 3, ring = 5, column = 7
+[INFO] module ID = 233, feb = 247, hapd = KA0298
+[INFO] Hapd Serial = KA0298; HV = -8500; qe400 = 34.2
+[INFO] Hapd Serial = KA0298; chip = A; gain = 150000
+[INFO] Hapd Serial = KA0298; chip = B; gain = 145300
+[INFO] Hapd Serial = KA0298; chip = C; gain = 177500
+[INFO] Hapd Serial = KA0298; chip = D; gain = 165000
+[INFO] Sextant = 3, ring = 4, column = 7
+[INFO] module ID = 171, feb = 249, hapd = KA0917
+[INFO] Hapd Serial = KA0917; HV = -8500; qe400 = 32.3
+[INFO] Hapd Serial = KA0917; chip = A; gain = 128900
+[INFO] Hapd Serial = KA0917; chip = B; gain = 107500
+[INFO] Hapd Serial = KA0917; chip = C; gain = 160400
+[INFO] Hapd Serial = KA0917; chip = D; gain = 133300
+[INFO] Sextant = 3, ring = 3, column = 7
+[INFO] module ID = 115, feb = 157, hapd = KA0873
+[INFO] Hapd Serial = KA0873; HV = -8500; qe400 = 29.8
+[INFO] Hapd Serial = KA0873; chip = A; gain = 149400
+[INFO] Hapd Serial = KA0873; chip = B; gain = 122900
+[INFO] Hapd Serial = KA0873; chip = C; gain = 115900
+[INFO] Hapd Serial = KA0873; chip = D; gain = 134200
+[INFO] Sextant = 3, ring = 2, column = 7
+[INFO] module ID = 65, feb = 352, hapd = ZJ6741
+[INFO] Hapd Serial = ZJ6741; HV = -8500; qe400 = 35
+[INFO] Hapd Serial = ZJ6741; chip = A; gain = 134000
+[INFO] Hapd Serial = ZJ6741; chip = B; gain = 125100
+[INFO] Hapd Serial = ZJ6741; chip = C; gain = 149500
+[INFO] Hapd Serial = ZJ6741; chip = D; gain = 114100
+[INFO] Sextant = 3, ring = 1, column = 7
+[INFO] module ID = 21, feb = 370, hapd = KA0862
+[INFO] Hapd Serial = KA0862; HV = -8500; qe400 = 34.3
+[INFO] Hapd Serial = KA0862; chip = A; gain = 118400
+[INFO] Hapd Serial = KA0862; chip = B; gain = 127300
+[INFO] Hapd Serial = KA0862; chip = C; gain = 173400
+[INFO] Hapd Serial = KA0862; chip = D; gain = 147900
